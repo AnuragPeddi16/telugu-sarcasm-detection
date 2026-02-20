@@ -1,0 +1,160 @@
+[
+  {
+    "input": "@USER @USER You made Joey mad slug REEEEEEEEEEEE ! ! ! <URL>",
+    "utterance": "@USER @USER నువ్వు జోయిని కోపం తెప్పించావు రా, స్లగ్, REEEEEEEEEEEE ! ! ! <URL>",
+    "input context": [
+      "Ok I have definitely seen a lot of misinformation spread about the GTS in HOME so let me state this clearly for all 1 . It is free 2 . The free version is functionally identical to how it was in Gen 7 . It's not watered down , useless , or heavily nerfed in order to get you to pay .",
+      "@USER how is it free if you only get 30 pokemon at a time ? what are the odds that the trade i want to get will be asking for a pokemon in the 30free slots . this is 100 % dishonest saying GTS is free and works like before .",
+      "@USER Because the GTS is free . You're complaining about another feature being paid and saying it means the free feature is requiring payment and doesn't work as before . Now that's 100 % dishonest .",
+      "@USER the GTS is free but you can only use it on the phone app . and I really don't think the phone app will be able to trade pokemon from your save file . If you see a pokemon you want and the pokemon they are asking for a pokemon you have in swsh but not in your box of 30 . what then ?",
+      "@USER Then you transfer it , just like if you had it in Y but needed it in Sun I didn't say it was convenient . I was countering the notion that the GTS itself was watered down . It isn't ."
+    ],
+    "context": [
+      "సరే, HOME లో GTS గురించి చాలా తప్పుదారి పట్టించే సమాచారం పాకుతుండటం నేను ఖచ్చితంగా చూశాను, కాబట్టి అందరికీ స్పష్టంగా చెబుతున్నాను: 1. ఇది ఫ్రీ. 2. ఫ్రీ వెర్షన్ ఫంక్షనల్‌గా Gen 7 లో ఎలా ఉందో అలాగే ఉంటుంది. డబ్బు కట్టించడానికి దాన్ని పలుచగా, పనికిరానిదిగా, లేదా బాగా నెర్ఫ్ చేసినట్టుగా కాదు.",
+      "@USER 30 పోకెమాన్‌లే ఒకేసారి పెట్టుకోగలిగితే అది ఎలా ఫ్రీ అవుతుంది? నేను కోరుకున్న ట్రేడ్ ఆ 30 ఫ్రీ స్లాట్‌లలో ఉన్న పోకెమాన్‌నే అడిగే అవకాశమేంటీ? GTS ఫ్రీ అని, ముందు లాగానే పనిచేస్తుందని చెప్పడం 100% నిజాయితీ కాదు.",
+      "@USER ఎందుకంటే GTS ఫ్రీనే. నువ్వు మరో ఫీచర్ పేడ్ అని కంప్లైంట్ చేస్తూ, ఫ్రీ ఫీచర్‌కే డబ్బు అవసరం అని, ముందు లాగా పని చేయదని అంటున్నావు. అదే 100% అప్రామాణికం.",
+      "@USER GTS ఫ్రీనే, కానీ ఫోన్ యాప్‌లోనే వాడాలి. ఫోన్ యాప్ నీ సేవ్ ఫైల్ నుంచి పోకెమాన్‌ని ట్రేడ్ చేయగలదని నాకు నిజంగా అనిపించడం లేదు. నీవు కావాలనుకున్న పోకెమాన్ కనిపిస్తే, వాళ్లు అడిగింది నీ వద్ద SwSh లో ఉందనుకో, కానీ నీ 30 బాక్స్‌లో లేకపోతే? అప్పుడు ఏం చేస్తావు?",
+      "@USER అప్పుడు ట్రాన్స్‌ఫర్ చేస్తావు, Y లో ఉన్నదాన్ని Sun కి మార్చినట్టే. నేను ఇది సౌకర్యంగా ఉంటుందని చెప్పలేదు. GTS నే నీరసపరిచారు అన్న మాటను కౌంటర్ చేశాను. అది కాదు."
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "input": "@USER @USER Yes , and once you ’ re done apologizing ... head on over to yelp to give everything that came out of China a 5 star review . <URL>",
+    "utterance": "@USER @USER అవును, క్షమాపణలు చెప్పడం అయిపోయాక... చైనా నుంచి వచ్చిన ప్రతిదానికి 5-స్టార్ రివ్యూ ఇవ్వడానికి యెల్ప్‌కి కూడా వెళ్లిపోండి మరి. <URL>",
+    "input context": [
+      "This is beyond disappointing to see this sort of thing happening in British Columbia . We don ’ t stereotype and fear monger in the face of a health scare . We need to work together to fight the virus , not each other . Together we are so much stronger . <URL>",
+      "@USER China is also money laundering , importing illegal fentanyl , and manipulating our housing market not to mention the spying . Should we apologize for this too ?"
+    ],
+    "context": [
+      "బ్రిటిష్ కొలంబియాలో ఇలాంటి విషయం జరుగుతుండటం చూడటం చాలా నిరాశ కలిగిస్తోంది. ఆరోగ్య భయాందోళన సమయంలో మనం మూస ధారణలు చేసి భయం రెచ్చగొట్టకూడదు. వైరస్‌తో పోరాడటానికి మనం ఒకరిపై ఒకరు కాదు, కలిసి పనిచేయాలి. కలిసి ఉంటే మనం చాలా బలంగా ఉంటాం. <URL>",
+      "@USER చైనా డబ్బు శుద్ధీకరణ కూడా చేస్తోంది, అక్రమ ఫెంటానిల్ దిగుమతి చేస్తోంది, మన హౌసింగ్ మార్కెట్‌ను ప్రభావితం చేస్తోంది, గూఢచర్యం సంగతి చెప్పనే అక్కర్లేదు. దీన్నికీ మనం క్షమాపణ చెప్పాలా?"
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "input": "@USER @USER @USER You ’ re winning brother , you managed to be racist and homophobic is one tweet . #winnng",
+    "utterance": "@USER @USER @USER నువ్వే గెలుస్తున్నావు బ్రదర్, ఒక్క ట్వీట్‌లోనే జాత్యహంకారి, సమలింగద్వేషిగా మారిపోయావు. #winnng",
+    "input context": [
+      "This picture of @USER childhood says much about his behavior of today . While most of the friends he argues with today were kissing girls , Julius was dating boys . This also provides clarity on his love relationship with @USER #SONA2020 #SONADEBATE2020 <URL>",
+      "@USER @USER @USER They were no black gay ppl at that time bra it was existing in its original community of white ppl",
+      "@USER @USER @USER If we had gay black men back then we would never be the majority race in the world when black men were making babies white men were busy with sodomy ."
+    ],
+    "context": [
+      "@USER చిన్నప్పటి ఈ ఫోటో అతని ఈరోజు ప్రవర్తన గురించి చాలా చెబుతోంది. ఈరోజు అతను వాదిస్తున్న వాళ్లలో చాలా మంది అప్పట్లో అమ్మాయిలను ముద్దు పెడుతుండగా, జూలియస్ మాత్రం అబ్బాయిలతో డేటింగ్ చేసేవాడు. ఇది @USER తో అతని ప్రేమ సంబంధంపై కూడా స్పష్టత ఇస్తోంది. #SONA2020 #SONADEBATE2020 <URL>",
+      "@USER @USER @USER అప్పట్లో బ్లాక్ గే వాళ్లు లేరురా బ్రా; అది అసలు వైట్ వాళ్ల కమ్యూనిటీలోనే ఉండేది.",
+      "@USER @USER @USER అప్పట్లో గే బ్లాక్ పురుషులు ఉండి ఉంటే మనం ప్రపంచంలో మెజారిటీ జాతిగా ఉండేవాళ్లమే కాదు; బ్లాక్ పురుషులు పిల్లలు కనడంలో ఉండగా, వైట్ పురుషులు సోడమీలో బిజీగా ఉండేవారు."
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "input": "@USER @USER I'm moving to Plum Coulee . Either that , or will be investing in chamber pots and melting snow in order to launder my clothes and bathe in 🙄",
+    "utterance": "@USER @USER నేను ప్లమ్ కూలీకి మారిపోతున్నాను . లేదంటే , నా బట్టలు ఉతకడానికి, స్నానం చేయడానికి మంచు కరిగించి వాడుకోవాలంటే రాత్రిపూట పాత్రల్లోనే పెట్టుబడి పెట్టాల్సి వస్తుంది 🙄",
+    "input context": [
+      "Will the extra money actually go to improvements ? <URL>",
+      "@USER Not as long as they keep their ‘ dividend ’ — if they actually did this to divert to improvements , that would be one thing . But the real squabble is prob-federal funding for those , meaning little progress .",
+      "@USER I find water increases especially irritating . When I had a new furnace installed they added a humidifier . My house needs it in the winter but my latest water bill was $ 185 . I do two loads of laundry a week , don ’ t take long showers , rarely use my dishwasher . I can ’ t afford more .",
+      "@USER Our property taxes and water / sewer have gone up dramatically over the last five years , as has the ‘ assessment ’ of our home ( to a ridiculous level ) , meaning we ’ ll fork over more and more in coming months . It never ends .",
+      "@USER Yes . I took a closer look at my water bill . It was $ 191 but I had a small credit . Over $ 100 of my bill is the sewer charge . My house is assessed at almost $ 60,000 more than my neighbour ’ s slightly bigger but otherwise the same house . I need a second job to afford living here ."
+    ],
+    "context": [
+      "ఆ అదనపు డబ్బు నిజంగా అభివృద్ధి పనులకు వెళ్తుందా ? <URL>",
+      "@USER వాళ్లు తమ ‘ డివిడెండ్ ’ వదిలేంత వరకు కాదు — నిజంగా అభివృద్ధి కోసం మళ్లించి ఉంటే అది ఒక విషయం . కానీ అసలు గొడవ బహుశా వాటికి ఫెడరల్ నిధుల గురించే , అందుకే పురోగతి చాలా తక్కువ .",
+      "@USER నీటి చార్జీలు పెరగడం నాకు ప్రత్యేకంగా చిరాకు తెప్పిస్తోంది . నేను కొత్త ఫర్నేస్ పెట్టించుకున్నప్పుడు వాళ్లు హ్యూమిడిఫైయర్ కూడా జోడించారు . శీతాకాలంలో అది మా ఇంటికి అవసరమే కానీ నా తాజా నీటి బిల్లు $ 185 వచ్చింది . నేను వారం లో రెండు సార్లు మాత్రమే బట్టలు ఉతుకుతాను , ఎక్కువ సేపు షవర్ తీసుకోను , డిష్‌వాషర్ కూడా అరుదుగా వాడుతాను . ఇంకా ఎక్కువ భరించలేను .",
+      "@USER గత ఐదేళ్లలో మా ప్రాపర్టీ ట్యాక్స్, నీరు / సెవర్ ఛార్జీలు బాగా పెరిగిపోయాయి , అలాగే మా ఇంటి ‘ అసెస్‌మెంట్ ’ కూడా (అసలు అర్థం లేని స్థాయికి) పెరిగింది , అంటే రాబోయే నెలల్లో మేము ఇంకా ఇంకా చెల్లించాల్సిందే . ఇది ఎప్పటికీ ఆగదు .",
+      "@USER అవును . నా నీటి బిల్లు కాస్త జాగ్రత్తగా చూశాను . అది $ 191 వచ్చింది కానీ నాకు చిన్న క్రెడిట్ ఉంది . నా బిల్లో $ 100 కంటే ఎక్కువది సెవర్ ఛార్జే . నా పొరుగువారి ఇల్లు కొంచెం పెద్దదైనా మిగతావన్నీ దాదాపు ఒకేలా ఉన్నా , నా ఇంటి అసెస్‌మెంట్ దానికంటే దాదాపు $ 60,000 ఎక్కువగా ఉంది . ఇక్కడ జీవించాలంటే నాకు రెండో ఉద్యోగం అవసరం ."
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "input": "@USER @USER @USER Oh well then I'm the hereditary leader of Winnipeg and I ask you to quote me before Brian Bowman henceforth since apparently democracy doesn't matter anymore",
+    "utterance": "@USER @USER @USER అయ్యో సరే మరి, అయితే నేను విన్నిపెగ్‌కు వంశపారంపర్య నాయకుడిని, ఇకమీదట బ్రయాన్ బౌమన్‌ కన్నా ముందు నన్నే కోట్ చేయండి, ఎందుకంటే ఇప్పుడు ప్రజాస్వామ్యానికి అసలు విలువే లేదట కదా",
+    "input context": [
+      "‘ Defending their homes ’ on the front of Tuesday's @USER #wfp <URL>",
+      "@USER literally fake news . elected chiefs > hereditary chiefs . we are not ruled by kings and queens . national media isn't trusted on this issue as they only highlight one side - the paid protestors . you deserve all the scorn heaped on you",
+      "@USER @USER How does one become a \" hereditary chief \" ? I've just started hearing this term in this context . Can anyone become a tribal leader ? Is there some kind of online course we can sign up for ? Sounds like a great gig . Lots of perks .",
+      "@USER @USER Hi Christopher . Our columnist Niigaan Sinclair wrote about the difference between hereditary and elected governments last month . You can read his column here : <URL>",
+      "@USER @USER @USER It still doesn ’ t answer the question",
+      "@USER @USER @USER Oh sorry , didn't realize the question you were seeking to have answered . From the Canadian Oxford : \" hereditary : passed down from one generation to another ; descending from inheritance ; holding a position by inheritance . \""
+    ],
+    "context": [
+      "మంగళవారం @USER #wfp మొదటి పేజీలో ‘ తమ ఇళ్లను కాపాడుకుంటూ ’ <URL>",
+      "@USER అసలు ఫేక్ న్యూస్ . ఎన్నికైన చీఫ్స్ > వంశపారంపర్య చీఫ్స్ . మమ్మల్ని రాజులు రాణులు పాలించడం లేదు . ఈ విషయంలో జాతీయ మీడియాపై నమ్మకం లేదు, ఎందుకంటే వాళ్లు ఒక్క వైపు మాత్రమే చూపిస్తున్నారు - డబ్బు తీసుకున్న నిరసనకారులు . నీ మీద పడుతున్న అవమానం అంతా నీకే సరిపోతుంది",
+      "@USER @USER \" వంశపారంపర్య చీఫ్ \" ఎలా అవుతారు ? ఈ సందర్భంలో ఈ పదం ఇప్పుడే వినడం మొదలైంది . ఎవరైనా గిరిజన నాయకుడు కావచ్చా ? మనం సైన్ అప్ కావడానికి ఏమైనా ఆన్‌లైన్ కోర్స్ ఉందా ? సూపర్ గిగ్‌లా ఉంది . పర్లేదు, బోలెడు పర్క్స్ కూడా .",
+      "@USER @USER హాయ్ క్రిస్టోఫర్ . మా కాలమ్నిస్ట్ నిగాన్ సింక్లేర్ గత నెలలో వంశపారంపర్య మరియు ఎన్నికైన ప్రభుత్వాల మధ్య తేడా గురించి రాశారు . ఆయన కాలమ్ ఇక్కడ చదవచ్చు : <URL>",
+      "@USER @USER @USER ఇది ఇంకా ప్రశ్నకు సమాధానం ఇవ్వడం లేదు",
+      "@USER @USER @USER ఓహ్ సారీ , నువ్వు ఏ ప్రశ్నకు సమాధానం కోరుతున్నావో అర్థం కాలేదు . కెనడియన్ ఆక్స్‌ఫర్డ్ ప్రకారం : \" hereditary : ఒక తరం నుంచి మరో తరానికి సంక్రమించేది ; వారసత్వంగా దిగివచ్చేది ; పదవిని వారసత్వంగా పొందుతూ ఉండటం . \""
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "input": "@USER @USER Totally agree , we have had major issues since migrating to CV in October . I have just had it confirmed to me by a Tier 2 support member that there is indeed a M . S . O within the BT CV network , even BT's phones are down",
+    "utterance": "@USER @USER పూర్తిగా ఒప్పుకుంటున్నాను , అక్టోబర్‌లో CV కి మారినప్పటి నుంచి మాకు పెద్ద పెద్ద సమస్యలే వస్తున్నాయి . ఇప్పుడే Tier 2 సపోర్ట్ సభ్యుడు నాకు కన్ఫర్మ్ చేశాడు — BT CV నెట్‌వర్క్‌లో నిజంగానే M . S . O ఉంది , BT వాళ్ల ఫోన్లు కూడా డౌన్ అయ్యాయి",
+    "input context": [
+      "@USER so cloud voice has gone down again - I never got a response from you the other day either . Seriously shocking service from BT these days",
+      "@USER @USER Same problem here , C . V team not even answering the phone to report the fault .",
+      "@USER @USER slowly regretting the day I moved to cloudvoice all you get is sorry . It's costing me orders but BT don't care with their millions in profit"
+    ],
+    "context": [
+      "@USER మరి cloud voice మళ్లీ డౌన్ అయిపోయింది - ఆ రోజు నేను మెసేజ్ చేసినప్పటికీ నువ్వు ఏ రెస్పాన్స్ కూడా ఇవ్వలేదు . ఈ రోజుల్లో BT సర్వీస్ నిజంగా షాక్ ఇచ్చేంత దారుణంగా ఉంది",
+      "@USER @USER ఇక్కడ కూడా అదే సమస్య , ఫాల్ట్ రిపోర్ట్ చేయడానికి ఫోన్ చేసినా C . V టీమ్ ఫోన్ కూడా ఎత్తడం లేదు .",
+      "@USER @USER cloudvoice కి మారిన రోజు రోజుకి నెమ్మదిగా పశ్చాత్తాపపడుతున్నాను , చివరికి దొరికేది ఒక 'sorry' మాత్రమే . నా ఆర్డర్లు పోతున్నాయి కానీ కోట్ల లాభాలు చూసుకుంటున్న BT కి ఏమాత్రం పట్టడం లేదు"
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "input": "@USER @USER @USER Rolf was such a great musician and painter , right ? Mustn't let anything overshadow that . ( )",
+    "utterance": "@USER @USER @USER రోల్ఫ్ ఎంత గొప్ప సంగీతకారుడు, చిత్రకారుడు కదా , రైట్ ? అది మర్చిపోయేలా ఏదీ నీడ వేయనివ్వకూడదు కదా . ( )",
+    "input context": [
+      "Congratulations to the Queensland police for keeping an open mind and awaiting proper evidence , including the possibility that Rowan Baxter might have been “ driven too far . ” But note the misplaced outrage . How dare police deviate from the feminist script of seeking excuses ...",
+      "@USER Not since Rolf Harris has an Aussie been so unworthy of an OAM",
+      "@USER @USER You take that bout poor Rolf , he is a fine gentlemen , have you considered Rolfs point of view ?"
+    ],
+    "context": [
+      "ఓపెన్ మైండ్‌తో ఉండి, సరైన ఆధారాల కోసం వేచి చూసిన Queensland పోలీసులకు అభినందనలు — Rowan Baxter ని “చాలా దూరం నెట్టేశారు” అన్న అవకాశాన్ని కూడా పరిగణనలోకి తీసుకున్నారు . కానీ ఈ తప్పుడు ఆగ్రహం గమనించండి . సాకులు వెతికే ఫెమినిస్టు స్క్రిప్ట్‌ నుంచి పోలీసులు ఎలా తప్పుతారు చెప్పండి ...",
+      "@USER రోల్ఫ్ హారిస్ తర్వాత ఒక Aussie కి OAM కి ఇంత అర్హతలేనివాడు మరొకరు లేరు",
+      "@USER @USER అయ్యో ఆ పాపం రోల్ఫ్ గురించి అలా అనొద్దు , ఆయన ఒక గొప్ప జెంటిల్‌మన్ కదా , రోల్ఫ్ వైపు నుంచి కూడా ఒక్కసారి ఆలోచించారా ?"
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "input": "@USER @USER @USER Right , because white American citizens are perfect drivers and never cause accidents or fatalities . #givemeabreak What are your sources ? As in plural and unbiased .",
+    "utterance": "@USER @USER @USER అవునులే , ఎందుకంటే తెల్లజాతి అమెరికన్ పౌరులు అందరూ పర్ఫెక్ట్ డ్రైవర్లే కదా , వాళ్లు ఎప్పుడూ ప్రమాదాలు గానీ మరణాలు గానీ కలిగించరు కదా . #givemeabreak మీ sources ఏవి ? అంటే multiple గా , unbiased గా ఉన్నవే .",
+    "input context": [
+      "There should be consequences for sanctuary states that issue driver licenses to illegal aliens or that defy federal immigration law . My bill will cut off federal funds to lawless sanctuary jurisdictions harboring criminal aliens and terrorists . <URL>",
+      "@USER @USER Not only regular class ( c ) but also they should be consequences for states giving class A CDL and not following CFR 391.11 FMCSA wants to know what is causing more fatality's on our hwy's & destruction to our infrastructure well their it is ."
+    ],
+    "context": [
+      "అక్రమ వలసదారులకు డ్రైవింగ్ లైసెన్సులు ఇస్తున్న లేదా ఫెడరల్ ఇమ్మిగ్రేషన్ చట్టాన్ని లెక్కచేయని sanctuary states కు ఖచ్చితంగా పరిణామాలు ఉండాలి . నా బిల్లు ప్రకారం నేరస్తులైన అక్రమ వలసదారులు, టెర్రరిస్టులను ఆశ్రయిస్తున్న చట్టవిరుద్ధ sanctuary jurisdictions కు ఫెడరల్ నిధులను నిలిపివేస్తాం . <URL>",
+      "@USER @USER కేవలం regular class ( c ) మాత్రమే కాదు , class A CDL ఇస్తూ CFR 391.11 ఫాలో కాకపోయే states పైనా కూడా చర్యలు ఉండాలి . మన హైవేల్లో ఎక్కువ మరణాలు, మన infrastructure నాశనం అవ్వడానికి కారణం ఏంటో FMCSA తెలుసుకోవాలంటోంది కదా — ఇదిగో కారణం ఇదే ."
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "input": "@USER @USER Ye let her out run wild and infect 10000 more Chinese and knowing that at least 3000 will die , if not even more .",
+    "utterance": "@USER @USER అవునవునూ, ఆమెను బయటకు వదిలేసి ఇష్టం వచ్చినట్టు తిరిగి ఇంకో 10000 మంది చైనీస్‌కు అంటించనివ్వాలి, కనీసం 3000 మంది చస్తారని తెలిసినా , ఇంకా ఎక్కువైనా పరవాలేదన్నట్టు .",
+    "input context": [
+      "A woman refuses to have her temperature taken . A medic beats her . #CoronaVirus #China <URL>",
+      "@USER Disgusting i hope this world burns"
+    ],
+    "context": [
+      "ఒక మహిళ తన టెంపరేచర్ చెక్ చేయించుకోవడానికి నిరాకరించింది . ఒక మెడిక్ ఆమెను కొట్టాడు . #CoronaVirus #China <URL>",
+      "@USER అసహ్యం , ఈ ప్రపంచం కాలిపోవాలని ఉంది"
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "input": "@USER @USER @USER Yeah , well Bernie-hating opponents have accused him of being anti-semitic , so he must be a racist 😛",
+    "utterance": "@USER @USER @USER అవును మరి, బెర్నీని ద్వేషించే వాళ్లు ఆయనను యాంటీ-సెమిటిక్ అంటారని ఆరోపించారు, కాబట్టి ఆయనే రేసిస్టు అయి ఉంటాడుగా 😛",
+    "input context": [
+      "THREAD about last night's #IowaCaucuses : 1 . Bernie is the national frontrunner and there is no reason for this debacle to slow him down . 2 . Our campaign expands when it focusses on the issues that matter most to people and harnesses the loving power of #NotMeUs .",
+      "@USER I'd love if Bernie Sanders became President , but as with Jeremy Corbyn in the UK , the establishment machine , both democrat and republican , will attack him in any way they can . <URL>",
+      "@USER @USER Bernie is a significantly better candidate than Corbyn ."
+    ],
+    "context": [
+      "నిన్న రాత్రి #IowaCaucuses గురించి థ్రెడ్ : 1 . బెర్నీ జాతీయ స్థాయిలో ముందంజలో ఉన్నాడు, ఈ గందరగోళం వల్ల అతని వేగం తగ్గాల్సిన కారణం లేదు . 2 . ప్రజలకు అత్యంత ముఖ్యమైన అంశాలపై దృష్టి పెట్టి #NotMeUs యొక్క ప్రేమ శక్తిని వినియోగించినప్పుడు మా ప్రచారం ఇంకా విస్తరిస్తుంది .",
+      "@USER బెర్నీ సాండర్స్ అధ్యక్షుడైతే నాకెంతో ఇష్టం, కానీ యూకేలో జెరెమీ కార్బిన్‌కి చేసినట్టే, ఎస్టాబ్లిష్‌మెంట్ యంత్రాంగం - డెమోక్రాట్ అయినా రిపబ్లికన్ అయినా - అతనిపై వాళ్లకు చేతనైన ప్రతి విధంగానూ దాడి చేస్తారు . <URL>",
+      "@USER @USER కార్బిన్‌తో పోలిస్తే బెర్నీ చాలా మెరుగైన అభ్యర్థి ."
+    ],
+    "label": "SARCASTIC"
+  }
+]
