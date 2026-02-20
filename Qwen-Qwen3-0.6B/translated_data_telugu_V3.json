@@ -1,0 +1,89 @@
+[
+  {
+    "input": "@USER @USER You made Joey mad slug REEEEEEEEEEEE ! ! ! <URL>",
+    "label": "SARCASTIC",
+    "utterance": "@USER @USER । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । । ।",
+    "input context": [
+      "Ok I have definitely seen a lot of misinformation spread about the GTS in HOME so let me state this clearly for all 1 . It is free 2 . The free version is functionally identical to how it was in Gen 7 . It's not watered down , useless , or heavily nerfed in order to get you to pay .",
+      "@USER how is it free if you only get 30 pokemon at a time ? what are the odds that the trade i want to get will be asking for a pokemon in the 30free slots . this is 100 % dishonest saying GTS is free and works like before .",
+      "@USER Because the GTS is free . You're complaining about another feature being paid and saying it means the free feature is requiring payment and doesn't work as before . Now that's 100 % dishonest .",
+      "@USER the GTS is free but you can only use it on the phone app . and I really don't think the phone app will be able to trade pokemon from your save file . If you see a pokemon you want and the pokemon they are asking for a pokemon you have in swsh but not in your box of 30 . what then ?",
+      "@USER Then you transfer it , just like if you had it in Y but needed it in Sun I didn't say it was convenient . I was countering the notion that the GTS itself was watered down . It isn't ."
+    ],
+    "context": [
+      "అందుకు గ్రేస్ట్ స్టేట్స్ మీద సామాంశం మీద చూచిన సూచించున్నటువం మీరు గ్రేస్ట్ స్టేట్స్ మీద చూచిన సామాంశం మీద చూచిన సూచించున్నటువం మీరు గ్రేస్ట్ స్టేట్స్ మీద చూచిన",
+      "@USER, 30 Pokémon কে বেছে নিন কি? এটি কাজে সম্পর্কিত হয়ে থাকে তার সম্প্রদানের সমস্ত প্রতি স্ট্রেক্সের সমস্ত সম্প্রদানের একটি কথা করেছে। এটি সম্প্রদানের সম্প্রদানের সম্প্রদান কিনা এর একটি সমস্ত সম্প্রদানের কথা করেছে।",
+      "@USER ఈ సమ్మానం లో గ్రస్ట్స్ తోయాన్ ఎందు సమాధానం ఉంటున్నట్టు మా సమ్మానం కూడు ఉంది అవుతున్నట్టు ఈ సమ్మానం సాధించిన ప్రమాణం అవసరిస్తున్నటువారు అవుతున్నటువారు.",
+      "@USER, GTS কে বাংলা সাবার করে সবার ক্ষেত্রে বাংলাদেশে সাবার করে না করে। এবং কিন্তু এটি প্রায় সাবার করে সাবার করে সবার ক্ষেত্রে এটি কিন্তু এটি সাবার করে সাবার করে সবার ক্ষেত্রে এটি কিন্তু এটি সাবার করে সাবার করে সবার ক্ষেত্রে এটি কিন্তু এটি সাবার করে সাবা�",
+      "అయిన అంతో తింటినట్లు పోట్టు చేసిన అవుతున్నటు అయిన త్రాంపులు అయిన త్రాంపులు సంస్థాపించే విషయం చేసినటు త్రాంపులు స్థాపించే అవుతున్నటు అయిన త్రాంపులు స్థాపించే అవు"
+    ]
+  },
+  {
+    "input": "@USER @USER Yes , and once you ’ re done apologizing ... head on over to yelp to give everything that came out of China a 5 star review . <URL>",
+    "label": "SARCASTIC",
+    "utterance": "@USER @USER, అయినా అందుకు అపోషణం చేసినంత అవుతున్నాను, అయినా అపోషణం చేసినంత అవుతున్నాను అయినా అపోషణం చేసినంత అవుతున్నాను, అయినా అపోషణం చేసినంత అవుతున్నాను, అయినా అపోషణం చేసినంత అవు",
+    "input context": [
+      "This is beyond disappointing to see this sort of thing happening in British Columbia . We don ’ t stereotype and fear monger in the face of a health scare . We need to work together to fight the virus , not each other . Together we are so much stronger . <URL>",
+      "@USER China is also money laundering , importing illegal fentanyl , and manipulating our housing market not to mention the spying . Should we apologize for this too ?"
+    ],
+    "context": [
+      "ఈ కార్యక్రమం కార్యక్రమం కార్యక్రమం కార్యక్రమం కార్యక్రమం కార్యక్రమం కార్యక్రమం కార్యక్రమం కార్యక్రమం కార్యక్రమం కార్యక్రమం కార్యక్రమం కార్యక్రమం",
+      "స్టాంటా సామియా లెక్టర్ అయినందు అంటూ ప్రసిద్ధి చేపటు వ్యాసాలు చేస్తున్నాయి. అందుకు ఈ అభిమ్మ ప్రసిద్ధి కార్యక్రమాలను ప్రతిపాదించాలే అయినందు అంటూ కేంద్రమార్చుకున్నా"
+    ]
+  },
+  {
+    "input": "@USER @USER @USER You ’ re winning brother , you managed to be racist and homophobic is one tweet . #winnng",
+    "label": "SARCASTIC",
+    "utterance": "@USER @USER @USER  క్యాస్ క్షిమ్మించే తెమ్మిన క్షిమ్మించే స్టేట్మేట్ #winnng",
+    "input context": [
+      "This picture of @USER childhood says much about his behavior of today . While most of the friends he argues with today were kissing girls , Julius was dating boys . This also provides clarity on his love relationship with @USER #SONA2020 #SONADEBATE2020 <URL>",
+      "@USER @USER @USER They were no black gay ppl at that time bra it was existing in its original community of white ppl",
+      "@USER @USER @USER If we had gay black men back then we would never be the majority race in the world when black men were making babies white men were busy with sodomy ."
+    ],
+    "context": [
+      "ఈ కింది సూచించిన స్వామ్యం తెలంగా తినియు సైన్స్మాన్ అయిన ప్రాంక్స్ కేంద్రము ఆ ప్రసిద్ధి కేంద్రము ఆంధ్రభూమి ప్రక్రియ కార్యం కూడా చేయించున్నది. అయిన సమయంలో స్థిరం కార్య",
+      "@USER @USER @USER  అందుకు సూర్యాచురు ప్లస్టేట్ సంస్థాపించిన కార్యక్రములు త్రామ్ అంటులో ఉన్నట్టు సంస్థాపించిన ప్రాముచ్యులు",
+      "@USER @USER @USER యెందుకు కొన్నటు సూచించి అయినటు అయినటు సూచించినటు కొన్నటు అయినటు కొన్నటు సూచించినటు కొన్నటు సూచించినటు"
+    ]
+  },
+  {
+    "input": "@USER @USER I'm moving to Plum Coulee . Either that , or will be investing in chamber pots and melting snow in order to launder my clothes and bathe in 🙄",
+    "label": "SARCASTIC",
+    "utterance": "అందుకు ప్లూమ కూలిలో ప్రాసిద్యా చేయుకూలం చేస్తున్నాను. అచ్చిన అందరిక్ష అందరిక్ష కార్యక్రమాలు చేస్తున్నాను, అయినట్లు ప్రాశి కార్యక్రమాలు చేస్తున్నాను, అయినట్లు ప్రాశి కార",
+    "input context": [
+      "Will the extra money actually go to improvements ? <URL>",
+      "@USER Not as long as they keep their ‘ dividend ’ — if they actually did this to divert to improvements , that would be one thing . But the real squabble is prob-federal funding for those , meaning little progress .",
+      "@USER I find water increases especially irritating . When I had a new furnace installed they added a humidifier . My house needs it in the winter but my latest water bill was $ 185 . I do two loads of laundry a week , don ’ t take long showers , rarely use my dishwasher . I can ’ t afford more .",
+      "@USER Our property taxes and water / sewer have gone up dramatically over the last five years , as has the ‘ assessment ’ of our home ( to a ridiculous level ) , meaning we ’ ll fork over more and more in coming months . It never ends .",
+      "@USER Yes . I took a closer look at my water bill . It was $ 191 but I had a small credit . Over $ 100 of my bill is the sewer charge . My house is assessed at almost $ 60,000 more than my neighbour ’ s slightly bigger but otherwise the same house . I need a second job to afford living here ."
+    ],
+    "context": [
+      "అందుకు అందుకు అందుకు ప్రాము అందుకు అందుకు మేము ప్రాము అందుకు అందుకు ప్రాము అందుకు అందుకు మేము అందుకు అందుకు అందుకు అందుకు అందుకు",
+      "అప్పు మాట్లపు సూచించే మాటులో అవసరిస్తున్నట్టు అవసరిస్తున్నట్టు అవసరిస్తున్నట్టు అవసరిస్తున్నట్టు అవసరిస్తున్నట్టు అవసరిస్తున్నట్టు అవసరిస్తున్నట్టు.",
+      "@USER, త్రులు అందించాల్సు తొక్కుతున్న సూర్యాన్ని సులంబించి కారణం ప్రమాణం కూడా ఆధునికం కాదు. ఆప్యుస్త్రి అండు సూర్యాన్ని అందించి తొక్కుతున్నాను. ఆ తేము ప్రోయు సాధించినటు త్",
+      "అందుకు ప్రామాణములు అందుకున్నా అయిన తాము విధికి కొన్నారు అయిన తెలంగాది తెలంగాది అందుకున్నారు. అయిన తెలంగాది కార్యాయిక ప్రామాణము అయిన అయిన తెలంగాది తెలంగాది కొన్నారు.",
+      "స్పోట్ ప్లాట్ స్పెట్ లేదా, కొన్ని స్పెట్ స్పెట్ లేదా, ఇంటిన్ మీ స్పెట్ మీద కొన్ని స్పెట్ స్పెట్ లేదా, కొన్ని స్పెట్ స్పెట్ లేదా, మీ స్పెట్ స్పెట్ లేదా, కొన్ని స్పె�"
+    ]
+  },
+  {
+    "input": "@USER @USER @USER Oh well then I'm the hereditary leader of Winnipeg and I ask you to quote me before Brian Bowman henceforth since apparently democracy doesn't matter anymore",
+    "label": "SARCASTIC",
+    "utterance": "@USER @USER @USER ఈ ద్వారా ఇంటికెంతో ప్రసిద్ధమైన ముందుకొచ్చున్నట్టు తెలుగు స్థానిక ప్రసిద్ధమైన ముందుకొచ్చున్నట్టు తెలుగు స్థానిక ప్రసిద్ధమైన ముందుకొచ్చున్నట్టు తెలుగు స్థానిక ప�",
+    "input context": [
+      "‘ Defending their homes ’ on the front of Tuesday's @USER #wfp <URL>",
+      "@USER literally fake news . elected chiefs > hereditary chiefs . we are not ruled by kings and queens . national media isn't trusted on this issue as they only highlight one side - the paid protestors . you deserve all the scorn heaped on you",
+      "@USER @USER How does one become a \" hereditary chief \" ? I've just started hearing this term in this context . Can anyone become a tribal leader ? Is there some kind of online course we can sign up for ? Sounds like a great gig . Lots of perks .",
+      "@USER @USER Hi Christopher . Our columnist Niigaan Sinclair wrote about the difference between hereditary and elected governments last month . You can read his column here : <URL>",
+      "@USER @USER @USER It still doesn ’ t answer the question",
+      "@USER @USER @USER Oh sorry , didn't realize the question you were seeking to have answered . From the Canadian Oxford : \" hereditary : passed down from one generation to another ; descending from inheritance ; holding a position by inheritance . \""
+    ],
+    "context": [
+      "అందుకు తెలంగాయినందు సైద్ధానికాన్ని పొందినందుకు తెలంగాయినందు సైద్ధానికాన్ని పొందినందుకు తెలంగాయినందు సైద్ధానికాన్ని పొందినందుకు తెలంగాయినందు సైద్ధానికాన్ని పొందినందుకు త",
+      "సాధించిన స్థానిక మేధమార్య సమస్థితులు స్వామిక స్థానికులు కార్యక్రమాలలో కొన్ని ప్రకటించే స్థానిక మేధమార్య సమస్థితులు స్వామికులు అయినంత స్వామికులు అయినంత స్వామికులు. ౨",
+      "@USER @USER Հրাত్విక సూత్రాన్ సాధించారు? అయినట్టు ఈ సమృద్ధి కార్యక్రమం ప్రాశ్నించారు. ఈ సమృద్ధి కుమారు సూత్రాన్ కోసం ఉంచి వారికి సూత్రాన్ విచ్చింది. ఈ సమృద్ధి కుమారు కొత్త క్రమం",
+      "@USER @USER ນി ນീസ്റ്റ്രിൻഡിയേറ്റിന്റെ പ്രതിനിധികരിയുള്ള പ്രതിനിധികരിയുള്ള പ്രതിനിധികരിയുള്ള പ്രതിനിധികരിയുള്ള പ്രതിനിധികരിയുള്ള പ്രതിനിധികരിയുള്ള പ്രതിനിധികരിയുള്ള പ്രതിനിധികരിയുള്ള പ്രതിനിധികരിയുള്�",
+      "@USER @USER @USER  అయినా చేయు చేయు అయినా అయినా",
+      "@USER @USER @USER  స్మృతి క్రమేయ ప్రాప్తి కార్యక్రమ్ అవ్వారు మీకు చూచినది. కాంద్ మేల్ సిస్టమ్ ఎంపిట్ కార్యకర్త స్థానిక సంస్థాపక ప్రాయోగి అయినది."
+    ]
+  }
+]
