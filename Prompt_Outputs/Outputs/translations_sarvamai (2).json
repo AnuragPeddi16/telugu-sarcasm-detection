@@ -1,0 +1,58 @@
+{
+  "ModelName": "sarvamai/sarvam-translate",
+  "Prompt": "Translate the text into fluent Telugu. Do not translate word-by-word. Focus on conveying the intended meaning, tone, and emotion naturally.",
+  "OutputFilePath": "/kaggle/working/translations_sarvamai.json(2)"
+}
+[
+
+  {
+    "input": "@USER @USER You made Joey mad slug REEEEEEEEEEEE ! ! ! <URL>",
+    "utterance": "@యూజర్ @యూజర్ మీరు జోయీని కోపగించారు స్లగ్ రీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీరీ",
+    "label": "SARCASTIC",
+    "metadata": {},
+    "input context": [
+      "Ok I have definitely seen a lot of misinformation spread about the GTS in HOME so let me state this clearly for all 1 . It is free 2 . The free version is functionally identical to how it was in Gen 7 . It's not watered down , useless , or heavily nerfed in order to get you to pay .",
+      "@USER how is it free if you only get 30 pokemon at a time ? what are the odds that the trade i want to get will be asking for a pokemon in the 30free slots . this is 100 % dishonest saying GTS is free and works like before .",
+      "@USER Because the GTS is free . You're complaining about another feature being paid and saying it means the free feature is requiring payment and doesn't work as before . Now that's 100 % dishonest .",
+      "@USER the GTS is free but you can only use it on the phone app . and I really don't think the phone app will be able to trade pokemon from your save file . If you see a pokemon you want and the pokemon they are asking for a pokemon you have in swsh but not in your box of 30 . what then ?",
+      "@USER Then you transfer it , just like if you had it in Y but needed it in Sun I didn't say it was convenient . I was countering the notion that the GTS itself was watered down . It isn't ."
+    ],
+    "context": [
+      "సరే, HOMEలో GTS గురించి చాలా తప్పుడు సమాచారం వ్యాప్తి చేయబడటం నేను ఖచ్చితంగా చూశాను, కాబట్టి నేను దీన్ని అందరికీ స్పష్టంగా తెలియజేస్తాను 1. ఇది ఉచితం 2. ఉచిత వెర్షన్ Gen 7లో ఎలా ఉందో అదే విధంగా పనిచేస్తుంది. డబ్బులు వసూలు చేయడానికి ఇది నీరు కలిపినట్లుగా, పనికిరానిదిగా లేదా బాగా తగ్గించబడినట్లుగా లేదు.",
+      "@USER ఒకేసారి 30 పోకీమాన్‌లను మాత్రమే పొందితే అది ఉచితం ఎలా అవుతుంది? నేను పొందాలనుకుంటున్న ట్రేడ్‌లో 30 ఉచిత స్లాట్‌లలో ఒక పోకీమాన్ అడిగే అవకాశం ఎంత? జీటీఎస్ ఉచితమని, మునుపటిలా పనిచేస్తుందని చెప్పడం 100% అప్రామాణికం.",
+      "@USER ఎందుకంటే జీటీఎస్ ఉచితం. మీరు మరొక ఫీచర్ కోసం డబ్బులు చెల్లించాల్సి వస్తోందని ఫిర్యాదు చేస్తున్నారు, అంటే ఉచిత ఫీచర్ కోసం డబ్బులు చెల్లించాల్సి వస్తుందని, ఇది మునుపటిలా పనిచేయదని అంటున్నారు. ఇది 100% అప్రామాణికం.",
+      "@USER GTS ఉచితం, కానీ మీరు దీన్ని ఫోన్ యాప్‌లో మాత్రమే ఉపయోగించగలరు. మరియు మీ సేవ్ ఫైల్ నుండి పోకీమాన్‌లను ట్రేడ్ చేయడానికి ఫోన్ యాప్ ఉపయోగపడుతుందని నేను అనుకోను. మీకు కావలసిన పోకీమాన్ కనిపిస్తే, వారు మిమ్మల్ని SWSHలో ఉన్న పోకీమాన్ కోసం అడుగుతుంటే, అది మీ 30 పోకీమాన్ల పెట్టెలో లేకపోతే అప్పుడు పరిస్థితి ఏమిటి?",
+      "@USER అప్పుడు మీరు దానిని బదిలీ చేస్తారు, మీరు దానిని వైలో కలిగి ఉండి సన్‌లో అవసరమైతే, నేను అది సౌకర్యవంతమైనది అని చెప్పలేదు. జిటిఎస్ స్వయంగా నీరు పోయబడిందని నేను భావనను ఎదుర్కొంటున్నాను. అది కాదు."
+    ]
+  },
+  {
+    "input": "@USER @USER Yes , and once you ’ re done apologizing ... head on over to yelp to give everything that came out of China a 5 star review . <URL>",
+    "utterance": "@USER @USER అవును, మీరు క్షమాపణ చెప్పడం పూర్తయిన తర్వాత... చైనా నుండి వచ్చిన ప్రతిదానికి 5 స్టార్ రివ్యూ ఇవ్వడానికి యెల్ప్‌కి వెళ్లండి. <URL>",
+    "label": "SARCASTIC",
+    "metadata": {},
+    "input context": [
+      "This is beyond disappointing to see this sort of thing happening in British Columbia . We don ’ t stereotype and fear monger in the face of a health scare . We need to work together to fight the virus , not each other . Together we are so much stronger . <URL>",
+      "@USER China is also money laundering , importing illegal fentanyl , and manipulating our housing market not to mention the spying . Should we apologize for this too ?"
+    ],
+    "context": [
+      "బ్రిటిష్ కొలంబియాలో ఇలాంటివి జరగడం చూడటం చాలా నిరాశ కలిగించింది. ఆరోగ్య భయాన్ని ఎదుర్కొనేటప్పుడు మనం మూస పద్ధతిలో ఆలోచించకూడదు, భయపడకూడదు. వైరస్‌తో పోరాడటానికి మనం కలిసి పనిచేయాలి, ఒకరినొకరు కాదు. కలిసి ఉంటే మనం చాలా బలంగా ఉంటాం. <URL>",
+      "@యూజర్ చైనా కూడా మనీలాండరింగ్ చేస్తోంది, చట్టవిరుద్ధమైన ఫెంటానిల్‌ను దిగుమతి చేస్తోంది, గూఢచర్యం గురించి చెప్పనక్కర్లేదు, మన గృహ మార్కెట్‌ను తారుమారు చేస్తోంది. దీనికి కూడా మనం క్షమాపణ చెప్పాలా?"
+    ]
+  },
+  {
+    "input": "@USER @USER @USER You ’ re winning brother , you managed to be racist and homophobic is one tweet . #winnng",
+    "utterance": "@USER @USER @USER నువ్వు గెలుస్తున్నావ్ సోదరా, నువ్వు ఒకే ఒక్క ట్వీట్‌లో జాత్యహంకారిగా, స్వలింగ సంపర్కులను ద్వేషించే వ్యక్తిగా ఉండగలిగావు. #విన్నింగ్",
+    "label": "SARCASTIC",
+    "metadata": {},
+    "input context": [
+      "This picture of @USER childhood says much about his behavior of today . While most of the friends he argues with today were kissing girls , Julius was dating boys . This also provides clarity on his love relationship with @USER #SONA2020 #SONADEBATE2020 <URL>",
+      "@USER @USER @USER They were no black gay ppl at that time bra it was existing in its original community of white ppl",
+      "@USER @USER @USER If we had gay black men back then we would never be the majority race in the world when black men were making babies white men were busy with sodomy ."
+    ],
+    "context": [
+      "@USER చిన్ననాటి ఈ చిత్రం అతని నేటి ప్రవర్తన గురించి చాలా చెబుతుంది. అతను ఈ రోజు వాదించే చాలా మంది స్నేహితులు అమ్మాయిలను ముద్దు పెట్టుకుంటుంటే, జూలియస్ అబ్బాయిలతో డేటింగ్ చేస్తున్నాడు. ఇది @USER #SONA2020 #SONADEBATE2020 తో అతని ప్రేమ సంబంధం గురించి కూడా స్పష్టతనిస్తుంది <URL>",
+      "@USER @USER @USER వారు ఆ సమయంలో నల్లజాతి స్వలింగ సంపర్కులు కాదు, కానీ అది దాని అసలు తెల్లజాతి ప్రజల సమాజంలో ఉనికిలో ఉంది.",
+      "@USER @USER @USER అప్పట్లో మనకు స్వలింగ సంపర్కులైన నల్లజాతి పురుషులు ఉండి ఉంటే, నల్లజాతి పురుషులు పిల్లల్ని కంటున్నప్పుడు, తెల్లజాతి పురుషులు స్వలింగ సంపర్కంతో బిజీగా ఉన్నప్పుడు, మనం ప్రపంచంలో ఎప్పటికీ మెజారిటీ జాతిగా ఉండేవాళ్ళం కాదు."
+    ]
+  }
+]
