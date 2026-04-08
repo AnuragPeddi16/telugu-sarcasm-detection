@@ -14,7 +14,7 @@ print("Model loaded successfully!")
 def translate_text(text, target_lang="Telugu"):
     """Translate a single text to target language"""
     messages = [
-        {"role": "system", "content": f"Translate the text below to {target_lang}."},
+        {"role": "system", "content": f"Translate whole sentence into {target_lang} preserve its meaning not just translating each word literally."},
         {"role": "user", "content": text}
     ]
     
@@ -75,8 +75,8 @@ for item in tqdm(data):
     output_data.append(output_item)
 
 # Save output
-print("Saving results to translations_sarvamai.json...")
-with open('/ssd_scratch/phani_ssd/model_out/translations_sarvamai.json', 'w', encoding='utf-8') as f:
+print("Saving results to translations_sarvam_v1.json...")
+with open('Prompt_Outputs/Outputs/translations_sarvam_v1.json', 'w', encoding='utf-8') as f:
     json.dump(output_data, f, ensure_ascii=False, indent=2)
 
 print("Translation complete!")
