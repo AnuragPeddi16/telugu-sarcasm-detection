@@ -1,0 +1,157 @@
+model : gemini thinking  i-->>> do error sectoring categorising and add new errors add new error analysis
+
+future and wrap up works audio has more use 1000. good progresss 
+
+dataset :https://github.com/PhaniPendela/BTP-Sarcasm-Detection/blob/master/Sarvam-Translate/sampled_data1.json
+	  12th to 40th utterences
+
+1. text : @USER @USER @USER So , because he can jump from the top of a freeway bridge , we should make it easier for him . Makes perfect sense .
+    translated text : @USER @USER @USER అంటే, వాడు ఎలాగో ఫ్రీవే బ్రిడ్జ్ పైనుండి దూకేస్తాడు కదా, అందుకే మనం దాన్ని వాడికి ఇంకా ఈజీ చేసేయాలన్నమాట. భలే లాజిక్ అబ్బా, అస్సలు తిరుగులేదు!
+    rating: 4.5/5
+    comments: it is translating and adding extra to make it more conversational and to retain sarcasm...
+2. text : @USER You forgot the tag - otherwise Tron followers won't get it 😉
+    translated text : @USER నువ్వు ట్యాగ్ చేయడం మర్చిపోయావు - లేకపోతే ఆ Tron ఫాలోవర్లకి అస్సలు అర్థం కాదు కదా 😉
+    rating: 5/5
+    comments: The translation maintains the teasing, informal tone. Adding "కదా" at the end helps land the sarcastic "otherwise they won't get it" nuance.
+
+3. text : @USER @USER @USER Matt would never misquote or take something out of context .
+    translated text : @USER @USER @USER అబ్బే, మన మ్యాట్ ఎప్పుడూ మాటలు మార్చడు, అసలు ఏ విషయాన్ని సందర్భం లేకుండా తీసుకోడులే!
+    rating: 5/5
+    comments: Used "అబ్బే" and the ending "లే" to emphasize the sarcasm. In Telugu, these are common ways to imply that the person actually does exactly what you're saying they "never" do.
+
+4. text : @USER @USER @USER Speeding & face timing , lol , please keep it up as this just shows complete brilliance .
+    translated text : @USER @USER @USER అతి వేగంగా వెళ్తూ ఫేస్‌టైమ్ చేయడం.. ఆహా! భలే కానివ్వండి, మీ తెలివితేటలు ఏ రేంజ్‌లో ఉన్నాయో దీనివల్లే అర్థమవుతోంది.
+    rating: 3.5/5
+    comments: దీనివల్లే - it could be దీనివల్ల. lol please keep it up - is ignored in translation / translation into  ఆహా! భలే కానివ్వండి is not suitable.
+
+5. text : @USER @USER Doesn't matter . Those guys weren't athletic enough to play in today's NBA , you know .
+    translated text : @USER @USER అదంతా ఎవరికి కావాలిలే. వాళ్ళకి ఇప్పటి NBAలో ఆడేంత సీన్ లేదు, ఆ మాత్రం అథ్లెటిక్ బాడీ కూడా లేదు వాళ్ళకి, నీకు తెలుసుగా.
+    rating: 4/5
+    comments:you know is a filler but niku telusuga wont exactly fit here
+ 
+
+6. text : @USER @USER @USER No one could figure this out . No one . #witchcraft
+    translated text : @USER @USER @USER దీన్ని ఎవరూ కనిపెట్టలేకపోయారు. అస్సలు ఎవరూ అంటే ఎవరూ. #witchcraft
+    rating: 5/5
+    comments: Maintained the repetition of "No one" for emphasis. Kept the hashtag as requested.
+
+7. text : @USER Says the guy that also said he had no intentions of being an unbiased juror .
+    translated text : @USER తను అసలు నిష్పక్షపాతంగా ఉండే ప్రసక్తే లేదని చెప్పిన వ్యక్తే ఇప్పుడు ఇలా మాట్లాడుతున్నాడు.
+    rating: 5/5
+    comments: Captured the hypocrisy of the statement. "ఇలా మాట్లాడుతున్నాడు" conveys the "Says the guy" context naturally in Telugu.
+
+8. text : @USER , right ? Otherwise I'm struggling to find this \" horrid \" .
+    translated text : @USER , అవును కదా? లేకపోతే ఇందులో అంత "ఘోరం" ఏముందో వెతుక్కోవాల్సి వస్తుంది.
+    rating: 5/5
+    comments: Used "ఘోరం" for "horrid" as it carries the same weight in a sarcastic context. "వెతుక్కోవాల్సి వస్తుంది" implies the speaker's skepticism.
+
+9. text : @USER @USER This goes for most 3d zelda titles too . The heros shade is the only Link I have observed that doesn't have these bad habits 😂 😂
+    translated text : @USER @USER చాలా వరకు 3D జెల్డా గేమ్‌ల పరిస్థితి కూడా ఇదే. నేనైతే హీరోస్ షేడ్ అనే లింక్ క్యారెక్టర్‌లో మాత్రమే ఈ చెడ్డ అలవాట్లు చూడలేదు 😂 😂
+    rating: 5/5
+    comments: Direct and conversational. Preserved the specific gaming references and the lighthearted criticism.
+
+10. text : @USER @USER @USER cheers Nick glad you're not a sheep mate and you make decisions for yourself and don't look at social media propaganda you should be proud of yourself well done well done #YNWA #Unbearables #patronising
+    translated text : @USER @USER @USER శభాష్ నిక్! నువ్వు గొర్రెవి కానందుకు, నీ నిర్ణయాలు నువ్వే తీసుకుంటూ సోషల్ మీడియా సోదిని నమ్మనందుకు చాలా సంతోషంగా ఉంది. నిన్ను చూసి నువ్వే గర్వపడాలి. భలే చేశావ్, భలే చేశావ్! #YNWA #Unbearables #patronising
+    rating: 4/5
+    comments: well done is not bhale chesav. "సోషల్ మీడియా సోది" adds to the sarcastic "propaganda" vibe.
+
+11. 
+text : @USER @USER I used VBA for excel to make the 3270 emulator do the things the actual mainframe programmers couldn't even understand . That was a decade ago , now I'm a COBOL developer
+    translated text : @USER @USER ఒక పదేళ్ల క్రితం, అసలు మెయిన్ ఫ్రేమ్ ప్రోగ్రామర్లకే అర్థం కాని పనులన్నీ నేను VBA వాడి ఎక్సెల్‌లో చేసి చూపించేవాడిని. ఇప్పుడు నేను ఒక COBOL డెవలపర్‌ని.
+    rating: 3.5/5
+    comments: missed "3270 emulator". చేసి చూపించేవాడిని -> చేసవాడిని
+
+12. text : @USER Lol dont u know women cnt exist with out a man in their lives ( before i get attacked )
+    translated text : @USER నవ్వులాటగా ఉంది, మగాడు లేకుండా ఆడవాళ్ళు అసలు ఉండలేరని నీకు తెలియదా ఏంటి? (నన్ను మళ్ళీ అందరూ కలిపి తిట్టకముందే చెబుతున్నా)
+    rating: 5/5
+    comments: lol is translated correctly to నవ్వులాటగా ఉంది
+
+
+13. text : @USER I believe that Jared Kushner was the best person to broker a peace deal in Israel and that the Palistinians don't need to be involved in the negotiations ! #IBelieve
+    translated text : @USER ఇజ్రాయిల్ శాంతి ఒప్పందానికి జారెడ్ కుష్నర్ కంటే సరైన వ్యక్తి ఇంకెవరూ ఉండరని, అసలు ఈ చర్చల్లో పాలస్తీనియన్ల అవసరమే లేదని నేను బలంగా నమ్ముతున్నాను! #IBelieve
+    rating: 5/5
+    comments: no comments
+
+14. text : @USER Being concerned about debt is just so \" uninspiring \" .
+    translated text : @USER అప్పుల గురించి ఆందోళన పడటం అనేది అసలు "ఉత్సాహం కలిగించే" విషయం కాదు.
+    rating: 5/5
+    comments: no comments
+
+15. text : When do most women who are athletes get these coaches and support ? After they are professional or elite ! What ? Why wait so long ? I mean , we need someone to help us deal with our menstrual cycle probs so what are we waiting for ? <URL>
+    translated text : అసలు మహిళా అథ్లెట్లకు కోచ్‌లు, సపోర్ట్ ఎప్పుడు దొరుకుతాయి? వాళ్లు ప్రొఫెషనల్స్ అయ్యాక! ఏంటిది? అంత కాలం ఎందుకు ఆగాలి? మన పీరియడ్స్ సమస్యల గురించి కూడా ఎవరో ఒకరు సాయం చేయాలి కదా, ఇంకెవరి కోసం వెయిటింగ్? <URL>
+    rating: 4/5
+    comments:  "ఇంకెవరి కోసం వెయిటింగ్" using inka denikosam  is better. waiting is just written in telugu without translating
+
+16. text : @USER @USER @USER And responding with recriminations and \" bullshit \" s to someone who is waking up and seeing the light is very constructive . HUGE EYEROLL .
+    translated text : @USER @USER @USER నిజం తెలుసుకొని మారుతున్న మనిషి మీద ఇలా నిందలు వేయడం, "అంతా బక్వాస్" అనడం చాలా గొప్ప విషయం. అబ్బో, భలే ఉందబ్బా! *పెద్ద ఎగతాళి*
+    rating: 4/5
+    comments: Used "భలే ఉందబ్బా" to mirror the sarcasm of "very constructive." but it is not natural  Translated "HUGE EYEROLL" into a descriptive sarcastic expression does not feel natural but good substitute.
+
+17. text : @USER Funny how you actually put that out there “ IF I ’ m going down . ” 🤔 Methinks you might be a bit panicked . #PanicInDC
+    translated text : @USER "నేను ఒకవేళ మునిగిపోతే" అని నువ్వు చెప్పడం భలే కామెడీగా ఉంది. 🤔 నాకు తెలిసి నువ్వు కొంచెం కంగారు పడుతున్నట్టు ఉన్నావు. #PanicInDC
+    rating: 5/5
+    comments: "భలే కామెడీగా ఉంది" (it's quite a comedy) is a perfect native substitute for "Funny how..." when being sarcastic.
+
+18. text : @USER @USER \" Irradiance increases particle energy not trace gases . \" Nobel prize material .
+    translated text : @USER @USER "ఇర్రాడియెన్స్ వల్ల కణాల శక్తి పెరుగుతుంది కానీ వాయువులు కాదు." అబ్బో! దీనికి నోబెల్ ప్రైజ్ ఇచ్చేయాలి మరి.
+    rating: 5/5 {check the context.}
+    comments: "ఇచ్చేయాలి మరి" (should definitely give) adds that classic Telugu sarcastic sting to the "Nobel prize material" comment.
+
+19. text : @USER Buongiorno ! Gotta dress warm and make a stop at Tim's . It's a bit chilly today . #ItsAlotABitChilly lol
+    translated text : @USER బొంజియోర్నో! వెచ్చని బట్టలు వేసుకుని ఒకసారి టిమ్స్ (Tim's) దగ్గర ఆగాలి. ఈరోజు కొంచెం చలిగా ఉంది. #ItsAlotABitChilly lol
+    rating: 5/5
+    comments: no comments
+20. text : @USER @USER @USER started with the same reaction #duh and is also like ' the god ' , to each his own
+    translated text : @USER @USER @USER అదే రియాక్షన్ తో మొదలుపెట్టాను #duh.. మళ్ళీ ఆయనే 'దేవుడు' అన్నట్టు బిల్డప్, ఎవరి పిచ్చి వారికి ఆనందం.
+    rating: 5/5
+    comments: Used "ఎవరి పిచ్చి వారికి ఆనందం" which is the exact native idiom for "to each his own," often used sarcastically.
+
+21. text : @USER because I often forget this is the internet and there are people out there that are literally batshit insane enough to actually think this way .
+    translated text : @USER ఎందుకంటే ఇది ఇంటర్నెట్ అని, ఇక్కడ ఇలా పిచ్చి పరాకాష్టలో ఆలోచించే వాళ్లు కూడా ఉంటారని నేను అప్పుడప్పుడు మర్చిపోతుంటాను.
+    rating: 5/5
+    comments: "పిచ్చి పరాకాష్ట" (peak of madness) effectively captures the intensity of "batshit insane" in a natural way.
+
+22. text : @USER @USER @USER It's such a good thing our PM is such a man of the people then .
+    translated text : @USER @USER @USER మన పీఎం గారు అంతలా ప్రజల మనిషి కావడం మన అదృష్టం అన్నమాట. 
+    rating: 5/5
+    comments: Used "అదృష్టం అన్నమాట" (it’s our luck, then) to perfectly mirror the sarcasm about the PM being a "man of the people."
+
+23. text : @USER Yeah gifting roses is so cringe for sure ! !
+    translated text : @USER అవును మరి, ఈ గులాబీలు గిఫ్ట్‌గా ఇవ్వడం అనేది అస్సలు భరించలేం, చాలా దరిద్రంగా ఉంటుంది! !
+    rating: 5/5
+    comments: "దరిద్రంగా ఉంటుంది" is a natural, native way to express the sentiment of "cringe." "అవును మరి" sets the sarcastic tone right at the start.
+
+24. text : @USER @USER Because diesel and Turkey obviously .. do keep up .
+    translated text : @USER @USER ఎందుకంటే డీజిల్ ఇంకా టర్కీ కాబట్టి.. కనీసం ఇదైనా తెలుసుకో మరి.
+    rating: 4/5
+    comments: "తెలుసుకో మరి" captures the condescending "do keep up" tone effectively in a native conversational style.
+
+25. text : @USER @USER @USER Good thing the hand sanitizers were there to prevent illness ... < sarcasm doesn't tweet well >
+    translated text : @USER @USER @USER అదృష్టవశాత్తూ అక్కడ హ్యాండ్ శానిటైజర్లు ఉన్నాయి కాబట్టి జబ్బులు రాకుండా ఆపగలిగారు... < ఈ వెటకారం ట్విట్టర్‌లో సరిగ్గా అర్థం కాదులే >
+    rating: 5/5
+    comments: "వెటకారం" (wit/sarcasm) is the perfect word here. The translation flows naturally while explaining the joke.
+
+26. text : @USER @USER I'm suprised they didn't include Scotland in that ...
+    translated text : @USER @USER అందులో స్కాట్లాండ్‌ను కూడా ఎందుకు చేర్చలేదో అని నేను ఆశ్చర్యపోతున్నాను...
+    rating: 5/5
+    comments: Simple and effective. It preserves the dry, sarcastic questioning of the original.
+
+27. text : @USER @USER What on earth have I just read 🤔 🤦‍♂️ 🤦‍♂️ ‍ ️ <URL>
+    translated text : @USER @USER అసలు నేను ఇప్పుడేం చదివాను సామీ? 🤔 🤦‍♂️ 🤦‍♂️ ‍ ️ <URL>
+    rating: 5/5
+    comments: Adding "సామీ" adds a touch of local flavor that captures the "What on earth" disbelief perfectly.
+
+28. text : @USER @USER Your filters are on the fritz
+    translated text : @USER @USER నీ ఫిల్టర్లు ఏవో తేడా కొట్టినట్టున్నాయి.
+    rating: 5/5
+    comments: "తేడా కొట్టడం" is common Telugu slang for something being broken or malfunctioning, which fits "on the fritz" perfectly in a social media context.
+
+29. text : @USER @USER @USER Right ... go ask residents in apartments ... they love him Police throwing fun raises and naming children after him He so decent ... we can ’ t fine 1 billion in Thrive money ... he ’ s so decent naming bridge after him if we can find him at work
+    translated text : @USER @USER @USER అవును మరి... వెళ్లి ఆ అపార్ట్‌మెంట్ వాళ్ళని అడుగు... వాళ్ళకి ఆయనంటే ఎంత ఇష్టమో! పోలీసులేమో ఫండ్ రైజింగ్‌లు చేస్తున్నారు, ఆయన పేరు పిల్లలకి పెట్టుకుంటున్నారు. ఆయన ఎంత మంచాయన అంటే... ఒక బిలియన్ డబ్బులు ఎక్కడున్నాయో తెలీదు... ఆయన పనిలో ఎప్పుడు కనిపిస్తారో తెలిస్తే కదా బ్రిడ్జికి ఆయన పేరు పెట్టుకునేది.
+    rating: 5/5
+    comments: Captured the long, rambling sarcastic list. "ఆయన పనిలో ఎప్పుడు కనిపిస్తారో తెలిస్తే కదా" hits the exact sarcastic note about the person's work attendance.
+
+30. text : @USER @USER Well if it wasn't flat I wouldn't be able to store my maple syrup & crown Royal near the edge . Just sayin ... Monday . 🤣 🤣 🤣 🇨 🇦 ‍ ️ <URL>
+    translated text : @USER @USER నిజమే కదా, భూమి కనుక ఫ్లాట్ గా లేకపోతే నా మేపుల్ సిరప్ ని, క్రౌన్ రాయల్ ని అంచున ఎలా పెట్టుకోగలను? ఊరికే చెబుతున్నా... ఈ సోమవారానికి ఇది చాల్లే. 🤣 🤣 🤣 🇨 🇦 ‍ ️ <URL>
+    rating: 5/5
+    comments: "నిజమే కదా" (true, right?) and "ఇది చాల్లే" (this is enough) make the sarcastic argument sound very natural to a native speaker.
