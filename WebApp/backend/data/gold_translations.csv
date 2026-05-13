@@ -1,0 +1,4 @@
+id,conversation,response,is_sarcastic
+gold_1,Hello world,Namaskaram prapancham,True
+gold_2,How are you?,Ela unnaru?,True
+gold_3,This is wrong,Idhi tappu,False

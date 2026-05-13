@@ -1,0 +1,776 @@
+.main {
+  min-height: 100vh;
+  padding: 1rem;
+  background: linear-gradient(135deg, #f4a837 0%, #fa922b 100%);
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px var(--shadow);
+}
+
+.headerButtons {
+  display: flex;
+  gap: 1rem;
+}
+
+.quitButton {
+  padding: 0.8rem 1.5rem;
+  background: var(--bg-light);
+  color: var(--text-dark);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.quitButton:hover {
+  background: var(--border);
+}
+
+.submitAllButton {
+  padding: 0.8rem 1.5rem;
+  background: var(--success);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.submitAllButton:hover:not(:disabled) {
+  background: #43A047;
+  transform: translateY(-2px);
+}
+
+.submitAllButton:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.progress {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--primary);
+}
+
+.loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 60vh;
+  gap: 1.5rem;
+}
+
+.spinner {
+  width: 60px;
+  height: 60px;
+  border: 5px solid var(--border);
+  border-top-color: var(--primary);
+  border-radius: 50%;
+  animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.content {
+  animation: fadeIn 0.5s ease-in;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.conversationCard {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  margin-bottom: 1.5rem;
+  border: 2px solid var(--primary-light);
+  box-shadow: 0 4px 12px var(--shadow);
+}
+
+.cardTitle {
+  font-size: 1.5rem;
+  color: var(--primary);
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.cardTitleTelugu {
+  font-size: 1.2rem;
+  color: var(--secondary);
+  font-weight: 600;
+}
+
+.conversationText {
+  font-size: 1.3rem;
+  line-height: 1.8;
+  color: var(--text-dark);
+  font-weight: 500;
+  padding: 1.5rem;
+  background: var(--bg-light);
+  border-radius: 10px;
+  margin-top: 1rem;
+}
+
+.conversationLine {
+  margin-bottom: 0.5rem;
+}
+
+.conversationLine:last-child {
+  margin-bottom: 0;
+}
+
+.responseCard {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  border: 2px solid var(--secondary-light);
+  box-shadow: 0 4px 12px var(--shadow);
+}
+
+.responseLabel {
+  font-size: 1.3rem;
+  color: var(--primary);
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+.highlightedResponse {
+  font-size: 1.5rem;
+  line-height: 1.8;
+  color: var(--text-dark);
+  font-weight: 700;
+  padding: 1.5rem;
+  background: var(--secondary-light);
+  border-radius: 10px;
+  margin-top: 1rem;
+  border: 2px solid var(--secondary);
+  box-shadow: 0 2px 8px rgba(255, 152, 0, 0.2);
+}
+.validationCard {
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  margin-bottom: 2rem;
+  border: 2px solid var(--border);
+  box-shadow: 0 4px 12px var(--shadow);
+}
+
+.questionTitle {
+  font-size: 1.4rem;
+  color: var(--primary);
+  text-align: center;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.questionTitleTelugu {
+  font-size: 1.2rem;
+  color: var(--secondary);
+  font-weight: 600;
+}
+
+.binaryOptions {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.optionButton {
+  padding: 2rem;
+  border: 3px solid var(--border);
+  border-radius: 20px;
+  font-size: 1.3rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  background: white;
+  color: var(--text-dark);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.optionButtonTelugu {
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+.optionButton:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 30px var(--shadow);
+}
+
+.sarcasticButton:hover {
+  border-color: var(--success);
+}
+
+.nonSarcasticButton:hover {
+  border-color: var(--danger);
+}
+
+.sarcasticButton.selected {
+  background: var(--success);
+  color: white;
+  border-color: var(--success);
+  box-shadow: 0 4px 12px rgba(76, 175, 80, 0.4);
+  transform: scale(1.05);
+}
+
+.nonSarcasticButton.selected {
+  background: var(--danger);
+  color: white;
+  border-color: var(--danger);
+  box-shadow: 0 4px 12px rgba(244, 67, 54, 0.4);
+  transform: scale(1.05);
+}
+
+.exampleSection {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 2px solid var(--border);
+  animation: slideDown 0.4s ease-out;
+}
+
+@keyframes slideDown {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.exampleTitle {
+  font-size: 1.2rem;
+  color: var(--primary);
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.exampleTitleTelugu {
+  font-size: 1rem;
+  color: var(--secondary);
+  font-weight: 600;
+}
+
+.actionButtons {
+  display: flex;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.primaryButton, .secondaryButton {
+  flex: 1;
+  padding: 1rem 2rem;
+  border-radius: 8px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.primaryButton {
+  background: var(--primary);
+  color: white;
+  border: none;
+  box-shadow: 0 4px 12px rgba(33, 150, 243, 0.3);
+}
+
+.primaryButton:hover:not(:disabled) {
+  background: #1976D2;
+  transform: translateY(-2px);
+}
+
+.primaryButton:disabled {
+  background: var(--text-gray);
+  cursor: not-allowed;
+  box-shadow: none;
+}
+
+.secondaryButton {
+  background: white;
+  color: var(--primary);
+  border: 2px solid var(--primary);
+}
+
+.secondaryButton:hover {
+  background: var(--bg-light);
+  transform: translateY(-2px);
+}
+
+/* History & Review Styles */
+.historyButton {
+  padding: 0.8rem 1.5rem;
+  background: var(--secondary);
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.historyButton:hover {
+  background: #E64A19;
+  transform: translateY(-2px);
+}
+
+.saveExitButton {
+    padding: 0.8rem 1.5rem;
+    background: var(--success);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.saveExitButton:hover {
+    background: #43A047;
+    transform: translateY(-2px);
+}
+
+.reviewTitle {
+  font-size: 1.8rem;
+  color: var(--primary);
+  margin-bottom: 0;
+}
+
+.reviewList {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
+}
+
+.reviewCard {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 8px var(--shadow);
+  border: 1px solid var(--border);
+  transition: all 0.3s ease;
+}
+
+.reviewCard:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.reviewCardHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  padding-bottom: 0.8rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.reviewIndex {
+  font-size: 1.2rem;
+  font-weight: 800;
+  color: var(--primary);
+  background: var(--bg-light);
+  padding: 0.3rem 0.8rem;
+  border-radius: 6px;
+}
+
+.editButton {
+  padding: 0.5rem 1rem;
+  background: transparent;
+  color: var(--text-gray);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.editButton:hover {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+}
+
+.reviewContent {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.reviewContext {
+  font-size: 1rem;
+  color: var(--text-dark);
+  padding: 1rem;
+  background: var(--bg-light);
+  border-radius: 8px;
+  border-left: 4px solid var(--secondary);
+  margin: 0;
+  line-height: 1.6;
+}
+
+.reviewResponseGroup {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+}
+
+@media (min-width: 768px) {
+  .reviewResponseGroup {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.reviewResponse {
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: white;
+}
+
+.responseText {
+  font-size: 1.1rem;
+  color: var(--text-dark);
+  font-weight: 500;
+}
+
+.inputTypeSelector {
+  display: flex;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.inputTypeButton {
+  flex: 1;
+  padding: 1rem;
+  background: var(--bg-light);
+  border: 2px solid var(--border);
+  border-radius: 12px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.inputTypeButton:hover {
+  border-color: var(--primary);
+  transform: translateY(-2px);
+}
+
+.activeInputType {
+  background: var(--primary);
+  color: white;
+  border-color: var(--primary);
+  box-shadow: 0 2px 8px rgba(33, 150, 243, 0.3);
+}
+
+.textInputContainer {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.textarea {
+  width: 100%;
+  padding: 1rem;
+  border: 2px solid var(--border);
+  border-radius: 12px;
+  font-size: 1.1rem;
+  font-family: inherit;
+  line-height: 1.6;
+  resize: vertical;
+  min-height: 100px;
+  transition: all 0.3s ease;
+}
+
+.textarea:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px rgba(33, 150, 243, 0.1);
+}
+
+.inputTools {
+  display: flex;
+  flex-direction: column;
+  gap: 0.8rem;
+}
+
+.keyboardButton {
+  padding: 0.8rem 1.5rem;
+  background: var(--secondary-light);
+  border: 2px solid var(--secondary);
+  border-radius: 8px;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  align-self: flex-start;
+}
+
+.keyboardButton:hover {
+  background: var(--secondary);
+  color: white;
+  transform: translateY(-2px);
+}
+
+.hint {
+  font-size: 0.9rem;
+  color: var(--text-gray);
+  line-height: 1.5;
+}
+
+.hintTelugu {
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 0.85rem;
+}
+
+.voiceInputContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1.5rem;
+  padding: 2rem;
+}
+
+.recordButton {
+  padding: 1.5rem 3rem;
+  background: var(--danger);
+  color: white;
+  border: none;
+  border-radius: 50px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(244, 67, 54, 0.3);
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.recordButton:hover {
+  transform: scale(1.05);
+  box-shadow: 0 6px 16px rgba(244, 67, 54, 0.4);
+}
+
+.recording {
+  background: #E53935;
+  animation: pulse 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    box-shadow: 0 8px 25px rgba(229, 57, 53, 0.4);
+  }
+  50% {
+    box-shadow: 0 8px 35px rgba(229, 57, 53, 0.7);
+  }
+}
+
+.recordingIndicator {
+  width: 12px;
+  height: 12px;
+  background: white;
+  border-radius: 50%;
+  animation: blink 1s ease-in-out infinite;
+}
+
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.3;
+  }
+}
+
+.recordedIndicator {
+  padding: 1rem 2rem;
+  background: var(--success-light);
+  color: var(--text-dark);
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.actions {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.skipButton {
+  flex: 1;
+  padding: 1.2rem;
+  background: white;
+  color: var(--text-dark);
+  border: 2px solid var(--border);
+  border-radius: 10px;
+  font-size: 1.1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.skipButton:hover:not(:disabled) {
+  border-color: var(--primary);
+  transform: translateY(-2px);
+}
+
+.skipButton:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.submitButton {
+  flex: 2;
+  padding: 1.2rem;
+  background: var(--primary);
+  color: white;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.2rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(33, 150, 243, 0.3);
+}
+
+.submitButton:hover:not(:disabled) {
+  background: var(--primary-dark);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(33, 150, 243, 0.4);
+}
+
+.submitButton:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+@media (max-width: 768px) {
+  .header {
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .headerButtons {
+    width: 100%;
+  }
+
+  .quitButton,
+  .submitAllButton {
+    flex: 1;
+  }
+
+  .conversationCard,
+  .responseCard,
+  .validationCard {
+    padding: 1.5rem;
+  }
+
+  .conversationText,
+  .highlightedResponse {
+    font-size: 1.2rem;
+    padding: 1rem;
+  }
+
+  .binaryOptions {
+    grid-template-columns: 1fr;
+    gap: 1rem;
+  }
+
+  .inputTypeSelector {
+    flex-direction: column;
+  }
+
+  .actions {
+    flex-direction: column;
+  }
+}
+
+@media (max-width: 480px) {
+  .main {
+    padding: 0.5rem;
+  }
+
+  .conversationCard,
+  .responseCard,
+  .validationCard {
+    padding: 1rem;
+  }
+
+  .cardTitle,
+  .questionTitle {
+    font-size: 1.2rem;
+  }
+
+  .cardTitleTelugu,
+  .questionTitleTelugu {
+    font-size: 1rem;
+  }
+
+  .conversationText,
+  .highlightedResponse {
+    font-size: 1.1rem;
+  }
+
+  .optionButton {
+    padding: 1.5rem;
+    font-size: 1.1rem;
+  }
+
+  .recordButton {
+    padding: 1.2rem 2rem;
+    font-size: 1rem;
+  }
+}
