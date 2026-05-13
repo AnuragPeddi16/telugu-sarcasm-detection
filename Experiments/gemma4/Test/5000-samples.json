@@ -1,0 +1,51 @@
+[
+  {
+    "utterance": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "context": [
+      "They aren ’ t sending their best folks ! #lowenergy <URL>",
+      "@USER Imagine losing an argument and then bragging about it lol MAGA",
+      "@USER What argument did you make ? You salty you couldn ’ t understand the words ? 😅",
+      "@USER That i'm not racist . I mean really if you wanted to make a case of anything against me the correct path would have been \" nationalist \" because if the show was in french it would have been equally as weird to me.And no i'm not salty , I wish i could understand it , weird choice tho",
+      "@USER Bro white people don ’ t get to decide what ’ s racist . Get with it ! <URL>",
+      "@USER And there it is . After all this the only person to say something racist is the person who called another person racist , while supporting an actual racist that is racist against their own people ."
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "utterance": "@USER @USER @USER Aye & yet they still lost to The SNP really badly , fucking Muppets . Now their trying to tell SNP they don't have a majority when they do , fucking is hilarious . If they have a problem about the voting system them change it , campaign for change so that it's easier to vote .",
+    "context": [
+      "Scottish independence referendum : Sturgeon speaks for SNP , not Scotland – Brian Wilson This is spot on . @USER @USER DO NOT speak for all of Scotland . @USER get your acts together ! Stand up for the majority <URL>",
+      "@USER @USER @USER Stand up for the majority ... You do know that there was a GENERAL ALECTION recently , and the MAJORITY voted for SNP ...",
+      "@USER @USER @USER The majority you say ? You only got 45 % of those who voted . Christ , you could barely get over 30 % of the electorate <URL>"
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "utterance": "@USER @USER Yes , Rey should have been given the stunningly creative costume design of ... a sleeveless T-Shirt and some jeans .",
+    "context": [
+      "Friendly reminder that J . J . Abrams , a director with zero experience in costume design , overrided Michael Kaplan , a multi-award-winning costume designer on all three sequel trilogy films , when Kaplan said that #Rey needed a total \" redesign \" for #StarWars #TheRiseOfSkywalker . <URL>",
+      "@USER You mean Rey wasn't meant to be the most boring bland creature in the universe ? My cure for #Rey is my own comics and stories . Like the ones pictured below ... aint no mary sues in my world building . <URL>"
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "utterance": "@USER @USER @USER Yeah , as if raising tuition and fees had anything to do with a party affiliation . intended . I think that cat in your photo has more brains than you .",
+    "context": [
+      "A young girl came up to me tonight and said , “ I ’ m a broke college student with a lot of student loan debt . I checked and I have $ 6 in the bank — so I just gave $ 3 to keep you in this fight . ” We ’ re staying in this fight for the people who are counting on us . <URL>",
+      "@USER That ’ s what socialism does . It takes half of the money from people who hardly have any to begin with , and gives it to those who don ’ t deserve it .",
+      "@USER @USER No , she reason she ’ s poor is because REPUBLICANS were the ones that raised the cost of attending college to ridiculous amounts . You boomers don ’ t realize that times have changed and it ’ s not possible to pay college with only a part time job like it used to be in the 80s"
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "utterance": "@USER @USER I feel safe ? Wonderful to have #Boris in charge . sorry I can't help myself",
+    "context": [
+      "#Streatham So sorry to hear the reports of the terrorist attack in Streatham . My prayers are with the families 🙏 🏾 Terrorists will not divide us .",
+      "@USER Bring back hanging ? Would you vote with us .",
+      "@USER @USER But we know a great HOME SECRETARY who could eventually 😎 👍 👍 👍 <URL>",
+      "@USER @USER Interesting times we are living in ? #Boris",
+      "@USER @USER Yes I'm glad the Conservatives are in power ! ! 👏 👏"
+    ],
+    "label": "SARCASTIC"
+  }
+]

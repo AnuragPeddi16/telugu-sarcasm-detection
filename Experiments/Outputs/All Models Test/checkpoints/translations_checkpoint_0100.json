@@ -1,0 +1,1644 @@
+[
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterance": "@USER, మీరు నన్ను \"మనిషి\" అని పిలిచారా? మీరు బహుశా రోబోట్ శిక్షణ పొందిన ఉంటారు. 😇 #విజయవంతమైన వెటకలు <URL><end_of_turn>",
+    "input context": [
+      "They aren ’ t sending their best folks ! #lowenergy <URL>",
+      "@USER Imagine losing an argument and then bragging about it lol MAGA",
+      "@USER What argument did you make ? You salty you couldn ’ t understand the words ? 😅",
+      "@USER That i'm not racist . I mean really if you wanted to make a case of anything against me the correct path would have been \" nationalist \" because if the show was in french it would have been equally as weird to me.And no i'm not salty , I wish i could understand it , weird choice tho",
+      "@USER Bro white people don ’ t get to decide what ’ s racist . Get with it ! <URL>",
+      "@USER And there it is . After all this the only person to say something racist is the person who called another person racist , while supporting an actual racist that is racist against their own people ."
+    ],
+    "context": [
+      "వారు తమలోని ఉత్తమ వ్యక్తులను పంపడం లేదు! #తక్కువశక్తి స్థాయి. <URL><end_of_turn>",
+      "@USER ఒక వాదనలో ఓడిపోయి, ఆ తర్వాత దాని గురించి గొప్పగా చెప్పుకోవడం... నవ్వొస్తుంది! MAGA.<end_of_turn>",
+      "@USER మీరు ఏ వాదన చేశారు? మీకు పదాలు అర్థం కాకపోవడం వల్ల మీరు కోపంగా ఉన్నారా? 😅<end_of_turn>",
+      "@USER నేను జాతి వివక్ష చూపే వ్యక్తిని కాను. నిజానికి, మీరు నాపై ఏదైనా ఆరోపణ చేయాలనుకుంటే, సరైన పదం \"జాతీయవాది\" అయి ఉండాలి. ఎందుకంటే, ఆ కార్యక్రమం ఫ్రెంచ్ భాషలో ఉంటే, అది నాకు కూడా అంతే వింతగా అనిపించేది. మరియు లేదు, నేను కోపంగా లేను, నేను దానిని అర్థం చేసుకోగలగాలని కోరుకుంటున్నాను, కానీ ఇది చాలా విచిత్రమైన ఎంపిక.<end_of_turn>",
+      "@USER తెల్లజాతి ప్రజలు ఏది జాతి వివక్ష అని నిర్ణయించే అధికారం కలిగి ఉండరు. దయచేసి అర్థం చేసుకోండి! <URL><end_of_turn>",
+      "@USER చూడండి, ఇదంతా జరిగిన తర్వాత, జాతి వివక్ష గురించి మాట్లాడే ఏకైక వ్యక్తి, మరొక వ్యక్తిని జాతి వివక్షవాది అని పిలిచే వ్యక్తి. అయితే, అతను నిజమైన జాతి వివక్షవాదిని సమర్థిస్తున్నాడు, ఆ వ్యక్తి తన సొంత ప్రజల పట్ల జాతి వివక్ష చూపిస్తున్నాడు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Aye & yet they still lost to The SNP really badly , fucking Muppets . Now their trying to tell SNP they don't have a majority when they do , fucking is hilarious . If they have a problem about the voting system them change it , campaign for change so that it's easier to vote .",
+    "utterance": "@USER @USER @USER అవును, కానీ వారు స్కాటిష్ నేషనల్ పార్టీ (SNP) చేతిలో ఘోరంగా ఓడిపోయారు, నిజంగా చాలా వెర్రిగా ఉంది. ఇప్పుడు వారు SNPకి మెజారిటీ లేదని చెప్పడానికి ప్రయత్నిస్తున్నారు, కానీ వాస్తవానికి వారికి మెజారిటీ ఉంది, ఇది చాలా హాస్యాస్పదంగా ఉంది. వారికి ఓటింగ్ విధానం గురించి ఏదైనా సమస్య ఉంటే, దానిని మార్చండి. ఓటింగ్ సులభతరం చేయడానికి మార్పు కోసం పోరాడండి.<end_of_turn>",
+    "input context": [
+      "Scottish independence referendum : Sturgeon speaks for SNP , not Scotland – Brian Wilson This is spot on . @USER @USER DO NOT speak for all of Scotland . @USER get your acts together ! Stand up for the majority <URL>",
+      "@USER @USER @USER Stand up for the majority ... You do know that there was a GENERAL ALECTION recently , and the MAJORITY voted for SNP ...",
+      "@USER @USER @USER The majority you say ? You only got 45 % of those who voted . Christ , you could barely get over 30 % of the electorate <URL>"
+    ],
+    "context": [
+      "స్కాటిష్ స్వాతంత్ర్య ప్రజాభిప్రాయ సేకరణ: స్టర్జన్, SNP తరపున మాట్లాడుతున్నారు, స్కాట్లాండ్ తరపున కాదు - బ్రియన్ విల్సన్. ఇది ఖచ్చితంగా సరైన అభిప్రాయం. @USER, @USER, మీరు మొత్తం స్కాట్లాండ్ తరపున మాట్లాడకూడదు. @USER, మీరు మీ విధానాలను సరిదిద్దుకోండి! మెజారిటీ ప్రజల కోసం నిలబడండి. <URL><end_of_turn>",
+      "@USER @USER @USER చాలా మంది ప్రజల కోసం నిలబడండి... మీకు తెలుసు కదా, ఇటీవల ఒక సాధారణ ఎన్నికలు జరిగాయి, మరియు చాలా మంది ఓటర్లు SNP పార్టీకి ఓటు వేశారు...<end_of_turn>",
+      "@USER @USER @USER మీరు చెప్పేది మెజారిటీనా? మీరు ఓటు వేసిన వారిలో కేవలం 45% మందికి మాత్రమే మద్దతు లభించింది. నిజానికి, మీరు ఓటర్లలో 30% మందికి కూడా మద్దతు పొందలేకపోయారు. <URL><end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Yes , Rey should have been given the stunningly creative costume design of ... a sleeveless T-Shirt and some jeans .",
+    "utterance": "@USER @USER అవును, రే పాత్రకు చాలా ఆకర్షణీయమైన దుస్తులను ఇవ్వాల్సింది. అది ఒక స్లీవ్లీస్ టీ-షర్టు మరియు జీన్స్ మాత్రమే ఉండాల్సింది.<end_of_turn>",
+    "input context": [
+      "Friendly reminder that J . J . Abrams , a director with zero experience in costume design , overrided Michael Kaplan , a multi-award-winning costume designer on all three sequel trilogy films , when Kaplan said that #Rey needed a total \" redesign \" for #StarWars #TheRiseOfSkywalker . <URL>",
+      "@USER You mean Rey wasn't meant to be the most boring bland creature in the universe ? My cure for #Rey is my own comics and stories . Like the ones pictured below ... aint no mary sues in my world building . <URL>"
+    ],
+    "context": [
+      "జే.జే. అబ్రామ్స్, వీరు దుస్తుల రూపకల్పనలో ఎటువంటి అనుభవం లేని దర్శకుడు. అయితే, \"స్టార్ వార్స్: ది రైజ్ ఆఫ్ స్కైవాకర్\" చిత్రంలో, మైఖేల్ కాప్లాన్ అనే బహుళ అవార్డులు గెలుచుకున్న దుస్తుల రూపకర్త, \"రే\" పాత్రకు పూర్తిగా కొత్త డిజైన్ అవసరమని చెప్పినప్పుడు, అబ్రామ్స్ ఆయన అభిప్రాయాన్ని తోసిపుచ్చారు.\n\n<URL><end_of_turn>",
+      "@USER మీరు చెప్పేది ఏమిటంటే, \"రే\" అనే పాత్ర విశ్వంలో అత్యంత నిరుత్సాహకరమైన, సాధారణమైన జీవిగా ఉండకూడదని అనుకుంటున్నారా? \"రే\" పాత్రకు నా సొంత కామిక్స్ మరియు కథలు ఒక పరిష్కారం. ఉదాహరణకు, క్రింద చూపినవి... నా కథల్లో ఎప్పుడూ \"మేరీ సూ\" తరహా పాత్రలు ఉండవు. <URL><end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Yeah , as if raising tuition and fees had anything to do with a party affiliation . intended . I think that cat in your photo has more brains than you .",
+    "utterance": "@USER @USER @USER అవును, ఫీజులు పెంచడం అనేది ఏ రాజకీయ పార్టీతోనూ సంబంధం లేని విషయం. మీరు మీ ఫోటోలో పెట్టిన పిల్లి మీకు కంటే ఎక్కువ తెలివైనది అని నేను అనుకుంటున్నాను.<end_of_turn>",
+    "input context": [
+      "A young girl came up to me tonight and said , “ I ’ m a broke college student with a lot of student loan debt . I checked and I have $ 6 in the bank — so I just gave $ 3 to keep you in this fight . ” We ’ re staying in this fight for the people who are counting on us . <URL>",
+      "@USER That ’ s what socialism does . It takes half of the money from people who hardly have any to begin with , and gives it to those who don ’ t deserve it .",
+      "@USER @USER No , she reason she ’ s poor is because REPUBLICANS were the ones that raised the cost of attending college to ridiculous amounts . You boomers don ’ t realize that times have changed and it ’ s not possible to pay college with only a part time job like it used to be in the 80s"
+    ],
+    "context": [
+      "ఈరోజు ఒక యువతి నా దగ్గరకు వచ్చి, \"నేను చాలా విద్యార్థి రుణాలు ఉన్న ఒక పేద విద్యార్థిని. నేను చూస్తే నా దగ్గర బ్యాంకులో కేవలం 6 డాలర్లు మాత్రమే ఉన్నాయి. అందుకే, మిమ్మల్ని ఈ పోరాటంలో కొనసాగించడానికి నేను 3 డాలర్లు ఇస్తున్నాను\" అని చెప్పింది. మేము ఈ పోరాటంలో కొనసాగుతున్నాము, ఎందుకంటే చాలా మంది ప్రజలు మనపై ఆధారపడి ఉన్నారు. <URL><end_of_turn>",
+      "@USER సోషలిజం చేసేది అదే. ఇది ఇప్పటికే చాలా తక్కువ డబ్బు ఉన్న ప్రజల నుండి సగం డబ్బును తీసుకుంటుంది, ఆ డబ్బును అర్హత లేని వ్యక్తులకు ఇస్తుంది.<end_of_turn>",
+      "@USER @USER లేదు, ఆమె పేదరికం వెనుక కారణం ఏమిటంటే, కళాశాల విద్యకు అయ్యే ఖర్చును విపరీతంగా పెంచినది రిపబ్లికన్ పార్టీ నాయకులే. మీరు, పాత తరం వారు, కాలాలు మారాయని, గతంలో ఉన్నట్లుగా పార్ట్ టైమ్ ఉద్యోగం ద్వారా మాత్రమే కళాశాల విద్యను కొనసాగించడం ఇప్పుడు సాధ్యం కాదని గ్రహించలేకపోతున్నారు. 1980లలో ఇది సాధ్యమయ్యేది, కానీ ఇప్పుడు కాదు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER I feel safe ? Wonderful to have #Boris in charge . sorry I can't help myself",
+    "utterance": "@USER @USER నాకు సురక్షితంగా ఉంది. #బోరిస్ నాయకత్వంలో ఉండటం చాలా సంతోషంగా ఉంది. క్షమించండి, నేను నన్ను నేను నియంత్రించుకోలేకపోతున్నాను.<end_of_turn>",
+    "input context": [
+      "#Streatham So sorry to hear the reports of the terrorist attack in Streatham . My prayers are with the families 🙏 🏾 Terrorists will not divide us .",
+      "@USER Bring back hanging ? Would you vote with us .",
+      "@USER @USER But we know a great HOME SECRETARY who could eventually 😎 👍 👍 👍 <URL>",
+      "@USER @USER Interesting times we are living in ? #Boris",
+      "@USER @USER Yes I'm glad the Conservatives are in power ! ! 👏 👏"
+    ],
+    "context": [
+      "#స్ట్రీథమ్: స్ట్రీథమ్‌లో జరిగిన ఉగ్రవాద దాడి గురించి వినడానికి చాలా బాధగా ఉంది. బాధితుల కుటుంబాలకు నా ప్రార్థనలు. ఉగ్రవాదులు మనల్ని ఎప్పటికీ విడదీయలేరు.<end_of_turn>",
+      "@USER మరణశిక్షను తిరిగి ప్రవేశపెట్టాలా? మీరు మాతో కలిసి ఓటు వేస్తారా?<end_of_turn>",
+      "@USER @USER కానీ మనకు ఒక గొప్ప హోమ్ సెక్రటరీ ఉన్నారు, వారు భవిష్యత్తులో గొప్ప విజయాలు సాధించగలరు. 😎 👍 👍 👍 <URL><end_of_turn>",
+      "@USER @USER మనం ప్రస్తుతం చాలా ఆసక్తికరమైన కాలంలో జీవిస్తున్నాం కదా? #బోరిస్<end_of_turn>",
+      "@USER @USER అవును, కన్జర్వేటివ్ పార్టీ అధికారంలో ఉండటం నాకు సంతోషంగా ఉంది! 👏 👏<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Here ’ s a link to a list of some female missionaries . But I ’ m sure they knew better than to ever preach the Gospel . <URL>",
+    "utterance": "@USER @USER ఇది కొన్ని మహిళా మిషనరీల జాబితాకు సంబంధించిన లింక్. అయితే, వారు ఎప్పుడూ సువార్తను ప్రకటించకూడదని వారికి బాగా తెలుసు అని నేను ఖచ్చితంగా అనుకుంటున్నాను. <URL><end_of_turn>",
+    "input context": [
+      "A southern baptist preacher used the hashtag #womenpreachers to complain about them . Let ’ s make it positive . I ’ ll start . #WomenPreachers are a gift from God .",
+      "#womenpreachers were the first to announce the resurrection .",
+      "@USER @USER Why not call them missionaries , or any other name or title which you want to foist on them ? Why not let the truth be sufficient for a change . The women who spread the news that they had seen Jesus were just ordinary folk who were overjoyed at what they ’ d found out ? Preachers ? No !"
+    ],
+    "context": [
+      "ఒక దక్షిణ బాప్టిస్ట్ మత గురువు \"#womenpreachers\" అనే హ్యాష్‌ట్యాగ్‌ను ఉపయోగించి మహిళా మత గురువుల గురించి ఫిర్యాదు చేశారు. మనం దీనిని సానుకూలంగా మార్పు చేద్దాం. నేను ప్రారంభిస్తాను. \"#WomenPreachers\" దేవుడు ఇచ్చిన ఒక గొప్ప వరం.<end_of_turn>",
+      "#మహిళా ప్రవక్తలు మొదటగా పునరుత్థానం గురించి ప్రకటించారు.<end_of_turn>",
+      "@USER @USER ఎందుకు వారిని మిషనరీలు అని పిలవకూడదు, లేదా మీరు వారికి పెట్టాలనుకుంటున్న ఏదైనా ఇతర పేరు లేదా బిరుదును ఎందుకు ఉపయోగించకూడదు? ఎందుకు ఒకసారి నిజం సరిపోతుందని ఆలోచించకూడదు? యేసును తాము చూశామని చెప్పిన మహిళలు కేవలం సాధారణ వ్యక్తులు మాత్రమే, వారు తెలుసుకున్న విషయాల పట్ల ఎంతో సంతోషంగా ఉన్నారు. వారు బోధకులా? లేదు!<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "7 . When you get sick while staying in the hospital with your sick family member you need to leave the hospital to get seen by a medical professional , diagnosed and given meds . That is not available IN the hospital",
+    "utterance": "7. మీరు ఆసుపత్రిలో మీ అనారోగ్యంతో ఉన్న కుటుంబ సభ్యులతో ఉన్నప్పుడు మీకు అనారోగ్యం పాలైతే, మీరు వైద్య నిపుణుడిని సంప్రదించడానికి, రోగ నిర్ధారణ పొందడానికి మరియు మందులు తీసుకోవడానికి ఆసుపత్రి నుండి బయటకు వెళ్లవలసి ఉంటుంది. ఆ సౌకర్యం ఆసుపత్రిలో అందుబాటులో ఉండదు.<end_of_turn>",
+    "input context": [
+      "Been staying in hospital with hubby for several days now and have noticed many interesting things to use as material for #writingcommmunity 1 . There is a Colostomy channel on TV - a whole channel - I shit you not 2 . The back of some people ’ s necks are scary",
+      "3 . Nurses think you ’ re deaf and / or asleep if you have your eyes closed and will say absolutely anything 4 . Nurses have a lot of drama going on at home 5 . Hospitals can make any food flavorless no matter what it is - even chorizo ... tbc",
+      "6 . When mistaken orders for tests are discovered no doctor is EVER to blame - the order was placed by a mysterious phantom doctor who doesn ’ t exist in this universe"
+    ],
+    "context": [
+      "నేను మరియు నా భర్త కొన్ని రోజులుగా ఆసుపత్రిలో ఉన్నాము, మరియు నేను చాలా ఆసక్తికరమైన విషయాలను గమనించాను, వాటిని #రైటింగ్ కమ్యూనిటీ కోసం ఉపయోగించవచ్చు. 1. టెలివిజన్‌లో ఒక ప్రత్యేక ఛానెల్ ఉంది, అది పూర్తిగా \"కొలోస్టమీ\" గురించిన సమాచారాన్ని ప్రసారం చేస్తుంది - నేను నిజంగా చెబుతున్నాను. 2. కొంతమంది వ్యక్తుల మెడ వెనుక భాగం చూడటానికి భయానకంగా ఉంది.<end_of_turn>",
+      "3. మీరు కళ్ళు మూసుకుంటే, నర్సులు మీరు వినలేకపోతున్నారని లేదా నిద్రపోతున్నారని అనుకుంటారు, మరియు వారు మీకు ఏదైనా చెప్పడానికి వెనుకాడరు.\n4. నర్సుల వ్యక్తిగత జీవితాల్లో చాలా సమస్యలు మరియు ఒడిదుడుకులు ఉంటాయి.\n5. ఆసుపత్రులు ఏ ఆహారాన్నైనా రుచి లేకుండా చేయగలవు, అది ఏదైనా కావచ్చు - ఉదాహరణకు, చొరిజో (ఒక రకమైన మాంసం) కూడా. (ఇంకా కొనసాగుతుంది...)<end_of_turn>",
+      "6. పరీక్షల కోసం తప్పు ఆర్డర్‌లు కనుగొనబడినప్పుడు, ఏ డాక్టర్‌ను కూడా ఎప్పుడూ నిందించకూడదు - ఎందుకంటే ఆ ఆర్డర్‌ను ఒక రహస్యమైన, అదృశ్యమైన డాక్టర్ ఇచ్చారు, ఆ వ్యక్తి ఈ విశ్వంలో లేరు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Yes , it's probably better that they created no jobs at all . 🤔",
+    "utterance": "@USER @USER అవును, బహుశా వారు అసలు ఉద్యోగాలు సృష్టించకపోవడం మంచిదే. 🤔<end_of_turn>",
+    "input context": [
+      ". @USER on why she ’ s “ polarizing ” : “ Our political system is not designed for people like us . They ’ re not designed for working people to succeed , for young people , for women , for people of color . ” Unlike others , \" rich men are not the center of my universe . \" <URL>",
+      "@USER AOC claims billionaires behind companies like Amazon and Walmart became rich by \" underpaying their workers . \" \" I don't think \" these billionaires \" should exist . \" <URL>"
+    ],
+    "context": [
+      ". @USER ఆమె \"భిన్నాభిప్రాయాలను కలిగించే\" వ్యక్తిగా ఎందుకు ఉన్నారో వివరించారు: \"మా రాజకీయ వ్యవస్థ మా లాంటి వ్యక్తుల కోసం రూపొందించబడలేదు. ఇది సాధారణ ప్రజలు, యువకులు, మహిళలు మరియు వివిధ జాతుల ప్రజలు అభివృద్ధి చెందడానికి అనుకూలంగా లేదు.\" ఇతరుల వలె కాకుండా, \"నా దృష్టిలో ధనవంతులు మాత్రమే ప్రధానం కాదు.\" <URL><end_of_turn>",
+      "@USER: అమెజాన్ మరియు వాల్‌మార్ట్ వంటి కంపెనీల బిలియనీర్ల వెనుక ఉన్న వ్యక్తులు, తమ ఉద్యోగులకు తక్కువ వేతనాలు చెల్లించడం ద్వారా సంపదను కూడగట్టారని AOC పేర్కొన్నారు. \"నా అభిప్రాయం ప్రకారం, ఇలాంటి బిలియనీర్లు ఉండకూడదు.\" <URL><end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER 😂 ... if all of u would have been included in this ad , there wouldn ’ t have been any open parking spots",
+    "utterance": "@USER @USER 😂... మీ అందరూ ఈ ప్రకటనలో ఉంటే, ఖాళీ పార్కింగ్ స్థలాలు ఉండేవి కావు.<end_of_turn>",
+    "input context": [
+      "I ’ m Not Sure Why I Wasn ’ t A Consultant on that Commercial . 😁 <URL>",
+      "@USER Better yet ! why was I not in it 😳"
+    ],
+    "context": [
+      "నాకు ఖచ్చితంగా తెలియదు, ఆ ప్రకటనలో నేను ఎందుకు కన్సల్టెంట్‌గా లేను. 😁 <URL><end_of_turn>",
+      "@USER ఇది మరింత బాగుంది! అయితే, నేను అందులో ఎందుకు లేను? 😳<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER More cars and buses in lagos . Yes , that exactly what lagos needs to help with the constant heavy traffic and already congested roads .",
+    "utterance": "@USER @USER @USER లాగోస్‌లో ఎక్కువ కార్లు మరియు బస్సులు. అవును, లాగోస్‌కు ఇది చాలా అవసరం. నిరంతరం ఉండే భారీ ట్రాఫిక్‌ను మరియు ఇప్పటికే రద్దీగా ఉన్న రోడ్లను తగ్గించడానికి ఇది సహాయపడుతుంది.<end_of_turn>",
+    "input context": [
+      "#OkadaBan Lagosians are going to know the impact of this ban on Monday .",
+      "@USER I swear down ... Today was bad but Monday will come with the Pro version",
+      "@USER I just don't want to imagine it .",
+      "@USER @USER We will trek all the way to our offices may God help us",
+      "@USER @USER @USER lagos state has asked everyone to go buy a car ."
+    ],
+    "context": [
+      "#ఒకాడాబన్: ఈ నిషేధం యొక్క ప్రభావం గురించి లాగోస్ ప్రజలు సోమవారం తెలుసుకుంటారు.<end_of_turn>",
+      "@USER నేను మీకు హామీ ఇస్తున్నాను... ఈ రోజు కష్టంగా ఉంది, కానీ సోమవారం \"ప్రో\" వెర్షన్ అందుబాటులోకి వస్తుంది.<end_of_turn>",
+      "@USER నేను దాని గురించి ఆలోచించడానికే ఇష్టపడను.<end_of_turn>",
+      "@USER @USER మేము మా కార్యాలయాల వరకు నడుచుకుంటూ వెళ్తాము, దేవుడు మనకు సహాయం చేయాలని కోరుకుంటున్నాము.<end_of_turn>",
+      "@USER @USER @USER లాగోస్ రాష్ట్ర ప్రభుత్వం అందరూ కారు కొనుక్కోవాలని కోరింది.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Yup . Your banana bankrupt republic is run by sobers .",
+    "utterance": "@USER @USER అవును. మీ అరటిపండు దేశం ఆర్థికంగా దివాళా తీసింది, దానిని నిజాయితీపరులు పరిపాలిస్తున్నారు.<end_of_turn>",
+    "input context": [
+      "Dispirited that six Afg counternarcotics police officials are allegedly involved in drug smuggling . The drug trade fuels instability and undermines good governance & development of Afghanistan ’ s economy . Important for law enforcement to take action against corrupt officials . AGW",
+      "@USER Afghanistan is run by terrorists and drug lords ."
+    ],
+    "context": [
+      "ఆరు ఆఫ్ఘనిస్తాన్ మాదక ద్రవ్యాల వ్యతిరేక పోలీసు అధికారులు మాదక ద్రవ్యాల అక్రమ రవాణాలో పాల్గొన్నారని ఆరోపణలు రావడంతో నిరాశ నెలకొంది. మాదక ద్రవ్యాల వ్యాపారం అస్థిరతను పెంచుతుంది మరియు ఆఫ్ఘనిస్తాన్ ఆర్థిక వ్యవస్థ యొక్క మంచి పాలన మరియు అభివృద్ధిని బలహీనపరుస్తుంది. అవినీతి అధికారులపై చర్యలు తీసుకోవడం చట్ట అమలు సంస్థలకు చాలా ముఖ్యం. - AGW<end_of_turn>",
+      "@USER ఆఫ్ఘనిస్తాన్ దేశాన్ని ఉగ్రవాదులు మరియు మాదక ద్రవ్యాల వ్యాపారులు పరిపాలిస్తున్నారు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER But what right does the “ Settler ” Supreme Court have to pass judgement on First Nation governance ? Just asking .",
+    "utterance": "@USER @USER @USER అయితే, \"సెటిలర్\" సుప్రీం కోర్టుకు మొదటి తెగల పాలనపై తీర్పు చెప్పే అధికారం ఉందా? నేను కేవలం ఒక ప్రశ్న అడుగుతున్నాను.<end_of_turn>",
+    "input context": [
+      "“ You cannot criminalize political activism , ” said @USER about protests across the country in support of the Wet'suwet'en blockade . “ If this did not happen , do you think Canadians would be having that conversation right now . This is a catalyst . ” #cdnpoli <URL>",
+      "@USER @USER Let ’ s conveniently ignore the fact that the Wet'suwet'en Council approved the pipeline , and the Wet'suwet'en Nation voted in favour in the referendum . #cdnpoli",
+      "@USER @USER @USER Right . But the councils were set up by gov ´ t of Canada , after the formation of the country . The hereditary chiefs had a system in place before Canada was here . The Supreme Court ruled that traditional system never gave up its right to the land . So there ´ s your conflict ."
+    ],
+    "context": [
+      "\"మీరు రాజకీయ ఉద్యమాలను నేరపూరితం చేయలేరు,\" అని @USER దేశవ్యాప్తంగా వెట్సువెటెన్ దిగ్బంధనానికి మద్దతుగా జరుగుతున్న నిరసనల గురించి అన్నారు. \"ఇది జరగకపోతే, కెనడియన్లు ఇప్పుడు ఆ చర్చను జరుపుతున్నారా? ఇది ఒక ఉత్ప్రేరకం.\" #cdnpoli <URL><end_of_turn>",
+      "@USER @USER మనం ఒక విషయాన్ని విస్మరిద్దాం: వెట్‌సువెటెన్ కౌన్సిల్ పైప్‌లైన్‌ను ఆమోదించింది, మరియు వెట్‌సువెటెన్ జాతి ప్రజలు ప్రజాభిప్రాయ సేకరణలో దానిని అనుకూలంగా ఓటు వేశారు. #cdnpoli<end_of_turn>",
+      "@USER @USER @USER సరిగ్గా చెప్పారు. అయితే, ఈ మండలిలను కెనడా ప్రభుత్వం, దేశం ఏర్పడిన తర్వాత ఏర్పాటు చేసింది. కెనడా ఉనికిలోకి రాకముందే, ఆ ప్రాంతంలోని సాంప్రదాయ పాలకులు ఒక వ్యవస్థను కలిగి ఉన్నారు. సుప్రీం కోర్టు తీర్పు ప్రకారం, ఆ సాంప్రదాయ వ్యవస్థ భూమిపై తన హక్కును ఎప్పుడూ వదులుకోలేదు. కాబట్టి, ఇక్కడే మీ సమస్య ఉంది.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Same here but the things being reported it's almost like these \" writers \" are deliberately de-valuing our top talent ... wonder why they would do that ? #Njdevils",
+    "utterance": "@USER @USER @USER నాకూ కూడా ఇదే అనుభవం. కానీ, నివేదికల్లో పేర్కొంటున్న విషయాలు చూస్తే, ఈ \"రచయితలు\" ఉద్దేశపూర్వకంగానే మన అత్యుత్తమ ప్రతిభావంతుల విలువను తగ్గించడానికి ప్రయత్నిస్తున్నట్లు అనిపిస్తోంది... వారు అలా ఎందుకు చేస్తున్నారో నాకు అర్థం కావడం లేదు? #Njdevils<end_of_turn>",
+    "input context": [
+      "On TSN this morning , more speculation involving Palms and / or Coleman . Let's hear your thoughts @USER fans @USER @USER <URL>",
+      "@USER @USER @USER I don ’ t think he ’ s untouchable , but he ’ s not far from it and it would take a lot more than anyone has speculated for me to be happy with the Devils trading him ."
+    ],
+    "context": [
+      "ఈ ఉదయం TSNలో, పాల్మ్స్ మరియు/లేదా కోల్‌మాన్ గురించిన మరిన్ని ఊహాగానాలు వినిపించాయి. అభిమానులారా, మీ అభిప్రాయాలను తెలియజేయండి: @USER, @USER. <URL><end_of_turn>",
+      "@USER @USER @USER నా అభిప్రాయం ప్రకారం అతను పూర్తిగా అందని వ్యక్తి కాదు, కానీ అతను ఆ స్థాయికి దగ్గరగా ఉన్నాడు. డెవిల్స్ జట్టు అతన్ని వేరే జట్టుకు అమ్మితే, నేను సంతోషంగా ఉండాలంటే, చాలా ఎక్కువ విషయాలు జరగాలి, అది ఎవరూ ఊహించని విధంగా ఉండాలి.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER The Human Rights Act 1998 incorporates the rights contained in the ECHR ( drafted 1950 ) . It is therefore unrelated to the EU but rather the Council of Europe . Theresa May was overruled by the SIAC , a UK court . Tories ratified the ECHR in 1951 . #brexitmyths #annoyingremainer",
+    "utterance": "@USER @USER @USER 1998 నాటి మానవ హక్కుల చట్టం, 1950లో రూపొందించబడిన యూరోపియన్ మానవ హక్కుల ఒప్పందంలోని (ECHR) హక్కులను కలిగి ఉంది. కాబట్టి, ఇది యూరోపియన్ యూనియన్‌కు సంబంధించినది కాదు, కానీ యూరోపియన్ కౌన్సిల్‌కు సంబంధించినది. థెరిసా మే తీసుకున్న నిర్ణయాన్ని యూకే కోర్టు అయిన SIAC రద్దు చేసింది. టోరీ పార్టీ 1951లో యూరోపియన్ మానవ హక్కుల ఒప్పందాన్ని ఆమోదించింది. #బ్రెగ్జిట్ పుకార్లు #విసుగు కలిగించే యూరోపియన్ యూనియన్ అనుకూలవాదులు.<end_of_turn>",
+    "input context": [
+      "Clever Remainers promised imminent disaster if we voted to Leave . Then if we triggered Article 50 . Then if we actually left . When ’ s the apocalypse going to happen now , guys ? Perhaps being a self governing country isn ’ t actually a disaster at all ?",
+      "@USER The UK was always self governing . Or are you saying that the Scottish Irish Welsh Assemblies . The Houses of Commons and Lords . The Queen . We're sitting around doing sweet FA for 47 years ?",
+      "@USER @USER @USER They have been using a photocopier to place EU law into British law and it ’ s a bugger changing toner",
+      "@USER @USER @USER 16 % of British laws were from the EU , a number of these will be kept as part of British law .",
+      "@USER @USER @USER 100 % of our laws can be overruled by the ECJ . Our Home Secretary couldn ’ t even deport a terrorist because unelected ECJ judges said that we couldn ’ t .",
+      "@USER @USER @USER But most of the time they won't get involved as legal issues are not involved . Why do you mention the judges are unelected ? British judges are also unelected .",
+      "@USER @USER @USER They did get involved when an Elected Home Secretary wanted to deport a known terrorist . If our judges did the same then Parliament could change the law accordingly . With EU law we just have accept their rulings ."
+    ],
+    "context": [
+      "\"బ్రెగ్జిట్\"కు వ్యతిరేకంగా ఉన్న కొందరు తెలివైన వ్యక్తులు, మనం \"బ్రెగ్జిట్\"కు ఓటు వేస్తే వెంటనే విపత్తు సంభవిస్తుందని చెప్పారు. ఆ తర్వాత, మనం 50వ అధికరణాన్ని అమలు చేస్తే... ఆపై మనం నిజంగానే దేశాన్ని విడిచిపెడితే... ఇప్పుడు వినాశనం ఎప్పుడు సంభవిస్తుంది, స్నేహితులారా? బహుశా, స్వయం పాలన కలిగిన దేశంగా ఉండటం నిజంగా విపత్తు కాకపోవచ్చు కదా?<end_of_turn>",
+      "@USER: యునైటెడ్ కింగ్‌డమ్ ఎప్పుడూ స్వయం పాలన కలిగినదే. లేదా మీరు స్కాటిష్, ఐరిష్, వేల్స్ అసెంబ్లీలు, పార్లమెంట్ యొక్క రెండు సభలు (కామన్స్ మరియు లార్డ్స్), మరియు రాణి... వీరందరూ 47 సంవత్సరాలుగా ఏమీ చేయకుండా కూర్చుని ఉన్నారని మీరు చెబుతున్నారా?<end_of_turn>",
+      "@USER @USER @USER వారు యూరోపియన్ యూనియన్ చట్టాలను బ్రిటీష్ చట్టాలలో పొందుపరచడానికి ఒక ఫోటోకాపీయర్ ఉపయోగిస్తున్నారు, మరియు దాని టోనర్ మార్చడం చాలా కష్టమైన పని.<end_of_turn>",
+      "@USER @USER @USER బ్రిటన్ చట్టాలలో 16% యూరోపియన్ యూనియన్ (EU) నుండి వచ్చినవి. వాటిలో కొన్ని బ్రిటన్ చట్టంలో భాగంగా కొనసాగించబడతాయి.<end_of_turn>",
+      "@USER @USER @USER మా చట్టాలలో 100% చట్టాలను యూరోపియన్ కోర్ట్ ఆఫ్ జస్టిస్ (ECJ) రద్దు చేయగలదు. మా అంతర్గత వ్యవహారాల మంత్రి కూడా ఒక ఉగ్రవాదిని దేశం నుండి బహిష్కరించలేకపోయారు, ఎందుకంటే ఎన్నికైనవారు కాని ECJ న్యాయమూర్తులు మేము అలా చేయలేమని చెప్పారు.<end_of_turn>",
+      "@USER @USER @USER కానీ చాలా సందర్భాలలో, వారు చట్టపరమైన సమస్యలు లేనందున జోక్యం చేసుకోరు. మీరు న్యాయమూర్తులు ఎన్నిక కావడం లేదని ఎందుకు చెబుతున్నారు? బ్రిటీష్ న్యాయమూర్తులు కూడా ఎన్నిక కావడం లేదు.<end_of_turn>",
+      "@USER @USER @USER ఒక ఎన్నికైన హోమ్ సెక్రటరీ ఒక ప్రసిద్ధ ఉగ్రవాదిని దేశం నుండి బహిష్కరించాలని కోరుకున్నప్పుడు వారు జోక్యం చేసుకున్నారు. మన న్యాయమూర్తులు కూడా అదే విధంగా చేస్తే, పార్లమెంటు ఆ చట్టాన్ని తగిన విధంగా మార్చగలదు. యూరోపియన్ యూనియన్ చట్టాల విషయంలో, మనం వారి తీర్పులను అంగీకరించాల్సి ఉంటుంది.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER you didnt get the from Clyburn ? LMFAO <URL>",
+    "utterance": "@USER @USER @USER మీకు క్లైబర్న్ నుండి ఏమైనా వచ్చిందా? నిజంగానేనా? <URL><end_of_turn>",
+    "input context": [
+      "@USER @USER What does that BS have to do with what clyburn said ?",
+      "@USER @USER Employment numbers are 🐂 💩 stats for governments to keep the population fattened up for the slaughter <URL>"
+    ],
+    "context": [
+      "@USER @USER ఆ అసభ్యకరమైన మాటలు క్లైబర్న్ చెప్పిన విషయానికి ఎలా సంబంధం కలిగి ఉన్నాయి?<end_of_turn>",
+      "@USER @USER ఉద్యోగాల సంఖ్య గురించిన గణాంకాలు ప్రభుత్వాలు ప్రజలను మరింతగా ఉపయోగించుకోవడానికి ఉపయోగించే తప్పుడు సమాచారం. <URL><end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER It ’ s now company ’ s responsibility to produce the power they need to keep running . If they can ’ t then they don ’ t deserve to exist . Survival of the fittest , @USER is keeping the economic DNA strong .",
+    "utterance": "@USER: ఇప్పుడు, కంపెనీలు తమ కార్యకలాపాలు కొనసాగించడానికి అవసరమైన విద్యుత్తును ఉత్పత్తి చేయడం వాటి బాధ్యత. ఒకవేళ అవి అలా చేయలేకపోతే, అవి కొనసాగడానికి అర్హులు కావు. \"బలమైనవి మాత్రమే జీవిస్తాయి\" అనే సూత్రం, ఆర్థిక వ్యవస్థను బలంగా ఉంచడానికి సహాయపడుతుంది, @USER.<end_of_turn>",
+    "input context": [
+      "So load shedding ended at 6am but starts again at 9am ? I guess at least people can get ready for work etc ? <URL>",
+      "@USER Get's ready to go to the work with no power ."
+    ],
+    "context": [
+      "అలా అయితే, విద్యుత్ సరఫరా నిలిచిపోయిన సమయం ఉదయం 6 గంటలకు ముగుస్తుంది, కానీ మళ్ళీ ఉదయం 9 గంటలకు మొదలవుతుందా? కనీసం ప్రజలు తమ పనులకు సిద్ధం కావడానికి ఇది కొంత సమయం ఇస్తుందని నేను అనుకుంటున్నాను. <URL><end_of_turn>",
+      "@USER పని చేయడానికి సిద్ధమవుతున్నారు, కానీ విద్యుత్ సరఫరా లేదు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER You skills of persuasion are mind blowing . Bernie is so lucky to have you . <URL>",
+    "utterance": "@USER @USER @USER మీ యొక్క ఒప్పించే నైపుణ్యాలు చాలా అద్భుతంగా ఉన్నాయి. బెర్నీ మిమ్మల్ని తనతో ఉంచుకోవడం చాలా అదృష్టం. <URL><end_of_turn>",
+    "input context": [
+      "Okay angry Berners , you can stop tweeting at me . You really do not seem to understand that alienating voters who could one day vote for you is a bad idea .",
+      "@USER I ’ ll vote for the democratic nominee , but the cult personality of the Bernie Bro ’ s is just as bothersome to me as that of the Trumpers . Not comparing the two candidates , just the image of infalibility that supporters of both carry . It ’ s scary and alienating in a political arena",
+      "@USER @USER My preferred candidate was Kamala . Bernie was second . Solely because of his followers , he's gone down . I'm sure I'm not the only one . Keep that in mind , Bernie Bros . You want him to win ? Stop being like MAGAts .",
+      "@USER @USER @USER So you must have zero skin in the game if some people being mean online changes your political affiliation ."
+    ],
+    "context": [
+      "సరే, కోపంగా ఉన్న బెర్నర్స్, మీరు నన్ను టవీట్ చేయడం ఆపవచ్చు. ఓటర్లను దూరం చేయడం, వారు ఒకరోజు మీకు ఓటు వేయగల వ్యక్తులు కావచ్చు, ఇది మంచి ఆలోచన కాదని మీకు అర్థం కావడం లేదు.<end_of_turn>",
+      "@USER నేను డెమోక్రటిక్ పార్టీ అభ్యర్థికి ఓటు వేస్తాను, కానీ \"బెర్నీ బ్రోస్\" యొక్క వ్యక్తిత్వ లక్షణాలు కూడా ట్రంప్ మద్దతుదారుల వ్యక్తిత్వ లక్షణాల వలె నాకు అసౌకర్యంగా ఉంటాయి. నేను ఇద్దరు అభ్యర్థులను పోల్చడం లేదు, కేవలం ఇద్దరి మద్దతుదారులు కలిగి ఉన్న \"తప్పులు లేనివారు\" అనే భావన గురించి మాట్లాడుతున్నాను. ఇది రాజకీయ రంగంలో భయానకంగా మరియు దూరం చేసే విధంగా ఉంది.<end_of_turn>",
+      "@USER @USER నా మొదటి ఎంపిక కమలా. బెర్నీ రెండవ స్థానంలో ఉన్నారు. కేవలం ఆయన అనుచరుల వల్లనే ఆయన ఓడిపోయారు. నేను ఒక్కడినే కాదు, చాలా మంది ఇలా భావించి ఉంటారు. దయచేసి గుర్తుంచుకోండి, బెర్నీ అనుచరులారా. మీరు ఆయన గెలవాలని కోరుకుంటున్నారా? అయితే, MAGAts (మాగ్గట్స్) లాగా ప్రవర్తించడం ఆపండి.<end_of_turn>",
+      "@USER @USER @USER అంటే, కొంతమంది వ్యక్తులు ఆన్‌లైన్‌లో దురుసుగా ప్రవర్తించడం వల్ల మీ రాజకీయ అభిప్రాయాలు మారితే, మీరు ఈ విషయంపై ఎటువంటి వ్యక్తిగత ఆసక్తి లేదా అనుభవం కలిగి ఉండకూడదు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Yeah because these people have taken a gun to the head of the people donating to make them donate Donating to something is a fucking CHOICE .",
+    "utterance": "@USER @USER @USER అవును, ఎందుకంటే ఈ వ్యక్తులు విరాళాలు ఇచ్చే ప్రజలను బెదిరించి, వారి నుండి డబ్బు వసూలు చేస్తున్నారు. ఏదైనా సంస్థకు విరాళం ఇవ్వడం అనేది పూర్తిగా వ్యక్తిగత ఎంపిక.<end_of_turn>",
+    "input context": [
+      "shawn hufford just admitted that instead of going out and working a job , he runs constant gofundme campaigns and spies & eavesdrops on a discord server on other peoples conversations ... newsflash - ive known that sheena and 1st world are on steves side and purposely let them stay",
+      "@USER Care to screenshot that ? I'd like to see that one",
+      "@USER @USER Sure Support a creator or artist so they can create 👍 🏼 Charity should be for those in need sick , struggling people who are unable to provide due to extenuating circumstances ? How about children starving ? Homelessness ? Tragedy ? R ppl really taking advantage of others kindness 🤮"
+    ],
+    "context": [
+      "షాన్ హఫ్‌ఫోర్డ్ ఇప్పుడే ఒక విషయాన్ని ఒప్పుకున్నాడు: అతను బయటకు వెళ్లి ఉద్యోగం చేసే బదులు, నిరంతరం GoFundMe ప్రచారాలు నిర్వహిస్తున్నాడు. అంతేకాకుండా, ఇతర వ్యక్తుల సంభాషణలను గూఢచర్యం చేస్తూ, డిస్కార్డ్ సర్వర్‌పై నిఘా పెడుతున్నాడు... ఒక ముఖ్యమైన విషయం: షీనా మరియు ఫస్ట్ వరల్డ్ స్టీవ్ వైపు ఉన్నాయి, మరియు నేను వాటిని ఉద్దేశపూర్వకంగానే అలానే ఉంచాను.<end_of_turn>",
+      "@USER దాన్ని స్క్రీన్షాట్ తీసుకుని నాకు పంపగలరా? నేను అది చూడాలనుకుంటున్నాను.<end_of_turn>",
+      "@USER @USER ఖచ్చితంగా, ఒక సృష్టికర్తను లేదా కళాకారుడిని ప్రోత్సహించండి, తద్వారా వారు మరింత సృజనాత్మకంగా పనిచేయగలరు. దాతృత్వం అనేది అవసరమైన, అనారోగ్యంతో ఉన్న, కష్టాల్లో ఉన్న వ్యక్తులకు మాత్రమే కాదా? ప్రత్యేక పరిస్థితుల కారణంగా సహాయం చేయలేని వారికి మాత్రమే కాదా? ఆకలితో అలమటిస్తున్న పిల్లలు, నిరాశ్రయులైన వ్యక్తులు, విషాద పరిస్థితులు ఎదుర్కొంటున్న వ్యక్తులు కూడా దీని పరిధిలోకి రావాలి కదా? ప్రజలు నిజంగా ఇతరుల దయను ఉపయోగించుకుంటున్నారా? 🤮<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Oh , a Bullough liked this comment",
+    "utterance": "@USER @USER @USER ఓహ్, బల్లాగ్ ఈ వ్యాఖ్యను ఇష్టపడ్డారు.<end_of_turn>",
+    "input context": [
+      "Most draft eligible players train at state-of-the-art facilities in Florida or Arizona but Michigan State DE Kenny Willikes is back home in Grand Rapids , MI at the same gym he ’ s been training at since high school . Not judging the others but we like Willikes ’ old-school approach . <URL>",
+      "@USER @USER @USER He needs to be close to his ‘ roids dealer",
+      "@USER @USER @USER Such a bad post , Art . Be better ."
+    ],
+    "context": [
+      "చాలా మంది ఆటగాళ్ళు, వీరు డ్రాఫ్ట్ కోసం ఎంపికయ్యే అవకాశం ఉన్నవారు, ఫ్లోరిడా లేదా అరిజోనాలోని అత్యాధునిక శిక్షణ కేంద్రాలలో శిక్షణ పొందుతారు. అయితే, మిచిగాన్ స్టేట్ డిఫెన్సివ్ ఎండ్ కెన్నీ విలిక్స్ తన సొంత ఊరు గ్రాండ్ రాపిడ్స్, మిచిగాన్‌లో ఉన్న ఒక వ్యాయామశాలలో శిక్షణ పొందుతున్నాడు. అతను హైస్కూల్ నుండి ఇప్పటి వరకు అదే వ్యాయామశాలలో శిక్షణ పొందుతున్నాడు. ఇతరులను విమర్శించాలనే ఉద్దేశం లేదు, కానీ మాకు విలిక్స్ యొక్క సాంప్రదాయ విధానం నచ్చుతుంది. <URL><end_of_turn>",
+      "@USER @USER @USER అతను తన 'స్టెరాయిడ్స్' (శరీర నిర్మాణానికి ఉపయోగించే మందులు) సరఫరాదారుకు దగ్గరగా ఉండాలి.<end_of_turn>",
+      "@USER @USER @USER ఇది చాలా అధ్వాన్నమైన పోస్ట్. మీరు మరింత మెరుగ్గా రాయగలరు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Sadly , a Three Year Old Is Likely to Have a Better Understanding of History than Those Three Pompous , Reactionary Gasbags #GOP #PartyOfLincoln #Democrats",
+    "utterance": "@USER @USER @USER దురదృష్టవశాత్తు, మూడు సంవత్సరాల వయస్సున్న పిల్లలు కూడా, ఆ ముగ్గురు గర్విష్ఠమైన, సంప్రదాయవాద వ్యక్తుల కంటే చరిత్ర గురించి మెరుగైన అవగాహన కలిగి ఉండే అవకాశం ఉంది. #రిపబ్లికన్ పార్టీ #లింకన్ పార్టీ #డెమోక్రటిక్ పార్టీ.<end_of_turn>",
+    "input context": [
+      "Some excellent commentary by @USER @USER @USER and others <URL>",
+      "@USER @USER @USER Thanks for the shout out David !",
+      "@USER @USER @USER It's awesome that reaches out to historians that bring real expertise"
+    ],
+    "context": [
+      "@USER, @USER, @USER మరియు ఇతర వ్యక్తులు చేసిన కొన్ని అద్భుతమైన వ్యాఖ్యలు ఇక్కడ ఉన్నాయి: <URL><end_of_turn>",
+      "@USER @USER @USER డేవిడ్, మీరు మమ్మల్ని ప్రస్తావించినందుకు ధన్యవాదాలు!<end_of_turn>",
+      "@USER @USER @USER ఇది చాలా గొప్ప విషయం. చరిత్రకారులతో సంబంధాలు ఏర్పరచుకోవడం ద్వారా నిజమైన నైపుణ్యాన్ని పొందవచ్చు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Bidwill clearly has no idea about the cardinals . I mean we ALL know more on Twitter",
+    "utterance": "@USER @USER @USER బిడ్‌విల్ వారికి \"కార్డినల్స్\" గురించి ఏ మాత్రం అవగాహన లేదని స్పష్టంగా తెలుస్తోంది. అంటే, ట్విట్టర్‌లో మనమందరం వారికి కంటే ఎక్కువ విషయాలు తెలుసని అర్థం చేసుకోవచ్చు.<end_of_turn>",
+    "input context": [
+      "Bidwill paraphrased on @USER this morning : He hopes fans recognize a lot of the good things the team is doing is because of [ Keim ’ s ] decisions , said to look at the guys not available have on defense last year & noted that ’ s something any GM would have struggled with .",
+      "@USER @USER What does any of that have to do with us wanting keim fired ? Bidwill is out of touch ."
+    ],
+    "context": [
+      "బిడ్‌విల్ ఈ ఉదయం @USERలో ఇలా అన్నారు: \"జట్టు చేస్తున్న మంచి పనులను అభిమానులు గుర్తించాలని ఆయన ఆశిస్తున్నారు. జట్టులో జరుగుతున్న చాలా మంచి విషయాలు [కీమ్] తీసుకున్న నిర్ణయాల ఫలితంగానే జరుగుతున్నాయి. గత సంవత్సరం అందుబాటులో లేని ఆటగాళ్ళు రక్షణ విభాగంలో చూపిన సామర్థ్యాన్ని గమనించండి. ఒక జనరల్ మేనేజర్ (GM) కూడా అలాంటి పరిస్థితుల్లో ఇబ్బంది పడేవారు.\"<end_of_turn>",
+      "@USER @USER దీనిలో ఏదీ మనం కీమ్‌ను తొలగించాలని కోరుకోవడానికి సంబంధించినది కాదు. బిడ్‌విల్ పరిస్థితిని సరిగ్గా అర్థం చేసుకోలేకపోతున్నారు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Yeah , well Bernie-hating opponents have accused him of being anti-semitic , so he must be a racist 😛",
+    "utterance": "@USER @USER @USER అవును, బెర్నీని వ్యతిరేకించే కొంతమంది ఆయనను యూదు వ్యతిరేక భావాలు కలిగిన వ్యక్తి అని ఆరోపించారు, కాబట్టి ఆయన జాతి వివక్ష కలిగిన వ్యక్తి అయి ఉండాలి 😛<end_of_turn>",
+    "input context": [
+      "THREAD about last night's #IowaCaucuses : 1 . Bernie is the national frontrunner and there is no reason for this debacle to slow him down . 2 . Our campaign expands when it focusses on the issues that matter most to people and harnesses the loving power of #NotMeUs .",
+      "@USER I'd love if Bernie Sanders became President , but as with Jeremy Corbyn in the UK , the establishment machine , both democrat and republican , will attack him in any way they can . <URL>",
+      "@USER @USER Bernie is a significantly better candidate than Corbyn ."
+    ],
+    "context": [
+      "నిన్న రాత్రి జరిగిన #ఐయోవాకాకసెస్ గురించిన సమాచారం:\n1. బెర్నీ జాతీయ స్థాయిలో అగ్రగామిగా ఉన్నారు, మరియు ఈ వైఫల్యం ఆయన పురోగతిని ఆపడానికి ఎటువంటి కారణం లేదు.\n2. మా ప్రచారం ప్రజలకు చాలా ముఖ్యమైన సమస్యలపై దృష్టి సారించినప్పుడు మరియు #నాట్మీఅస్ యొక్క ప్రేమపూర్వక శక్తిని ఉపయోగించినప్పుడు మరింత విస్తరిస్తుంది.<end_of_turn>",
+      "@USER బెర్నీ శాండర్స్ అధ్యక్షుడిగా ఎన్నికైతే నాకు చాలా సంతోషంగా ఉంటుంది. కానీ, బ్రిటన్‌లో జెరెమీ కార్బిన్ ఎదుర్కొన్నట్లుగానే, డెమోక్రటిక్ మరియు రిపబ్లికన్ పార్టీలకు చెందిన అధికార వర్గాలు కూడా ఆయనపై ప్రతికూలంగా స్పందించి, సాధ్యమైన అన్ని మార్గాల్లో ఆయనను విమర్శిస్తాయి. <URL><end_of_turn>",
+      "@USER @USER బెర్నీ, కార్బన్‌ కంటే చాలా మెరుగైన అభ్యర్థి.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Yes , feeling free to vandalize property that doesn ’ t belong too you is the American Dream 🤦 ‍ ♀ ️",
+    "utterance": "@USER @USER అవును, ఇతరుల ఆస్తిని ధ్వంసం చేయడం స్వేచ్ఛగా చేయడమే అమెరికన్ కల అని భావించడం చాలా విచిత్రమైన విషయం. 🤦‍♀️<end_of_turn>",
+    "input context": [
+      "These people should be sent to 20 years of community service . Get a freakin life . <URL>",
+      "@USER Protesting is as American as apple pie . From the Revolutionary Fathers to today . Glad we live in a society where it's not illegal ."
+    ],
+    "context": [
+      "ఈ వ్యక్తులను 20 సంవత్సరాల పాటు సామాజిక సేవలో నియమించాలి. దయచేసి మీ జీవితాన్ని సంతోషంగా గడపండి. <URL><end_of_turn>",
+      "@USER నిరసనలు చేయడం అనేది అమెరికా సంస్కృతిలో ఒక భాగం. ఇది విప్లవ కాలం నుండి నేటి వరకు కొనసాగుతోంది. మనం ఒక sådan సమాజంలో జీవిస్తున్నందుకు సంతోషంగా ఉంది, ఇక్కడ నిరసనలు చేయడం చట్టవిరుద్ధం కాదు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER In Austin Texas dogs can eat in restaurants ( law passed ) but a homeless * human * has to beg for dog food . Priorities . Idiocracy . #Liberals #AustinTx #ATX",
+    "utterance": "@USER @USER @USER టెక్సాస్ రాష్ట్రంలోని ఆస్టిన్ నగరంలో, కుక్కలు రెస్టారెంట్లలో ఆహారం తినవచ్చు (ఈ చట్టం ఆమోదించబడింది), కానీ నిరాశ్రయులైన *మనిషి* మాత్రం కుక్క ఆహారం కోసం వేచి ఉండాల్సి వస్తుంది. ఇది నిజంగా విడ్డూరమైన విషయం. #లిబరల్స్ #ఆస్టిన్Tx #ATX<end_of_turn>",
+    "input context": [
+      "Businesses & residents are leaving downtown Austin , & others fear going there because of increases in attacks , feces , etc . The response by city leaders : citizens & business are wrong & city leaders know better . It's time to start listening to citizens . <URL>",
+      "@USER @USER and the rest of the city council do not care about us . Took a stabbing in our parking lot to get an aide of @USER to call back . I guess couldn ’ t find the time herself to call .",
+      "@USER @USER @USER The last time I ate at , a homeless man demanded our leftovers for his dog as we were walking back to our car , and yelled at us when we declined to give them to him . Put a damper on an otherwise nice evening ."
+    ],
+    "context": [
+      "ఆస్టిన్ నగరంలోని ప్రధాన ప్రాంతం నుండి వ్యాపారాలు మరియు నివాసితులు తరలిపోతున్నారు, మరియు మరికొందరు అక్కడకు వెళ్లడానికి భయపడుతున్నారు. దీనికి కారణం దాడులు, మురికివాడలు వంటి సమస్యలు పెరగడం. అయితే, నగర నాయకుల స్పందన ఏమిటంటే: పౌరులు మరియు వ్యాపారవేత్తలు పొరపాటు చేస్తున్నారు, మరియు నగర నాయకులకు అంతా తెలుసు. ఇప్పుడు పౌరుల మాట వినే సమయం వచ్చింది. <URL><end_of_turn>",
+      "@USER, @USER మరియు మిగిలిన సిటీ కౌన్సిల్ సభ్యులు మా గురించి పట్టించుకోవడం లేదు. మా పార్కింగ్ స్థలంలో ఒక వ్యక్తిపై దాడి జరిగిన తర్వాత, @USER యొక్క ఒక సహాయకుడు మాత్రమే తిరిగి ఫోన్ చేశారు. బహుశా, ఆమె స్వయంగా ఫోన్ చేయడానికి సమయం దొరకలేదని నేను అనుకుంటున్నాను.<end_of_turn>",
+      "@USER @USER @USER నేను చివరిసారిగా ఆ రెస్టారెంట్‌లో భోజనం చేసినప్పుడు, మేము మా కారు దగ్గరకు నడుచుకుంటూ వెళ్తుండగా, ఒక నిరాశ్రయుడైన వ్యక్తి మా మిగిలిన ఆహారాన్ని తన కుక్క కోసం ఇవ్వమని డిమాండ్ చేశాడు. మేము ఇవ్వడానికి నిరాకరించినప్పుడు, అతను మాపై అరుస్తూ తిట్టాడు. ఇది లేకపోతే చాలా ఆహ్లాదకరంగా ఉండే సాయంత్రానికి ప్రతికూలంగా మారింది.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER Would it help if I told you that I'm trying to leave you because your service is so poor . And I find I can't migrate my domains away because ... your service is so poor .",
+    "utterance": "@USER మీరు నా సేవ చాలా అధ్వాన్నంగా ఉండటం వల్ల నేను మిమ్మల్ని విడిచి వెళ్లడానికి ప్రయత్నిస్తున్నానని మీకు చెబితే అది మీకు సహాయపడుతుందా? మరియు నేను నా డొమైన్‌లను వేరే చోటికి మార్చలేకపోతున్నాను... ఎందుకంటే మీ సేవ చాలా నాణ్యత లేనిది.<end_of_turn>",
+    "input context": [
+      "@USER I cannot raise a trouble ticket on your website ( I'm getting error code \" 502 Bad Gateway \" ) . When will your service be back up ?",
+      "@USER BTW , the page I was trying to access was : <URL>",
+      "@USER Perhaps I should add that I'm trying to raise a trouble ticket on you because I'm moving all my domains AWAY from you due to your lousy service . Your non-reply to my tweet is just one more example of your LOUSY SERVICE .",
+      "@USER Hello . We're so sorry for the delay in getting back to you . We have no reported issues in regards to what you're describing . Is this still ongoing on your end ? Please send us a DM with your account details if so and we will gladly get in touch to help .",
+      "@USER Yes , its working now and I've just raised a trouble ticket with you . Ta .",
+      "@USER When can I expect a reply ? Its now been 24 hours . TICKET ID : 200214-0001 62"
+    ],
+    "context": [
+      "@వినియోగదారుడు: నేను మీ వెబ్‌సైట్‌లో సమస్యను తెలియజేయడానికి ప్రయత్నిస్తున్నాను, కానీ నాకు \"502 బ్యాడ్ గేట్‌వే\" అనే ఎర్రర్ కోడ్ వస్తోంది. మీ సేవ ఎప్పుడు తిరిగి అందుబాటులోకి వస్తుంది?<end_of_turn>",
+      "@వినియోగదారు, నేను యాక్సెస్ చేయడానికి ప్రయత్నించిన పేజీ ఇది: <URL><end_of_turn>",
+      "@USER బహుశా నేను మీకు ఒక ఫిర్యాదును నమోదు చేయాలనుకుంటున్నాను. ఎందుకంటే మీ పేలవమైన సేవ కారణంగా నేను నా డొమైన్‌లన్నింటినీ మీ నుండి వేరే చోటికి తరలిస్తున్నాను. నా ట్వీట్‌కు మీరు స్పందించకపోవడం అనేది మీ నాణ్యత లేని సేవకు ఒక ఉదాహరణ మాత్రమే.<end_of_turn>",
+      "@USER నమస్కారం. మిమ్మల్ని సంప్రదించడానికి ఆలస్యం అయినందుకు మేము చాలా విచారం వ్యక్తం చేస్తున్నాము. మీరు వివరిస్తున్న సమస్యకు సంబంధించి మాకు ఎటువంటి ఫిర్యాదులు అందలేదు. ఒకవేళ మీకు ఇప్పటికీ ఆ సమస్య కొనసాగుతుంటే, దయచేసి మీ ఖాతా వివరాలతో మాకు ఒక డైరెక్ట్ మెసేజ్ (DM) పంపండి. మేము వెంటనే మిమ్మల్ని సంప్రదించి సహాయం చేయడానికి సిద్ధంగా ఉన్నాము.<end_of_turn>",
+      "@USER అవును, ఇది ఇప్పుడు పనిచేస్తోంది. నేను మీతో ఒక సమస్య పరిష్కార టికెట్‌ను కూడా నమోదు చేశాను. ధన్యవాదాలు.<end_of_turn>",
+      "@వినియోగదారుడు: నేను మీ నుండి సమాధానం ఎప్పుడు వస్తుందని ఆశిస్తున్నాను? ఇది ఇప్పుడు 24 గంటలు దాటిపోయింది. టికెట్ ఐడి: 200214-0001 62.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER She accepted it by texting him",
+    "utterance": "@USER @USER ఆమె అతనికి ఒక సందేశం పంపి దానిని అంగీకరించింది.<end_of_turn>",
+    "input context": [
+      "Scottish Government Finance Secretary Derek Mackay has resigned after @USER revealed he pestered a schoolboy in private social media messages",
+      "Derek Mackay said : \" I take full responsibility for my actions . I have behaved foolishly and I am truly sorry . I apologise unreservedly to the individual involved and his family . I spoke last night with the First Minister and tendered my resignation with immediate effect . \"",
+      "Nicola Sturgeon said : \" Derek has taken full responsibility for his actions and apologises unreservedly for them to the individual involved and to those he has let down . He has submitted his resignation as a government minister which I have accepted . \""
+    ],
+    "context": [
+      "స్కాటిష్ ప్రభుత్వ ఆర్థిక శాఖ మంత్రి డెరెక్ మాక్‌కే, ఒక పాఠశాల విద్యార్థికి వ్యక్తిగత సోషల్ మీడియా సందేశాల ద్వారా వేధింపులకు గురి చేశారని @USER వెల్లడించిన తరువాత ఆయన పదవికి రాజీనామా చేశారు.<end_of_turn>",
+      "డెరెక్ మకే మాట్లాడుతూ, \"నేను చేసిన పనులకు పూర్తిగా బాధ్యత వహిస్తున్నాను. నేను తెలివితక్కువగా ప్రవర్తించాను, మరియు నేను నిజంగా క్షమాపణ కోరుతున్నాను. ఈ సంఘటనలో సంబంధిత వ్యక్తికి మరియు అతని కుటుంబానికి నేను మనస్ఫూర్తిగా క్షమాపణలు చెబుతున్నాను. నేను నిన్న రాత్రి ముఖ్యమంత్రిని సంప్రదించాను మరియు వెంటనే నా పదవికి రాజీనామా చేశాను.\"<end_of_turn>",
+      "నికోలా స్టర్జన్ మాట్లాడుతూ, \"డెరెక్ తన చర్యలకు పూర్తి బాధ్యత వహించాడు. అతను సంబంధిత వ్యక్తికి మరియు అతను నిరాశపరిచిన వ్యక్తులకు తన చర్యల గురించి ఎటువంటి షరతులు లేకుండా క్షమాపణలు కోరాడు. అతను ప్రభుత్వ మంత్రి పదవికి రాజీనామా చేశాడు, నేను దానిని అంగీకరించాను.\"<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Not many white faces in the picture ? Problem with camera",
+    "utterance": "@USER @USER ఈ చిత్రంలో చాలా తక్కువమంది తెల్లజాతి వారు ఉన్నారు కదా? కెమెరాలో ఏదైనా సమస్య ఉందేమో.<end_of_turn>",
+    "input context": [
+      "👇 Citizen Khan believes in gender equality of course . <URL>",
+      "@USER @USER Funny how with a regular series of fatal stabbings this relatively minor incident seems to be the only one he turns up to show support for . Can't fathom why ?",
+      "@USER @USER Yes very strange I can't understand it ?"
+    ],
+    "context": [
+      "👇 సిటిజెన్ ఖాన్ లింగ సమానత్వానికి ఖచ్చితంగా మద్దతు ఇస్తారు. <URL><end_of_turn>",
+      "@USER @USER వింతగా ఉంది, వరుసగా జరుగుతున్న ప్రాణాంతకమైన కత్తి పోట్లకు సంబంధించి, ఈ చిన్న సంఘటనకు మాత్రమే అతను మద్దతుగా హాజరవుతున్నాడు. దీనికి కారణం ఏమిటో నాకు అర్థం కావడం లేదు.<end_of_turn>",
+      "@USER @USER అవును, ఇది చాలా వింతగా ఉంది. నాకు ఇది అర్థం కావడం లేదు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER “ but I look cute tho fuck how the dog feels ” wow you sound like a great animal rights advocate",
+    "utterance": "@USER @USER \"కానీ నేను అందంగా ఉన్నాను, కుక్కకు ఎలా ఉంటుందో నాకు పట్టించుకోను.\" మీరు గొప్ప జంతు హక్కుల న్యాయవాదిలా మాట్లాడుతున్నారు.\"<end_of_turn>",
+    "input context": [
+      "Y ’ all really bullied Jenna Marbles into deleting her video / making an apology for testing a dog harness she didn ’ t make or condone . She tried it for 30 seconds , saw her dogs were stressed & stopped . How fucking dare y ’ all for saying she abused her dogs . Leave this woman alone <URL>",
+      "@USER So she ’ s had problems looking after hamsters fish and dogs . Maybe she should learn how to look after animals before she gets them ."
+    ],
+    "context": [
+      "మీరంతా జెన్నా మార్బుల్స్‌ను ఆమె కుక్కల కోసం తయారు చేయని లేదా ఆమె ఆమోదించని ఒక హార్నెస్‌ను పరీక్షించిన వీడియోను తొలగించేలా లేదా క్షమాపణ చెప్పేలా తీవ్రంగా ఒత్తిడి చేశారు. ఆమె దానిని కేవలం 30 సెకన్ల పాటు మాత్రమే ప్రయత్నించింది, ఆమె కుక్కలు ఆందోళనగా ఉన్నాయని చూసి వెంటనే ఆపేసింది. ఆమె తన కుక్కలను హింసించిందని మీరు ఎలా చెప్పగలరు? దయచేసి ఈ మహిళను ఒంటరిగా వదిలేయండి. <URL><end_of_turn>",
+      "@USER ఆమెకు హామ్స్టర్లు, చేపలు మరియు కుక్కలను చూసుకోవడంలో సమస్యలు ఉన్నాయి. బహుశా ఆమె జంతువులను తీసుకుే ముందు, వాటిని ఎలా చూసుకోవాలో నేర్చుకోవడం మంచిది.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Surely TN Governor Blanton would “ think twice ” before doing bad things , so why did Alexander assume his office secretly , and before the voters anticipated ? #hypocrisy",
+    "utterance": "@USER @USER @USER ఖచ్చితంగా, తమిళనాడు గవర్నర్ బ్లంటన్, చెడు పనులు చేసే ముందు \"రెండుసార్లు ఆలోచిస్తారు\" కదా, మరి అలెగ్జాండర్ తన పదవిని ఎందుకు రహస్యంగా, మరియు ఓటర్లు ఊహించే ముందు ఎందుకు చేపట్టారు? #అసమర్థత<end_of_turn>",
+    "input context": [
+      "No ! No he won't ! And you damn well know it ! You coward ! ( Sorry . I think that's just * one lie too many * for me , today . ) <URL>",
+      "@USER @USER @USER I hope I run in to him in town . He ’ s retiring near me . I ’ ll never let him forget what he did .",
+      "@USER @USER @USER Lamar ’ s career began by helping Patriotic Tennesseans swear him in as Gov early to prevent Governor Blanton ’ s continuing bad behavior . #hypocrisy"
+    ],
+    "context": [
+      "లేదు! అతను అలా చేయడు! మీకు కూడా తెలుసు కదా! ఓ పిరికివాడా! (క్షమించండి. నాకు అనిపిస్తోంది, ఈ రోజు నేను చాలా అబద్ధాలు విన్నాను.) <URL><end_of_turn>",
+      "@USER @USER @USER నేను అతన్ని పట్టణంలో ఎక్కడైనా కలుస్తానని ఆశిస్తున్నాను. అతను నా దగ్గరే ప్రాంతంలో పదవీ విరమణ చేస్తున్నారు. అతను చేసిన పనిని నేను ఎప్పటికీ అతన్ని గుర్తు చేయిస్తాను.<end_of_turn>",
+      "@USER @USER @USER లామార్ యొక్క రాజకీయ జీవితం ప్రారంభం కావడం వెనుక కారణం ఏమిటంటే, దేశభక్తులైన టెన్నెస్సీ ప్రజలు ఆయనను గవర్నర్‌గా తొందరగా నియమించారు. దీని వెనుక ఉద్దేశం ఏమిటంటే, గవర్నర్ బ్లంటన్ యొక్క కొనసాగుతున్న దుష్ప్రవర్తనను నివారించడం. #దౌత్యం.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "OMG they just walked right past me ! ! Thankfully I was distracted by an actual customer and could give them some deserved inattention .",
+    "utterance": "ఓహ్ మై గాడ్! వాళ్ళు నన్ను చూసి కూడా వెళ్ళిపోయారు! అదృష్టవశాత్తూ, నేను ఒక నిజమైన కస్టమర్‌తో మాట్లాడేలోగా, నేను వాళ్ళను పట్టించుకోకుండా ఉండగలిగాను.<end_of_turn>",
+    "input context": [
+      "The mall has some TikTok-ers doing a meet & greet today . Right now they're doing a shoot right by me and have done at least six takes of their routine so far . #bored",
+      "They've got their own little entourage ( one may even be a mom #lqtm ) and a couple of mall cops escorting them around #whatever",
+      "Actually , there may even be two moms !",
+      "And now they left . May be doing a second photo op b / c they were going in a different direction from where was roped off . #carryon",
+      "And the Donut Museum had a couple of people trying to hand out fliers . #denied"
+    ],
+    "context": [
+      "ఈ షాపింగ్ మాల్‌లో ఈరోజు కొంతమంది టిక్‌టాక్ వినియోగదారులు అభిమానులతో సమావేశమవుతున్నారు. ప్రస్తుతం, వారు నా దగ్గరలోనే ఒక వీడియో చిత్రీకరణ చేస్తున్నారు, మరియు వారు ఇప్పటివరకు కనీసం ఆరుసార్లు తమ ప్రదర్శనను చిత్రీకరించారు. #విసుగు.<end_of_turn>",
+      "వారికి వారి స్వంత చిన్న బృందం ఉంది (ఒకరు బహుశా తల్లి కూడా కావచ్చు #lqtm), మరియు కొందరు సెక్యూరిటీ గార్డులు వారిని ఎక్కడికి వెళ్లినా కాపాడుతూ ఉంటారు. #ఏదైనా కావచ్చు.<end_of_turn>",
+      "వాస్తవానికి, అక్కడ రెండు మంది తల్లులు కూడా ఉండవచ్చు!<end_of_turn>",
+      "ఇప్పుడు వారు వెళ్ళిపోయారు. బహుశా వారు మరొక ఫోటో సెషన్ కోసం వెళ్తున్నారు, ఎందుకంటే వారు వేరే దిశలో వెళ్తున్నారు, అక్కడ తాడుతో పరిధిని వేయబడింది. #కొనసాగించండి.<end_of_turn>",
+      "\"డొనట్ మ్యూజియం వద్ద కొంతమంది వ్యక్తులు ఫ్లైయర్‌లు పంచుకోవడానికి ప్రయత్నిస్తున్నారు. #తిరస్కరించబడింది\"<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Bordeaux ? Ah well as a little Englander you've got me there . I am terrified of going to France ... Or anywhere foreign . You have a sole monopoly on that , well done . I know no foreigners whatsoever . but he's beyond all parody .",
+    "utterance": "@USER @USER @USER బోర్డియా? ఓహ్, మీరు నన్ను చిక్కుకున్నారు. నేను ఒక చిన్న ఇంగ్లీష్ వ్యక్తిని కాబట్టి, ఫ్రాన్స్‌కు వెళ్లడానికి నాకు చాలా భయం. లేదా ఏదైనా విదేశాలకు వెళ్లడానికి కూడా భయం. మీరు దానిలో పూర్తిగా ఆధిపత్యం కలిగి ఉన్నారు, అభినందనలు. నాకు ఏ విదేశీయులు కూడా తెలియదు. కానీ అతను అన్నింటికంటే చాలా వింతగా ఉన్నాడు.<end_of_turn>",
+    "input context": [
+      "Well I have just had 2 days in Germany . That was humiliating and depressing . Pretty much everyone I met from a random guy in a lift to my colleagues in the meetings , on finding out I was English said \" Brexit \" and laughed .",
+      "@USER Business owners I meet in Italy are very envious and jealous we have escaped the rotten EU and can't wait to join us 🤷",
+      "@USER @USER I must have employed half of Northern Poland's migrants at one point or another and 10 years ago they were pro-eu and laughed at us . They aren't laughing now . Poland is heading for the door , I'm sure of it .",
+      "@USER @USER @USER Meanwhile , their casual labour is heading to France for the grape picking this summer .",
+      "@USER @USER @USER Really ? You have evidence to back that up ? I'm talking about official.ecidence and not nonsense your preferred political bias magazine ?",
+      "@USER @USER @USER I was down in Bordeaux last year , talking to wineries . It will be a relief for them if - as seems to be the case according to agencies supplying fruit pickers - less are going to the UK .",
+      "@USER @USER @USER Yes , someone I spoke to on twitter knows someone who told someone else that he heard from another person that you are talking rubbish .",
+      "@USER @USER @USER Except I was there . Enjoy the storm ."
+    ],
+    "context": [
+      "సరే, నేను ఇప్పుడే రెండు రోజులు జర్మనీలో ఉన్నాను. అది చాలా అవమానకరంగా మరియు నిరుత్సాహపరిచే అనుభవం. నేను కలిసిన దాదాపు ప్రతి ఒక్కరూ, లిఫ్ట్‌లో కలిసిన ఒక సాధారణ వ్యక్తి నుండి సమావేశాలలో నా సహోద్యోగుల వరకు, నేను ఇంగ్లీష్ అని తెలుసుకున్నప్పుడు \"బ్రెగ్జిట్\" అని అంటూ నవ్వారు.<end_of_turn>",
+      "\"నేను ఇటలీలో కలిసే వ్యాపార యజమానులు చాలా అసూయతో, అసంతృప్తితో ఉన్నారు. మనం యూరోపియన్ యూనియన్ (EU) నుండి బయటపడ్డామని, మనతో చేరడానికి వారు ఆసక్తిగా ఉన్నారు.\"<end_of_turn>",
+      "@USER @USER ఒకానొక సమయంలో నేను ఉత్తర పోలాండ్‌కు చెందిన వలసదారులలో సగం మందికి ఉద్యోగాలు ఇచ్చి ఉండవచ్చు. పది సంవత్సరాల క్రితం వారు యూరోప్‌ను సమర్థించేవారు మరియు మనల్ని చూసి నవ్వుకునేవారు. కానీ ఇప్పుడు వారు నవ్వడం లేదు. పోలాండ్ ఒక నిర్ణయం తీసుకునే దశలో ఉంది, నేను ఖచ్చితంగా చెప్పగలను.<end_of_turn>",
+      "@USER @USER @USER ఇంతలో, వారిలో కొందరు తాత్కాలిక కార్మికులు ఈ వేసవిలో ద్రాక్ష కోయడానికి ఫ్రాన్స్‌కు వెళ్తున్నారు.<end_of_turn>",
+      "@USER @USER @USER నిజంగానా? మీరు చెప్పేదానికి ఆధారాలు ఏమైనా ఉన్నాయా? నేను అధికారిక ఆధారాల గురించి మాట్లాడుతున్నాను, మీరు ఇష్టపడే రాజకీయ అభిప్రాయాలు కలిగిన పత్రికల యొక్క అసంబద్ధమైన విషయాల గురించి కాదు.<end_of_turn>",
+      "@USER @USER @USER నేను గత సంవత్సరం బోర్డోలో ఉన్నప్పుడు, అక్కడ ఉన్న వైన్ తయారీదారులతో మాట్లాడాను. పండ్లు కోసే కార్మికులను సరఫరా చేసే సంస్థల ప్రకారం, తక్కువ మంది కార్మికులు యూకేకి వెళుతుంటే, అది వారికి ఉపశమనం కలిగిస్తుంది.<end_of_turn>",
+      "@USER @USER @USER అవును, నేను ట్విట్టర్‌లో మాట్లాడిన ఒక వ్యక్తి, ఒక వ్యక్తి గురించి తెలుసుకున్నాడు. ఆ వ్యక్తి మరొక వ్యక్తికి చెప్పాడు, అతను మీరు తప్పుగా మాట్లాడుతున్నారని విన్నట్లుగా.<end_of_turn>",
+      "@USER @USER @USER నేను అక్కడ ఉన్నాను. తుఫానును ఆస్వాదించండి.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER I would have put Marcus and the defender in concussion protocol for the duration . Not sure how either guy survived an epic crash of that magnitude .",
+    "utterance": "@USER @USER @USER నేను మార్కస్ మరియు డిఫెండర్ ఇద్దరినీ కూడా ప్రమాదం జరిగిన సమయం నుండి పూర్తిగా వైద్యుల పర్యవేక్షణలో ఉంచేవాడిని. అంత తీవ్రమైన ప్రమాదం నుండి ఇద్దరూ ఎలా బతికి బయటపడ్డారో నాకు అర్థం కావడం లేదు.<end_of_turn>",
+    "input context": [
+      "Love the way Marcus Smart plays . Love it . On the other hand , this is worth a fine for acting as if he was shot by rifle after being grazed in the head . <URL>",
+      "@USER The NBA refs are so horrible you have to over act every time to get a call . It ’ s seriously bad in that league . Worst refs out of any pro sports",
+      "@USER @USER Ok so flopping makes it so much easier for the refs ?",
+      "@USER @USER Huh ? This isn ’ t even about flopping . Not sure what you are even saying .",
+      "@USER @USER Legs flying . Thought he got shot . Thankfully , he lived ."
+    ],
+    "context": [
+      "మార్కస్ స్మార్ట్ ఆడే విధానం నాకు చాలా ఇష్టం. నిజంగానే, నాకు చాలా ఇష్టం. అయితే, అతని తలపై చిన్న గాయం అయిన తర్వాత, అతను తుపాకీ కాల్పులకు గురయ్యాడని నటించడం ఒక జరిమానాకు అర్హమైన పని. <URL><end_of_turn>",
+      "@USER NBA రిఫరీల తీరు చాలా దారుణంగా ఉంటుంది. మీరు ప్రతిసారి ఏదైనా ఫౌల్ జరిగినప్పుడు అతిగా స్పందించాల్సి వస్తుంది, అప్పుడే వారు దానిని గుర్తించి చర్య తీసుకుంటారు. ఆ లీగ్‌లో పరిస్థితి నిజంగా చాలా ఘోరంగా ఉంది. అన్ని ప్రొఫెషనల్ క్రీడల్లో కంటే ఇక్కడ రిఫరీల తీరు చాలా అధ్వాన్నంగా ఉంటుంది.<end_of_turn>",
+      "@USER @USER సరే, అయితే, ఆటగాళ్ళు పడిపోవడం వల్ల రిఫరీలకు (ఆటను పర్యవేక్షించే వ్యక్తులకు) పని సులభం అవుతుందా?<end_of_turn>",
+      "@USER @USER ఏమిటి? ఇది అసలు వైఫల్యం గురించి కూడా కాదు. మీరు ఏమి చెబుతున్నారో నాకు అర్థం కావడం లేదు.<end_of_turn>",
+      "@USER @USER కాళ్ళు వేగంగా కదులుతున్నాయి. అతను కాల్చి చంపబడ్డాడని అనుకున్నాను. అదృష్టవశాత్తూ, అతను బతికిపోయాడు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Read my profile , then add the salt #tongueincheek",
+    "utterance": "@USER @USER నా ప్రొఫైల్‌ను చూడండి, ఆ తర్వాత ఉప్పును జోడించండి. (కొంచెం వ్యంగ్యంగా)<end_of_turn>",
+    "input context": [
+      "Methane is a powerful greenhouse gas , and is responsible for about a quarter of the warming we have experienced to-date . Reducing methane emissions is an important part of climate mitigation . Its also important to understand that methane is very different from CO2 . A thread : 1/9",
+      "@USER According to this article methane is about 16 % of which 30 % is attributed to fossil fuels Interesting outlook though if comparing short-term & long term actions but if fossil fuel is reduced it reduces both or should we fill in swamps to reduce methane ? ? <URL>",
+      "@USER @USER No , we should reduce methane emission by reducing our dependence on Coal & Gas as swamps play a vital role in the food chain ."
+    ],
+    "context": [
+      "మీథేన్ ఒక శక్తివంతమైన గ్రీన్హౌస్ వాయువు, మరియు మనం ఇప్పటివరకు అనుభవించిన ఉష్ణోగ్రత పెరుగుదలలో దాదాపు పావు వంతు దీని వల్లే జరుగుతోంది. మీథేన్ ఉద్గారాలను తగ్గించడం అనేది వాతావరణ మార్పులను నివారించడానికి ఒక ముఖ్యమైన అంశం. అంతేకాకుండా, మీథేన్ అనేది కార్బన్ డయాక్సైడ్ (CO2) కంటే చాలా భిన్నమైనదని అర్థం చేసుకోవడం కూడా చాలా ముఖ్యం. (కొన్ని ముఖ్యమైన విషయాలు): 1/9<end_of_turn>",
+      "@USER ఈ కథనం ప్రకారం, మీథేన్ మొత్తం వాయువులలో 16% ఉంటుంది, ఇందులో 30% శిలాజ ఇంధనాల వల్ల విడుదల అవుతుంది. ఇది ఆసక్తికరమైన విషయమే. అయితే, స్వల్పకాలిక మరియు దీర్ఘకాలిక చర్యలను పోల్చినప్పుడు ఒక విషయం తెలుస్తుంది. శిలాజ ఇంధనాల వినియోగాన్ని తగ్గించడం ద్వారా మీథేన్ విడుదలను తగ్గించవచ్చు. లేదా, మీథేన్ విడుదలను తగ్గించడానికి మనం చిత్తడి నేలలను పూడ్చాలా? ? <URL><end_of_turn>",
+      "@USER @USER లేదు, మనం బొగ్గు మరియు గ్యాస్ మీద మన ఆధారపడటాన్ని తగ్గించడం ద్వారా మీథేన్ ఉద్గారాలను తగ్గించాలి. ఎందుకంటే చిత్తడి నేలలు ఆహార గొలుసులో చాలా ముఖ్యమైన పాత్రను పోషిస్తాయి.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER The FBI ? ! ? You cant trust the FBI , they all love Obama ! The Deep State ! ( something mumbled about emails ) MAGA !",
+    "utterance": "@USER @USER @USER ఎఫ్‌బిఐ? ! ? మీరు ఎఫ్‌బిఐని నమ్మలేరు, వాళ్లందరూ ఒబామాను అభిమానిస్తారు! \"డీప్ స్టేట్!\" (ఇమెయిళ్ల గురించి ఏదో గుసగుసలాడుతున్నారు) \"మేక్ అమెరికా గ్రేట్ అగైన్!\"<end_of_turn>",
+    "input context": [
+      "The President was justified in investigating #BurismaBiden . Learn why : <URL>",
+      "@USER Why wait until Biden announced his Presidecy ?",
+      "@USER @USER And why investigate with your personal consigliere rather than the FBI ?"
+    ],
+    "context": [
+      "అధ్యక్షుడు #బ్యూరిస్మాబైడెన్ వ్యవహారాన్ని విచారించడం సమర్థనీయం. ఎందుకో తెలుసుకోండి: <URL><end_of_turn>",
+      "@USER బైడెన్ తన అధ్యక్ష పదవిని అధికారికంగా ప్రకటించే వరకు ఎందుకు వేచి ఉండాలి?<end_of_turn>",
+      "@USER @USER మరియు ఎందుకు మీరు వ్యక్తిగత సలహాదారుల ద్వారా విచారణ చేయాలనుకుంటున్నారు, బదులుగా FBI ద్వారా ఎందుకు కాదు?<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Choosing a national language is racist ! ! ! Amy is right on ( with her comb , instead of a fork ) ! ! ! #RacistDerangementSyndrome #Pandering",
+    "utterance": "@USER @USER ఒక జాతీయ భాషను ఎంచుకోవడం జాతి వివక్షకు దారితీస్తుంది! ! ! ఏమీ చెప్పింది నిజం (ఆమె ఫోర్క్ బదులుగా దువ్వెనను ఉపయోగించడం)! ! ! #జాతివివక్ష_వైకల్యం #ప్రేక్షకులను_సంతోషపెట్టడం<end_of_turn>",
+    "input context": [
+      "Democrat presidential Sen . Amy Klobuchar said at a recent stop , that English should not be the official language of the U . S . even though the flip-flop Amy voted for a pro-English language bill during her time in senate . Now , she ’ s against the amendment which she voted for in 2007 .",
+      "@USER Klobuchar was right the first time : English IS our national language . It is also the international language of business . She must be pandering to immigrants who do not want to assimilate ."
+    ],
+    "context": [
+      "డెమోక్రటిక్ పార్టీకి చెందిన అమెరికా సెనేటర్ అమీ క్లోబుచార్ ఇటీవల ఒక కార్యక్రమంలో మాట్లాడుతూ, అమెరికా యొక్క అధికారిక భాష ఇంగ్లీష్ కాకూడదని అన్నారు. అయితే, ఆమె సెనేటర్‌గా ఉన్న సమయంలో, ఇంగ్లీష్ భాషను ప్రోత్సహించే ఒక బిల్లుకు ఆమె మద్దతు తెలిపారు. ఇప్పుడు, 2007లో ఆమె ఆమోదించిన ఆ సవరణకు ఆమె వ్యతిరేకంగా ఉన్నారు.<end_of_turn>",
+      "@USER క్లోబుచార్ మొదటిసారి చెప్పినట్లుగా, ఇంగ్లీష్ మన జాతీయ భాష. ఇది వ్యాపారం యొక్క అంతర్జాతీయ భాష కూడా. ఆమె వలస వచ్చిన ప్రజలను ప్రసన్నం చేసుకోవడానికి ప్రయత్నిస్తూ ఉండవచ్చు, వారు మన సంస్కృతిలో కలిసిపోవడానికి ఇష్టపడకపోవచ్చు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER Yassss queen , you ’ re so brave and bold .",
+    "utterance": "@USER అద్భుతం! మీరు చాలా ధైర్యవంతులు మరియు సాహసోపేతమైన వ్యక్తి.<end_of_turn>",
+    "input context": [
+      "It ’ s no secret that this president has routinely targeted religious and ethnic minorities . He has fanned the flames of hate against refugees , Muslims , Africans , immigrants , women and all racial and religious minorities .",
+      "He is routinely and openly hostile to any legitimate Congressional oversight . He has made clear his wanton corruption by soliciting a bribe from a foreign government for his personal political gain .",
+      "His partisans in the Senate are placing their personal interests ahead of the country by blocking a fair trial on his conduct .",
+      "This impeached president is not legitimate .",
+      "I am attending tonight ’ s address not to confer any legitimacy on his actions , his statements , or his presidency . I am attending on behalf of all of those targeted by this President to say , ‘ We are greater than hate . ’ My presence tonight is resistance ."
+    ],
+    "context": [
+      "ఈ అధ్యక్షుడి ప్రమేయం లేకుండానే, ఆయన తరచుగా మతపరమైన మరియు జాతిపరమైన అల్పసంఖ్యాక వర్గాలను లక్ష్యంగా చేసుకున్నారనే విషయం రహస్యం కాదు. శరణార్థులు, ముస్లింలు, ఆఫ్రికన్లు, వలసదారులు, మహిళలు మరియు అన్ని జాతి మరియు మతపరమైన అల్పసంఖ్యాక వర్గాలపై ఆయన ద్వేషాన్ని రెచ్చగొట్టారు.<end_of_turn>",
+      "అతను సాధారణంగా మరియు బహిరంగంగా కాంగ్రెస్ యొక్క ఏ విధమైన చట్టబద్ధమైన పరిశీలనను వ్యతిరేకిస్తాడు. ఒక విదేశీ ప్రభుత్వం నుండి వ్యక్తిగత రాజకీయ ప్రయోజనాల కోసం లంచం తీసుకోవడం ద్వారా అతను తన అవినీతిని స్పష్టంగా చాటుకున్నాడు.<end_of_turn>",
+      "అతని ప్రవర్తనపై సరైన విచారణ జరగకుండా అడ్డుకోవడం ద్వారా, సెనేట్‌లో అతని మద్దతుదారులు దేశ ప్రయోజనాల కంటే వ్యక్తిగత ప్రయోజనాలకే ప్రాధాన్యతనిస్తున్నారు.<end_of_turn>",
+      "ఈ అభిశంసనకు గురైన అధ్యక్షుడు చట్టబద్ధమైన వ్యక్తి కాదు.<end_of_turn>",
+      "నేను ఈ రాత్రి జరిగే ప్రసంగంలో పాల్గొంటున్నాను, ఎందుకంటే నేను ఆయన చర్యలకు, ఆయన ప్రకటనలకు లేదా ఆయన అధ్యక్ష పదవికి ఎలాంటి ప్రామాణికతను ఇవ్వదలచుకోలేదు. నేను ఈ అధ్యక్షుడి ద్వారా లక్ష్యంగా చేసుకున్న వారందరి తరపున హాజరవుతున్నాను, మరియు నేను చెప్పాలనుకుంటున్నాను, \"మేము ద్వేషం కంటే గొప్పవాళ్ళం.\" నా ఉనికి ఈ రాత్రి ఒక నిరసన.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER I Did my best . But he ’ s a Luddite who practices robotic surgery .",
+    "utterance": "@USER @USER నేను నా వంతు ప్రయత్నం చేశాను. కానీ అతను సాంకేతిక పరిజ్ఞానాన్ని వ్యతిరేకించే వ్యక్తి, అయినప్పటికీ రోబోటిక్ శస్త్రచికిత్సలు చేస్తాడు.<end_of_turn>",
+    "input context": [
+      "When it feels like 4am , you gotta find another Californian to help you stay awake . Bring it on #QuickShot @USER #colleaguesnotcompetitors #MarkGirgisIsNotOnTwitter <URL>",
+      "@USER @USER Mark Girgis was one of my absolute favorite surg onc fellows ever . You need to get him on twitter ASAP"
+    ],
+    "context": [
+      "\"రాత్రి 4 గంటలు అయిపోయినట్లు అనిపించినప్పుడు, మీరు మేల్కొని ఉండటానికి మరొక కాలిఫోర్నియా వ్యక్తి సహాయం తీసుకోవాలి. ముందుకు సాగండి! #QuickShot @USER #సహోద్యోగులు, పోటీదారులు కాదు #మార్క్ గిర్గిస్ ట్విట్టర్‌లో లేరు <URL>\"<end_of_turn>",
+      "@USER @USER మార్క్ గిర్గిస్ నేను కలిసిన సర్జికల్ ఆంకాలజీ నిపుణులలో ఒకరు, ఆయన నాకు చాలా ఇష్టమైనవారు. మీరు వీలైనంత త్వరగా ఆయనను ట్విట్టర్‌లో అనుసరించాలి.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER You don ’ t deserve a refund . Your problems are being caused by climate change , yet you don ’ t want to do anything about climate change . Too bad .",
+    "utterance": "@USER @USER మీకు డబ్బు తిరిగి ఇవ్వబడదు. మీ సమస్యలకు కారణం వాతావరణ మార్పులు, కానీ మీరు వాతావరణ మార్పుల గురించి ఏమీ చేయకూడదని అనుకుంటున్నారు. ఇది చాలా దురదృష్టకరం.<end_of_turn>",
+    "input context": [
+      "Carbon tax debate aside , the #harvestfromhell is indicative of the threats and challenges our farmers are and will be facing from #ClimateChange . They are on the front lines and will be facing many more adverse weather events in the future . <URL>",
+      "@USER Thanks for the support Alistair ! Looking for your support for our ask for a carbon tax refund !"
+    ],
+    "context": [
+      "కార్బన్ పన్ను గురించిన చర్చను పక్కన పెడితే, \"#నరకంలాంటి పంటకాలం\" అనేది మన రైతులు ఎదుర్కొంటున్న మరియు భవిష్యత్తులో ఎదుర్కొనే ప్రమాదాలు మరియు సవాళ్లను సూచిస్తుంది. వారు ఈ సమస్యల యొక్క మొదటి వరుసలో ఉన్నారు మరియు భవిష్యత్తులో అనేక ప్రతికూల వాతావరణ పరిస్థితులను ఎదుర్కోవలసి ఉంటుంది. <URL><end_of_turn>",
+      "@USER, మీ మద్దతుకు ధన్యవాదాలు, అలిస్టైర్! కార్బన్ టాక్స్ వాపసు కోసం మేము చేస్తున్న ప్రయత్నానికి మీ మద్దతును కోరుతున్నాము!<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER You should really be more financially prudent , you know . I'm sure if teacher were more disciplined about the money I am absolutely certain this would solve everything .",
+    "utterance": "@USER @USER మీరు నిజంగానే ఆర్థిక విషయాల్లో మరింత జాగ్రత్తగా ఉండాలి, మీకు తెలుసు కదా. ఉపాధ్యాయులు డబ్బు విషయంలో మరింత క్రమశిక్షణతో వ్యవహరిస్తే, నేను ఖచ్చితంగా చెప్పగలను, ఇది అన్ని సమస్యలను పరిష్కరిస్తుంది.<end_of_turn>",
+    "input context": [
+      "What was that @USER survey about how many teachers have spent their own money on glue sticks ? <URL>",
+      "@USER @USER Ahh you know us teachers , always squandering school money on things like repairs to the roof , buying yet more paper , that kind of thing !"
+    ],
+    "context": [
+      "ఆ @USER సర్వేలో ఉపాధ్యాయులు ఎంతమంది తమ సొంత డబ్బును గ్లూ స్టిక్స్ కోసం ఖర్చు చేశారనే దాని గురించి అడిగారా? <URL><end_of_turn>",
+      "@USER @USER అయ్యో, మీకు తెలుసు కదా, ఉపాధ్యాయులం మేము. పాఠశాల డబ్బును ఎప్పుడూ ఇలాంటి వాటిపై ఖర్చు చేస్తూనే ఉంటాం - ఉదాహరణకు, పైకప్పు మరమ్మతులు చేయడం, ఇంకా ఎక్కువ కాగితాలు కొనడం, ఇలాంటి విషయాలకే!<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER What was the blockade for if they are kot blocking anything ?",
+    "utterance": "@USER @USER వారు ఏమైనా అడ్డుకుంటున్నట్లయితే, ఆ దిగ్బంధనం ఎందుకు విధించారు?<end_of_turn>",
+    "input context": [
+      "#MustWatch #ShaheenBagh protesters open up barricades to let a Hindu funeral procession pass . Please show it to the anti nationals who call Shaheen Baghis anti nationals . <URL>",
+      "@USER Were they intending to stop it ? They ‘ let ’ a ‘ Hindu ’ funeral procession pass ? What ’ s this ?",
+      "@USER No . They were not intending to block it :) Just like #ShaheenBagh protesters never tried blocking ambulances etc . ' This ' is to check the fake narrative many tried their best to build that #ShaheenBagh protesters block ambulances etc ."
+    ],
+    "context": [
+      "#చూడవలసినవి #షాహీన్ బాగ్ నిరసనకారులు, ఒక హిందూ అంత్యక్రియల ఊరేగింపు వెళ్ళడానికి అడ్డంకులను తొలగించారు. \"షాహీన్ బాగ్\" నిరసనకారులను \"దేశద్రోహులు\" అని పిలిచే వ్యక్తులకు ఇది చూపించండి. <URL><end_of_turn>",
+      "@USER వారు దానిని ఆపడానికి ప్రయత్నించారా? వారు ఒక 'హిందూ' అంత్యక్రియల ఊరేగింపును \"వెళ్ళనివ్వారా\"? ఇది ఏమిటి?<end_of_turn>",
+      "@USER లేదు. వారు దానిని అడ్డుకోవాలని ఉద్దేశించలేదు :) #షాహీన్‌బాగ్ నిరసనకారులు ఎప్పుడూ అంబులెన్స్‌లను అడ్డుకునే ప్రయత్నం చేయలేదు. ఇక్కడ చెప్పేది ఏమిటంటే, చాలా మంది వ్యక్తులు సృష్టించడానికి ప్రయత్నించిన తప్పుడు కథనాలను పరిశీలించడం, అదేమిటంటే #షాహీన్‌బాగ్ నిరసనకారులు అంబులెన్స్‌లను అడ్డుకున్నారనే అబద్ధపు ప్రచారం.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Oh man ... better throw away the exploragons ! And stop using @USER and since students would be learning through manipulation . Gotta ditch that !",
+    "utterance": "@USER @USER ఓహ్, దయచేసి ఆ ఎక్స్‌ప్లోరేషన్ వస్తువులను పారేయండి! మరియు @USER అని ఉపయోగించడం ఆపండి. ఎందుకంటే విద్యార్థులు వాటిని ఉపయోగించి నేర్చుకుంటారు. కాబట్టి వాటిని ఉపయోగించకుండా ఉండటం మంచిది!<end_of_turn>",
+    "input context": [
+      "“ Technology with high school students ” ... . 30 . What are you going to post about now since you ’ re ditching everything below . 40 ? You had a good run at least 🤷 ‍ ♂ ️ <URL>",
+      "@USER And she is a math teacher teaching with technology which was under . 40 too . Hypocrisy much ? ?"
+    ],
+    "context": [
+      "\" ఉన్నత పాఠశాల విద్యార్థులతో సాంకేతికత \" ... 30. మీరు ఇప్పుడు దేని గురించి పోస్ట్ చేయబోతున్నారు, ఎందుకంటే మీరు 40 కంటే తక్కువ ఉన్న అన్ని విషయాలను వదిలేస్తున్నారా? మీరు కనీసం కొంతకాలం బాగానే పనిచేశారు 🤷‍♂️ <URL><end_of_turn>",
+      "@USER ఆమె ఒక గణిత ఉపాధ్యాయురాలు, మరియు ఆమె సాంకేతిక పరిజ్ఞానాన్ని ఉపయోగించి బోధిస్తున్నారు. అయితే, ఆమె జీతం కూడా చాలా తక్కువగా ఉంది. ఇది ఎంత మోసపూరితమైన విషయం?<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Maybe Docs just a scrub of a coach ... I mean to get hammered with that gold standard team",
+    "utterance": "@USER @USER @USER బహుశా డాక్స్ కేవలం ఒక సాధారణ కోచ్ మాత్రమే అయి ఉండవచ్చు... నేను చెప్పేది ఏమిటంటే, ఆ అత్యుత్తమ జట్టుతో పోటీ పడటం అంత సులభం కాదు.<end_of_turn>",
+    "input context": [
+      "@USER Let ’ s Aplaud Brett When he deserves it he coached an amazing game <URL>",
+      "@USER @USER He did try keep korkmaz in in the 4th quarter when he was a defensive liability . And Sixers had a shit clock violation AFTER a timeout . And kept horford w embiid while clippers went small ball . And Scott over Robinson was not very smart . But for bretts standards ... <URL>"
+    ],
+    "context": [
+      "@USER బ్రెట్ బాగా ఆడినప్పుడు మనం అతన్ని అభినందించాలి. అతను అద్భుతంగా కోచింగ్ చేశాడు. <URL><end_of_turn>",
+      "@USER @USER అతను నాల్గవ క్వార్టర్‌లో కోర్క్‌మాజ్‌ను జట్టులో ఉంచడానికి ప్రయత్నించాడు, అయితే ఆ సమయంలో అతను జట్టుకు రక్షణ పరంగా బలహీనంగా ఉన్నాడు. అంతేకాకుండా, ఒక విరామం తర్వాత ఫిలడెల్ఫియా జట్టు సమయ పరిమితిని ఉల్లంఘించింది. క్లిప్పర్స్ జట్టు చిన్న ఆటగాళ్లను ఎంపిక చేసుకున్నప్పుడు, ఫిలడెల్ఫియా జట్టు హోర్ఫార్డ్‌ను ఎంబిడ్‌తో ఉంచింది. స్కాట్‌ను రోబిన్సన్ కంటే ఎక్కువగా ఆడించడం అంత తెలివైన నిర్ణయం కాదు. కానీ, బ్రెట్స్ యొక్క ప్రమాణాల ప్రకారం చూస్తే... <URL><end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER Well , keeping lots of humans in small spaces won't get anybody sick , nor will it make them hostile & aggressive . You go , authorities , you go !",
+    "utterance": "@USER చూడండి, చాలా మంది మనుషులను చిన్న ప్రదేశాలలో ఉంచడం వల్ల ఎవరికీ అనారోగ్యం రాదు, అలాగే అది వారిని దూకుడుగా లేదా శత్రువులుగా మార్చదు. మీరు వెళ్ళండి, అధికారులు, మీరు వెళ్ళండి!<end_of_turn>",
+    "input context": [
+      "Approx . 6,000 passengers have been banned from disembarking the cruise ship ' Costa Smeralda ' , as tests are carried out on two Chinese passengers suspected of having #coronavirus . <URL>",
+      "... #Lockdown Thousands kept on board Italian liner amid coronavirus scare | Article [ AMP ] | Reuters <URL>"
+    ],
+    "context": [
+      "సుమారు 6,000 మంది ప్రయాణికులను 'కోస్టా స్మెరాల్డా' అనే విహార నౌక నుండి దిగడానికి అనుమతించబడలేదు. ఎందుకంటే, ఇద్దరు చైనా ప్రయాణికులకు కోవిడ్-19 (కరోనావైరస్) లక్షణాలు ఉన్నాయని అనుమానిస్తున్నారు, కాబట్టి వారి పరీక్షలు జరుగుతున్నాయి. <URL><end_of_turn>",
+      "... #లాక్‌డౌన్: కరోనా వైరస్ భయం కారణంగా వేలాది మంది ప్రయాణికులను ఇటాలియన్ ఓడలో ఉంచారు | కథనం [AMP] | రాయిటర్స్ <URL><end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Don't worry so much , Canadian hospitals already have so many extra beds I am sure they can handle it . Maybe they can make some bat soup for people waiting for treatment",
+    "utterance": "@USER @USER @USER మీరు అంతగా ఆందోళన చెందకండి. కెనడియన్ ఆసుపత్రయాలలో ఇప్పటికే చాలా ఖాళీ పడకలు ఉన్నాయి. వారు దీనిని సులభంగా నిర్వహించగలరని నేను ఖచ్చితంగా అనుకుంటున్నాను. బహుశా, చికిత్స కోసం ఎదురు చూస్తున్న ప్రజల కోసం వారు కొంచెం గబ్బిలం సూప్ తయారు చేయవచ్చు.<end_of_turn>",
+    "input context": [
+      "Thanks to our friend @USER to be able to find this out and draw a clear red line for us , the world , to see this #coronavirus is no joke . 🙏 🏻 #coronavirusoutbreak <URL>",
+      "@USER @USER @USER as a Canadian in Vancouver since my government won ’ t stop flights from China , will you stop flights from Canada 🇨 🇦 . Our lives and health are at stake here . #CoronaOutbreak #VancouverWuhan #Coranavirüs",
+      "@USER @USER @USER Wanna go for Dim Sum in Richmond ? I know a really good busy place and I will buy :) Both #Canada & #USA should stop all flights or at least quarantine all returning passengers for 14 days #Coranavirüs",
+      "@USER @USER @USER The US has stopped all flights from Mainland China . They are using Canada as a port of entry to the US . But if they are infected more will get sick here ."
+    ],
+    "context": [
+      "మా స్నేహితుడు @USER ఈ విషయాన్ని కనుగొని, మనకు మరియు ప్రపంచానికి స్పష్టంగా తెలియజేసినందుకు ధన్యవాదాలు. కోరోనావైరస్ అనేది సరదాగా తీసుకోదగిన విషయం కాదని ఇది స్పష్టం చేస్తుంది. 🙏 #కోరోనావైరస్ వ్యాప్తి <URL><end_of_turn>",
+      "@USER @USER @USER, నేను వాంకోవర్‌లో నివసిస్తున్న ఒక కెనడియన్. నా ప్రభుత్వం చైనా నుండి వచ్చే విమానాలను ఆపడం లేదు. కాబట్టి, మీరు కెనడా నుండి వచ్చే విమానాలను ఆపుతారా? ఇక్కడ మన జీవితాలు మరియు ఆరోగ్యం ప్రమాదంలో ఉన్నాయి. #కోరోనావైరస్ వ్యాప్తి #వాంకోవర్-వుహాన్ #కోరోనావైరస్<end_of_turn>",
+      "@USER @USER @USER రిచ్‌మండ్‌లో డిమ్ సమ్ తినడానికి వెళ్దామా? నాకు ఒక మంచి, రద్దీగా ఉండే ప్రదేశం తెలుసు, నేను కొనుగోలు చేస్తాను. #కెనడా మరియు #USA రెండూ కూడా అన్ని విమానాలను నిలిపివేయాలి, లేదా కనీసం తిరిగి వచ్చే ప్రయాణికులందరినీ 14 రోజుల పాటు నిర్బంధంలో ఉంచాలి. #కోరోనావైరస్.<end_of_turn>",
+      "@USER @USER @USER అమెరికా, ప్రధాన భూభాగం నుండి వచ్చే అన్ని విమానాలను నిలిపివేసింది. వారు అమెరికాలోకి ప్రవేశించడానికి కెనడాను ఒక ప్రవేశ ద్వారంగా ఉపయోగిస్తున్నారు. అయితే, వారు ఇక్కడ సోకితే, మరింత మందికి వ్యాధి వ్యాప్తి చెందే అవకాశం ఉంది.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER How else do these people get elected if it weren't for the illegal and loafer votes ? They have to protect their constituents ! ! ! Yes , ...",
+    "utterance": "@USER @USER @USER ఈ వ్యక్తులు చట్టవిరుద్ధమైన మరియు నిష్క్రియ ఓట్లను కాకుండా వేరే విధంగా ఎలా ఎన్నికవుతారు? వారు తమ ఓటర్లను రక్షించాలి! అవును...<end_of_turn>",
+    "input context": [
+      "Regardless of your immigration status , I want every Angeleno to know your city is on your side . Here in Los Angeles , our police department does not coordinate with ICE or participate in immigration enforcement . Know your rights : <URL> <URL>",
+      "@USER @USER Mayor Garcetti you protecting criminals , you should resign , unbelievable ."
+    ],
+    "context": [
+      "మీ వలస స్థితితో సంబంధం లేకుండా, లాస్ ఏంజిల్స్‌లోని ప్రతి ఒక్కరికీ ఒక విషయం తెలియజేయాలనుకుంటున్నాను: మీ నగరం మీకు మద్దతుగా ఉంది. ఇక్కడ, లాస్ ఏంజిల్స్‌లో, మా పోలీస్ శాఖ ఐసిఈ (ICE)తో సమన్వయం చేసుకోదు లేదా వలసల అమలులో పాల్గొనదు. మీ హక్కుల గురించి తెలుసుకోండి: <URL> <URL><end_of_turn>",
+      "@USER @USER మేయర్ గార్సెట్టి, మీరు నేరస్తులను రక్షిస్తున్నారా? మీరు రాజీనామా చేయాలి, ఇది నమ్మశక్యంగా లేదు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER You're talking about how @USER runs his govt , aren't you ? #onpoli",
+    "utterance": "@USER @USER మీరు @USER ప్రభుత్వం ఎలా పనిచేస్తుందో గురించి మాట్లాడుతున్నారా? #onpoli<end_of_turn>",
+    "input context": [
+      "Protecting the system may serve the union brass , but not Ontario students . It ’ s about time someone said the truth : qualification and merit must trump over union seniority . #onpoli <URL>",
+      "@USER The problem is ' so called ' merit has led directly to nepotism and favouritism ."
+    ],
+    "context": [
+      "సిస్టమ్‌ను రక్షించడం యూనియన్ నాయకులకు ఉపయోగపడవచ్చు, కానీ అది ఒంటారియో విద్యార్థులకు కాదు. ఇది చాలా కాలం నుండి చెప్పాల్సిన నిజం: అర్హతలు మరియు ప్రతిభకు యూనియన్లలోని సీనియారిటీ కంటే ఎక్కువ ప్రాధాన్యత ఇవ్వాలి. #onpoli <URL><end_of_turn>",
+      "@USER \"అనేకమంది చెప్పుకునే\" ప్రతిభ ఆధారంగా ఎంపికలు చేయడం వల్ల నేరుగా బంధుప్రీతి మరియు పక్షపాతం పెరిగిపోయాయి.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Sensibilities ? WTF are you trying to say ? You mean a few insults is why you want guns and you defend your intelligence ?",
+    "utterance": "@USER @USER @USER మీరు దేని గురించి మాట్లాడుతున్నారో నాకు అర్థం కావడం లేదు. మీరు ఏమి చెప్పాలనుకుంటున్నారు? మీరు కొన్ని అవమానాల కారణంగానే తుపాకులు కావాలని అనుకుంటున్నారా? మరియు మీరు మీ తెలివితేటలను సమర్థిస్తున్నారా?<end_of_turn>",
+    "input context": [
+      "On Saturday's edition of CNN Tonight , @USER cracks up laughing while @USER and @USER took shots at ' s \" credulous Boomer rube base . \" \" You elitists ... with your math and your reading . \" <URL>",
+      "@USER @USER @USER Boy are they deluded . Keep underestimating the intelligence and sensibilities of the electorate . Oh and these a $ $ holes are exactly why we should never give up the right to bear arms ."
+    ],
+    "context": [
+      "గత శనివారం CNN టోనైట్ కార్యక్రమం లో, @USER అనే వ్యక్తి నవ్వుతూ, @USER మరియు @USER అనే వ్యక్తులు \"'s\" యొక్క \"నమ్మకమైన, అనుభవ లేని వృద్ధుల సమూహం\" గురించి విమర్శలు చేశారు. వారు, \"మీరు ఉన్నత వర్గాల వారు... మీ గణితం మరియు మీ పఠనం గురించి గొప్పలు చెప్పుకుంటారు.\" అని అన్నారు. <URL><end_of_turn>",
+      "@USER @USER @USER వీళ్ళు ఎంతగానో పొరపాటు పడుతున్నారు. ఓటర్ల యొక్క తెలివితేటలను మరియు ఆలోచనా విధానాన్ని తక్కువగా అంచనా వేస్తూనే ఉన్నారు. అంతేకాకుండా, ఈ స్వార్థపరుల వల్లే మనం ఆయుధాలను కలిగి ఉండే హక్కును ఎప్పటికీ వదులుకోకూడదు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER As simple as that eh ? I must have dreamt I canceled in November . #useless",
+    "utterance": "@USER @USER అంత సులభమా? నేను నవంబర్ నెలలో రద్దు చేశానని నేను కలలో చూసి ఉండవచ్చు. # పనికిమాలినది.<end_of_turn>",
+    "input context": [
+      "@USER any idea why I'm still getting charged a monthky fee for something I unsubscribed from months ago ? <URL>",
+      "@USER If it is still showing on your account it is not cancelled .",
+      "@USER @USER What a shambles of a response that is , clearly asking why it's not cancelled and still being charged ...",
+      "@USER @USER It clearly says ' I need a pass to start watching '",
+      "@USER @USER Please see here on how to cancel : <URL> if you are unable to there is a live chat on this page ."
+    ],
+    "context": [
+      "@USER నేను కొన్ని నెలల క్రితమే రద్దు చేసుకున్న ఒక సేవకు సంబంధించిన నెలవారీ ఛార్జీ ఇంకా ఎందుకు వస్తున్నదో మీకు తెలుసా? <URL><end_of_turn>",
+      "@USER ఒకవేళ అది మీ ఖాతాలో ఇంకా కనిపిస్తుంటే, అది రద్దు చేయబడలేదు అని అర్థం.<end_of_turn>",
+      "@USER @USER ఇది చాలా అసమర్థమైన సమాధానం. వారు ఎందుకు ఈ సేవను రద్దు చేయలేదో, ఇంకా ఎందుకు డబ్బు వసూలు చేస్తున్నారో స్పష్టంగా అడుగుతున్నారు...<end_of_turn>",
+      "@USER @USER ఇది స్పష్టంగా \"నేను చూడటం ప్రారంభించడానికి నాకు ఒక పాస్ అవసరం\" అని చెబుతోంది.<end_of_turn>",
+      "@USER @USER రద్దు చేయడానికి ఈ లింక్‌ను చూడండి: <URL>. ఒకవేళ మీకు అక్కడ రద్దు చేయడం సాధ్యం కాకపోతే, ఈ పేజీలో లైవ్ చాట్ అందుబాటులో ఉంది.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER I'm sorry , I forgot to add the tag when retweeting a story about pice warning parents to report their kids for using Kali .",
+    "utterance": "@USER క్షమించండి, నేను ఒక కథను రీట్వీట్ చేస్తున్నప్పుడు, \"పిల్లలు కాలిని ఉపయోగించడం గురించి తల్లిదండ్రులు ఫిర్యాదు చేయాలని హెచ్చరిస్తున్న\" అనే ట్యాగ్‌ను జోడించడాన్ని మరచిపోయాను.<end_of_turn>",
+    "input context": [
+      "Kali is a crime . They should build their own toolsets on something more secure , without default root access . <URL>",
+      "@USER \" kali is a crime . they should build their own toolsets \" you mean they should apt-get their own tools on debian , you know , the ones packaged neatly and maintained by the kali team ."
+    ],
+    "context": [
+      "\"కాలి\" అనేది ఒక నేరం. వారు తమ సొంత టూల్స్‌ను మరింత సురక్షితమైన వ్యవస్థపై అభివృద్ధి చేయాలి, మరియు వాటికి డిఫాల్ట్‌గా రూట్ యాక్సెస్ ఉండకూడదు. <URL><end_of_turn>",
+      "@USER \"కాలి అనేది ఒక నేరం. వారు తమ సొంత టూల్స్‌ను అభివృద్ధి చేసుకోవాలి.\" మీరు చెప్పేది ఏమిటంటే, వారు డెబియన్ ఆపరేటింగ్ సిస్టమ్‌లో తమ సొంత టూల్స్‌ను 'apt-get' ఉపయోగించి ఇన్‌స్టాల్ చేసుకోవాలి. అంటే, కాలి బృందం జాగ్రత్తగా రూపొందించి, నిర్వహించే టూల్స్ గురించి మీరు మాట్లాడుతున్నారని నేను అనుకుంటున్నాను.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER Isn ’ t that what Twitter is ?",
+    "utterance": "@USER ట్విట్టర్ అంటే అదే కాదా?<end_of_turn>",
+    "input context": [
+      "If they mic ’ d up coaches for NFL I guarantee Freddie would have been fired Week 1 .",
+      "@USER You cant guarantee something that we will never know . Week 1 happened in the past .",
+      "@USER Why do you take everything so seriously on Twitter ?"
+    ],
+    "context": [
+      "ఒకవేళ NFLలో కోచ్‌లను మైక్రోఫోన్‌లకు అనుసంధానం చేసి వారి సంభాషణలను రికార్డ్ చేస్తే, నేను ఖచ్చితంగా చెప్పగలను, ఫెడ్డీ మొదటి వారంలోనే తొలగించబడేవాడు.<end_of_turn>",
+      "@USER మనం ఎప్పటికీ తెలుసుకోలేని విషయాల గురించి మీరు హామీ ఇవ్వలేరు. మొదటి వారం గతంలో జరిగింది.<end_of_turn>",
+      "@USER మీరు ట్విట్టర్‌లో ప్రతి విషయాన్ని ఎందుకు అంత సీరియస్‌గా తీసుకుంటారు?<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER 😂 Ross pretty much competes w Wal-Mart clothing prices cause they're so discounted . Clothes / Shoes costing $ 80 will price you $ 30 & still buying it 20 feet from the miscellaneous : iron / ironing board , headphones , suitcases & vaccum cleaners sections 🤦 the is still on you 🤡 <URL>",
+    "utterance": "@USER @USER @USER 😂 రాస్, వాల్-మార్ట్ దుస్తుల ధరలతో పోటీ పడుతున్నాడు, ఎందుకంటే వాటి ధరలు చాలా తక్కువగా ఉంటాయి. సాధారణంగా 80 డాలర్లు ఉండే దుస్తులు లేదా బూట్లు, ఇక్కడ 30 డాలర్లకే లభిస్తాయి. అంతేకాకుండా, ఇనుము, ఇస్త్రీ బోర్డు, హెడ్‌ఫోన్‌లు, సూట్‌కేసులు మరియు వాక్యూమ్ క్లీనర్‌ల వంటి ఇతర వస్తువుల విభాగాల నుండి కేవలం 20 అడుగుల దూరంలోనే ఇవి లభిస్తాయి. ఇది చాలా విచిత్రంగా ఉంది 🤡 <URL><end_of_turn>",
+    "input context": [
+      "@USER Every time I go to Walmart and pass by the clothes I be like “ ok Walmart I see ya ” 😂",
+      "@USER @USER I give them a head nod ever so often . I mean no chance I ’ m buying that Walmart drip but I respect it . <URL>",
+      "@USER @USER @USER Cause it ’ s from Walmart ? But once it gets outta Walmart everyone gone want it . Just like champion 🙃",
+      "@USER @USER @USER Ma , they'd rather wait until its sold at Urban Outfitters & price spiked at $ 60 a windbreaker ... thats when it'll be valid enough for them to purchaze . smh 🤡",
+      "@USER @USER @USER Or I ’ d just rather not buy a fit 12 feet from a McDonald ’ s and a vacuum cleaner .",
+      "@USER @USER @USER I ’ m pretty sure the clothes you buy now have had cleaning supplies near them , people have tried them on , children have touched them , they ’ ve fallen on the floor , collected a lil bit of dust and that ’ s the excuse ? Just say you won ’ t buy it until it ’ s popular by another brand",
+      "@USER @USER @USER This the anthill y ’ all gonna die on ? Salty because people don ’ t want to buy their fits from Walmart ?",
+      "@USER @USER @USER A lot of things come from Walmart but bigger brands just make it a trend but go off 😂 buying a windbreaker won ’ t hurt your social life or pride but more power to you 😂 💀",
+      "@USER @USER @USER 😂 😂 ppl love the image whole time dumb as hell ... shit show me where the deals at idc idc 😭",
+      "@USER @USER @USER Thats what Im saying .. Niggas say shit like \" between the McDonald's & Vaccum cleaner \" but will buy clothes from Urban Outfitters between photoframes / house accessories & vinyl records 😂 like nigga Y O U dying on the anthill right now just to overpriced the same fit g 😭",
+      "@USER @USER @USER Who said I shopped at urban outfitters lol because some random said it must be true ? I get fits from Ross usually and Nordstrom rack . I rarely pay retail . Die on that hill tho"
+    ],
+    "context": [
+      "@USER నేను ప్రతిసారీ వాల్‌మార్ట్‌కు వెళ్ళినప్పుడు, అక్కడ దుస్తుల విభాగం దగ్గరగా వెళ్ళినప్పుడు, \"సరే, వాల్‌మార్ట్, నేను నిన్ను చూశాను\" అని అనుకుంటాను. 😂<end_of_turn>",
+      "@USER @USER నేను అప్పుడప్పుడు వారికి చిన్నగా తల ఊపుతాను. నేను వాళ్ళు అమ్మే వస్తువులను కొనడానికి సిద్ధంగా లేను, కానీ నేను వాటిని గౌరవిస్తాను. <URL><end_of_turn>",
+      "@USER @USER @USER ఇది వాల్‌మార్ట్ నుండి వచ్చినందువల్లనే కదా? కానీ ఒకసారి ఇది వాల్‌మార్ట్ నుండి బయటకు వస్తే, అందరూ దీనిని కోరుకుంటారు. ఇది ఛాంపియన్‌లా ఉంటుంది. 🙃<end_of_turn>",
+      "@USER @USER @USER మాకు, వారు దానిని అర్బన్ అవుట్‌ఫిటర్స్ వద్ద అమ్మకానికి వచ్చే వరకు వేచి ఉండడానికి ఇష్టపడతారు. ఆ సమయంలోనే దాని ధర $60కి పెరిగితే, అప్పుడు మాత్రమే వారు దానిని కొనుగోలు చేయడానికి సిద్ధంగా ఉంటారు. ఇది చాలా విచిత్రంగా ఉంది 🤡.<end_of_turn>",
+      "@USER @USER @USER లేదా నేను ఒక ఫిట్‌నెస్ పరికరం, 12 అడుగుల పొడవు గల ఒక వస్తువు, మరియు ఒక వాక్యూమ్ క్లీనర్ వంటి వాటిని మెక్‌డొనాల్డ్స్ నుండి కొనడానికి ఇష్టపడను.<end_of_turn>",
+      "@USER @USER @USER నేను ఖచ్చితంగా చెప్పగలను, మీరు ఇప్పుడు కొంటున్న దుస్తుల దగ్గర శుభ్రపరిచే ఉత్పత్తులు ఉండవచ్చు, చాలా మంది వాటిని ప్రయత్నించారు, పిల్లలు వాటిని తాకి ఉండవచ్చు, అవి నేలపై పడి ఉండవచ్చు, కొద్దిగా దుమ్ము పేరుకుపోయి ఉండవచ్చు. దీనిని సాకుగా చూపించడం సరికాదు. మీరు వేరే బ్రాండ్ ద్వారా ఆ వస్తువు ప్రాచుర్యం పొందే వరకు కొనకూడదని సూటిగా చెప్పవచ్చు.<end_of_turn>",
+      "@USER @USER @USER ఇది ఏమిటి? మీరు అందరూ ఎక్కడ చనిపోబోతున్నారు? వాల్‌మార్ట్ నుండి దుస్తులు కొనడానికి ప్రజలు ఇష్టపడకపోవడం వల్ల ఇది ఉప్పగా ఉందా?<end_of_turn>",
+      "@USER @USER @USER చాలా వస్తువులు వాల్‌మార్ట్ నుండి వస్తాయి, కానీ పెద్ద బ్రాండ్లు వాటిని ఒక ట్రెండ్‌గా మారుస్తాయి. అయితే, మీరు మీ ఇష్టానుసారం కొనవచ్చు. ఒక విండ్‌బ్రేకర్ (గాలి నుండి రక్షించే జాకెట్) కొనడం వల్ల మీ సామాజిక జీవితానికి లేదా మీ గౌరవానికి ఎటువంటి హాని ఉండదు. మీరు మీ అభిరుచికి అనుగుణంగా కొనడం సంతోషంగా ఉంది. 😂 💀<end_of_turn>",
+      "@USER @USER @USER 😂 😂 చాలా మంది ఈ చిత్రాన్ని చూసి ఆనందిస్తున్నారు, కానీ చాలామందికి ఏమీ అర్థం కావడం లేదు... అసలు విషయం ఏమిటంటే, ఇక్కడ ఏమైనా ఆఫర్లు ఉన్నాయా అని నాకు చెప్పండి, నాకు ఏమీ పట్టదు 😭.<end_of_turn>",
+      "@USER @USER @USER నేను అదే చెబుతున్నాను... కొంతమంది ఇలాంటి విషయాలు చెబుతారు: \"మెక్‌డొనాల్డ్స్ మరియు వాక్యూమ్ క్లీనర్ మధ్య\" అని, కానీ \"ఫోటో ఫ్రేమ్‌లు/ఇంటి ఉపకరణాలు మరియు వినైల్ రికార్డుల మధ్య\" నుండి దుస్తులు కొంటారు 😂. అంటే, మీరు ఇప్పుడు ఒక చిన్న విషయానికే చాలా ఎక్కువ ధర చెల్లించడానికి ప్రయత్నిస్తున్నారు, అదే దుస్తులను మరింత ఎక్కువ ధరకు అమ్మడానికి ప్రయత్నిస్తున్నారు 😭.<end_of_turn>",
+      "@USER @USER @USER ఎవరైనా నేను \"అర్బన్ అవుట్‌ఫిటర్స్\" దుకాణంలో షాపింగ్ చేశానని చెప్పారా? ఎందుకంటే ఎవరో ఒకరు అలా చెప్పారంటే అది నిజమని అనుకుంటున్నారా? నేను సాధారణంగా \"రాస్\" మరియు \"నార్డ్‌స్ట్రామ్ రాక్\" నుండి దుస్తులు కొంటాను. నేను చాలా అరుదుగా అసలు ధరతో కొంటాను. కానీ అది నా అభిప్రాయం.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER 🤣 the is strong with this one",
+    "utterance": "@USER @USER 😂 ఇది చాలా ఫన్నీగా ఉంది.<end_of_turn>",
+    "input context": [
+      "I ’ m not exactly sure what to say here ... I certainly have nothing positive to say , so I ’ ll be quiet . <URL>",
+      "@USER She ’ s on medication you dumb fuck .",
+      "@USER Medication that makes her support Elizabeth Warren ?"
+    ],
+    "context": [
+      "నేను ఇక్కడ ఏమి చెప్పాలో నాకు సరిగ్గా తెలియడం లేదు... నా దగ్గర చెప్పడానికి ఎటువంటి మంచి విషయాలు లేవు, కాబట్టి నేను మౌనంగా ఉంటాను. <URL><end_of_turn>",
+      "@USER ఆమె మందులు వాడుతోంది, నువ్వు తెలివిలేనివాడివి.<end_of_turn>",
+      "@USER ఆమెను ఎలిజబెత్ వారెన్‌కు మద్దతు ఇవ్వడానికి ప్రేరేపించే మందు ఏది?<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER HA Twooty the science denier decides that somebody else's entire worldview is invalid because of science denial .",
+    "utterance": "@USER @USER @USER హే, \"టూటీ\" అనే వ్యక్తి, అతను శాస్త్రీయ వాదనలను తిరస్కరిస్తాడు. అతను శాస్త్రీయ వాదనలను తిరస్కరించడం వల్ల, వేరొక వ్యక్తి యొక్క మొత్తం ఆలోచనా విధానాన్ని తప్పు అని నిర్ణయించుకుంటాడు.<end_of_turn>",
+    "input context": [
+      "The beginning of the end for fossil fuels ... <URL>",
+      "@USER The end of fossil fuels is the end of industrial society . Hope we're ready for that .",
+      "@USER @USER The complete opposite is true . Continuing to use fossil fuels would end indutrial civilization .",
+      "@USER @USER Noooo . Both are true . Industrial civilization is doomed for various reasons and cannot be saved .",
+      "@USER @USER Probabilities aside , am not a fatalist and don't think we are doomed . On the current trajectory , aye , everything is going to crash . That's if we keep acting as if humans have no agency and no ability to change their own trajectory .",
+      "@USER @USER No it is pure physics that predicts this . Not any fatalistic desire to see the system fail . The complexity and size of economies scale directly with energy consumption . If energy consumption goes down , so too will size and complexity . #physics #1stLaw #2ndLaw",
+      "@USER @USER I am fully aware of this . I just don't think fossil fuels are our only source of energy . Also the complexity side of this is different with the advent of automation and advanced computing , including things like AI etc . Complex interactions can be orchestrated with less energy .",
+      "@USER @USER Anyway , am just heading out the door . Am not an optimist or a pessimist , it's just that I think we have the technical capacity to transition . This is about politics , not energy densities etc",
+      "@USER @USER @USER Perhaps you ’ d prefer to discuss whether a transition is even required ? How ’ s your science background ? Talk to my PhD friend Ned . <URL> <URL>",
+      "@USER @USER @USER Ah right , you're an climate change denier . Am shocked . 😂 Ok that's enough from you ye clown"
+    ],
+    "context": [
+      "శిలాజ ఇంధనాల కాలం ముగింపుకు చేరుకుంటోంది... <URL><end_of_turn>",
+      "@USER శిలాజ ఇంధనాల కాలం ముగిసినాక, పారిశ్రామిక సమాజం కూడా ముగుస్తుంది. మనం దానికి సిద్ధంగా ఉన్నామో లేదో చూద్దాం.<end_of_turn>",
+      "@USER @USER దీనికి పూర్తిగా వ్యతిరేకం నిజం. శిలాజ ఇంధనాలను ఉపయోగించడం కొనసాగిస్తే, పారిశ్రామిక నాగరికత అంతమవుతుంది.<end_of_turn>",
+      "@USER @USER లేదు. రెండూ నిజమే. పారిశ్రామిక నాగరికత అనేక కారణాల వల్ల వినాశనం దిశగా పయనిస్తోంది, దానిని కాపాడటం సాధ్యం కాదు.<end_of_turn>",
+      "@USER @USER సంభావ్యతలను పక్కన పెడితే, నేను విధివాదిని కాదు, మనకు ఏమీ జరగదని నేను అనుకోను. ప్రస్తుత పరిస్థితిని చూస్తే, నిజమే, ప్రతిదీ క్షీణించే ప్రమాదం ఉంది. అయితే, మనం మనుషులు మన భవిష్యత్తును మార్చుకునే సామర్థ్యం లేదని, మనకు ఎలాంటి నియంత్రణ లేదని భావిస్తూ ఉంటేనే అది జరుగుతుంది.<end_of_turn>",
+      "@USER @USER లేదు, ఇది స్వచ్ఛమైన భౌతిక శాస్త్ర సూత్రం. వ్యవస్థ విఫలమవుతుందని కోరుకునే ఏ విధమైన సిద్ధాంతం ఇందులో లేదు. ఆర్థిక వ్యవస్థల యొక్క సంక్లిష్టత మరియు పరిమాణం నేరుగా శక్తి వినియోగంతో ముడిపడి ఉంటాయి. శక్తి వినియోగం తగ్గితే, ఆర్థిక వ్యవస్థ యొక్క పరిమాణం మరియు సంక్లిష్టత కూడా తగ్గుతాయి. #భౌతికశాస్త్రం #మొదటి నియమం #రెండవ నియమం<end_of_turn>",
+      "@USER @USER నాకు ఇది పూర్తిగా తెలుసు. నేను కేవలం శిలాజ ఇంధనాలు మాత్రమే మన శక్తి వనరులు కాదని అనుకుంటున్నాను. అంతేకాకుండా, ఆటోమేషన్ మరియు అధునాతన కంప్యూటింగ్ రాకతో, కృత్రిమ మేధస్సు (AI) వంటి అంశాలతో ఈ రంగం మరింత సంక్లిష్టంగా మారుతోంది. సంక్లిష్టమైన ప్రక్రియలను తక్కువ శక్తిని ఉపయోగించి నిర్వహించవచ్చు.<end_of_turn>",
+      "@USER @USER ఏది ఏమైనా, నేను ఇప్పుడే బయలుదేరుతున్నాను. నేను ఆశావాదిని కాదు, నిరాశావాదిని కూడా కాదు. మనకు సాంకేతిక సామర్థ్యం ఉందనేది నా అభిప్రాయం, కాబట్టి మనం మార్పుకు సిద్ధంగా ఉండవచ్చు. ఇది సాంకేతిక అంశాల గురించి కాదు, రాజకీయాల గురించి మాత్రమే.<end_of_turn>",
+      "@USER @USER @USER బహుశా మీరు ఒక మార్పు అవసరమా కాదా అనే దాని గురించి చర్చించాలనుకుంటున్నారేమో? మీ సైన్స్ విద్య నేపథ్యం ఏమిటి? నా డాక్టరేట్ చదివిన స్నేహితుడు నెడ్‌తో మాట్లాడండి. <URL> <URL><end_of_turn>",
+      "@USER @USER @USER ఓహ్, అర్థమైంది, మీరు వాతావరణ మార్పులను నమ్మరు. నాకు ఆశ్చర్యం కలిగింది. 😂 సరే, మీరు చెప్పేది వినడానికి నాకు ఓపిక లేదు, వెర్రివాడా!<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Pretty sure Rupper sent that out while he was resting between squat sets .",
+    "utterance": "@USER @USER @USER రూపర్ ఆ సందేశాన్ని పంపినప్పుడు, బహుశా అతను స్క్వాట్ వ్యాయామాల మధ్య విశ్రాంతి తీసుకుంటున్న సమయంలోనే పంపించి ఉంటాడు.<end_of_turn>",
+    "input context": [
+      "Biebs is taking no prisoners ... hope you ’ re ready @USER ( via @USER / IG ) <URL>",
+      "@USER @USER @USER Are those Biebs legs or he riding a chicken ?"
+    ],
+    "context": [
+      "\"బీబ్స్ ఎవరినీ వదిలిపెట్టడం లేదు... మీరు సిద్ధంగా ఉన్నారని ఆశిస్తున్నాను @USER (ట్విట్టర్ ద్వారా @USER / ఇన్‌స్టాగ్రామ్) <URL>\"<end_of_turn>",
+      "@USER @USER @USER అవి బీబ్స్ కాళ్ళా, లేక అతను కోడిని ఎక్కారా?<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER OK , I think I need to every tweet I make to you now ... :)",
+    "utterance": "@USER సరే, నేను మీకు పంపే ప్రతి ట్వీట్‌ను ఇప్పుడు జాగ్రత్తగా చదవాలని నేను అనుకుంటున్నాను... :)<end_of_turn>",
+    "input context": [
+      "It amazes me that expert render has been around forever and so few people understand how it works or why they should use it . #postchat",
+      "@USER No , everyone should use it . It should be the default way to render ."
+    ],
+    "context": [
+      "\"ఎంతకాలం నుండి 'ఎక్స్‌పర్ట్ రెండర్' అందుబాటులో ఉందో నాకు ఆశ్చర్యం కలిగిస్తోంది, కానీ చాలా తక్కువ మందికి ఇది ఎలా పనిచేస్తుందో లేదా దీనిని ఎందుకు ఉపయోగించాలో తెలుసు.\" #పోస్ట్‌చాట్<end_of_turn>",
+      "@USER లేదు, ప్రతి ఒక్కరూ దీనిని ఉపయోగించాలి. ఇది డిఫాల్ట్‌గా ఉపయోగించబడే విధానం కావాలి.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Well , that wasn ’ t racist at all ? !",
+    "utterance": "@USER @USER సరే, అది అసలు జాతి వివక్షకు సంబంధించినది కాదా?<end_of_turn>",
+    "input context": [
+      "Not going to lie , I had no idea what to expect . The man walked in shook all our hands , took selfies , and whatever we asked of him . I judge people on how they treat me and others I ’ m with , and that ’ s why I really appreciated meeting @USER . thanks for coming to #DAYTONA500 <URL>",
+      "@USER Glad he treated you ( famous / white / male / upper class ) well . I'd take a little look at how he treats the marginalized myself . Character matters - - - well at least it used to ."
+    ],
+    "context": [
+      "నిజం చెప్పాలంటే, నేను ఏమి జరగబోతుందో ఊహించలేకపోయాను. ఆ వ్యక్తి లోపలికి వచ్చి, అందరి చేతులు కలిపి, సెల్ఫీలు దిగారు, మరియు మేము ఆయనను ఏమి అడిగినా ఆయన చేశారు. నేను మనుషులను వారు నన్ను మరియు నా వెంట ఉన్న ఇతరులను ఎలా చూస్తారనే దాని ఆధారంగా అంచనా వేస్తాను, అందుకే నేను @USERని కలవడం చాలా సంతోషంగా ఉంది. #DAYTONA500 కు వచ్చినందుకు ధన్యవాదాలు. <URL><end_of_turn>",
+      "@USER అతను మిమ్మల్ని (ప్రముఖులు/తెల్లవారు/పురుషులు/అధిక వర్గానికి చెందినవారు) బాగా చూసుకున్నందుకు సంతోషంగా ఉంది. నేను స్వయంగా అతను వెనుకబడిన ప్రజలను ఎలా చూస్తాడో పరిశీలించాలనుకుంటున్నాను. వ్యక్తిత్వం ముఖ్యం - కనీసం గతంలో అయినా అది ముఖ్యం ఉండేది.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Probably you are 🤷 . It's so curious bcs I didn't say NOTHING , absolutly nothing criticizing mexican people , I just criticize my own country and its dark past in South American . <URL>",
+    "utterance": "@USER @USER @USER బహుశా మీరు అలా అనుకుంటున్నారేమో 🤷. ఇది చాలా ఆశ్చర్యంగా ఉంది, ఎందుకంటే నేను మెక్సికన్ ప్రజల గురించి ఏమీ, ఖచ్చితంగా ఏమీ విమర్శించలేదు. నేను కేవలం నా దేశం గురించి, దక్షిణ అమెరికాలో దాని చీకటి గతం గురించి మాత్రమే విమర్శించాను. <URL><end_of_turn>",
+    "input context": [
+      "I painted a mural in Mexico City ! The mural is designed with a lot of poses in the hopes that people will try to pose alongside the character . I would love to see your photos next to the mural ! Thank you to @USER who brought me over and helped me paint ! <3 <URL>",
+      "@USER @USER @USER Oh , come on . Nothing in Spain ? And not . We aren't a Mexican region . But we were neightbours for 4 centuries . By force . By our force , in fact . We basically killed and massacred all them . We are terrible people . I wouldnt come here neither , honestly . #FuckChristopherColumbus",
+      "@USER @USER @USER I feel weird cause it seems like I am the only one who laughed with your tweet ..."
+    ],
+    "context": [
+      "నేను మెక్సికో సిటీలో ఒక పెద్ద చిత్రలేఖనాన్ని (మ్యూరల్) చిత్రించాను! ఆ చిత్రలేఖనం చాలా రకాల భంగిమలతో రూపొందించబడింది, ప్రజలు ఆ పాత్ర పక్కన నిలబడి ఫోటోలు దిగేలా ప్రోత్సహించడానికి. మీరు ఆ చిత్రలేఖనం పక్కన ఉన్న మీ ఫోటోలను చూడాలని నేను కోరుకుంటున్నాను! నన్ను అక్కడికి తీసుకువచ్చి, చిత్రించడానికి సహాయం చేసిన @USERకి ధన్యవాదాలు! <3 <URL><end_of_turn>",
+      "@USER @USER @USER అయ్యో, నిజంగానా? స్పెయిన్‌లో ఏమీ లేదా? మరియు కాదు. మేము మెక్సికో ప్రాంతం కాదు. కానీ మేము 4 శతాబ్దాలుగా పొరుగు దేశాలుగా ఉన్నాము. బలవంతంగా. నిజానికి, మా బలం ద్వారానే. మేము వాళ్ళను పూర్తిగా చంపి, ఊచకోత కోశాము. మేము చాలా భయంకరమైన వ్యక్తులం. నిజాయితీగా చెప్పాలంటే, నేను కూడా ఇక్కడికి రాలేను. #క్రిస్టోఫర్ కొలంబస్‌ను నిరసిస్తున్నాను.<end_of_turn>",
+      "@USER @USER @USER నాకు కొంచెం వింతగా ఉంది, ఎందుకంటే మీ ట్వీట్‌కు నవ్విన ఏకైక వ్యక్తి నేను అని అనిపిస్తోంది...<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Those are “ brown people . ” Can ’ t move too quickly when you ’ re dealing with non-Americans . #moscowmitch",
+    "utterance": "@USER @USER \"వాళ్ళు 'నల్ల జాతీయులు'. మీరు అమెరికన్లు కాని వారితో వ్యవహరించేటప్పుడు చాలా వేగంగా కదలకూడదు.\" #moscowmitch<end_of_turn>",
+    "input context": [
+      "Heavy rainfall last week damaged homes , businesses , & infrastructure in Southeastern Kentucky . I ’ m grateful to the first responders who ’ ve helped many out of harm ’ s way . My team and I stand ready to work with local officials in the recovery process . <URL>",
+      "@USER I don ’ t remember you responding so fast when the hurricane hit Puerto Rico ."
+    ],
+    "context": [
+      "గత వారం కురిసిన భారీ వర్షాల వల్ల దక్షిణöst కెంటకీలో చాలా ఇళ్లు, వ్యాపారాలు మరియు మౌలిక సదుపాయాలకు నష్టం వాటిల్లింది. చాలా మందిని ప్రమాదం నుండి రక్షించడానికి సహాయం చేసిన అత్యవసర సహాయక సిబ్బందికి నేను కృతజ్ఞుడను. పునరుద్ధరణ ప్రక్రియలో స్థానిక అధికారులతో కలిసి పనిచేయడానికి నా బృందం మరియు నేను సిద్ధంగా ఉన్నాము.<end_of_turn>",
+      "@USER నేను మీకు గుర్తులేను, మీరు ప్యూర్టో రికోలో తుఫాను వచ్చినప్పుడు అంత త్వరగా స్పందించారని నాకు గుర్తులేదు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Wow . That ’ s a great perk . Just buy 80 gallons of gas to get a free drink that costs pennies ! Sign me up please !",
+    "utterance": "@USER @USER వావ్. ఇది చాలా మంచి ఆఫర్. కేవలం కొన్ని పైసలు మాత్రమే ఖర్చు అయ్యే ఒక డ్రింక్ పొందడానికి 80 గ్యాలన్ల పెట్రోల్ కొనడం! దయచేసి నన్ను కూడా ఈ ఆఫర్ కోసం నమోదు చేయండి!<end_of_turn>",
+    "input context": [
+      "Hey @USER how is this great news ? We used to get a free beverage after 60 gallons & now you upped it to 80 . Why belittle the IQ of your customers ? <URL>",
+      "@USER Hello Tim . We are committed to providing you with great value with SmartPay . To ensure we can continue to offer great savings , the free drink threshold will change to 80 gallons beginning 02/20 / 20 . Thanks for your participation ."
+    ],
+    "context": [
+      "హాయ్ @USER, ఇది గొప్ప వార్త అని మీరు ఎలా చెబుతున్నారు? గతంలో మేము 60 గ్యాలన్ల వినియోగం తర్వాత ఒక ఉచిత పానీయాన్ని పొందేవాళ్ళం, ఇప్పుడు మీరు దానిని 80 గ్యాలన్లకు పెంచారు. మీ వినియోగదారుల తెలివితేటలను ఎందుకు తక్కువగా అంచనా వేస్తున్నారు? <URL><end_of_turn>",
+      "@USER హలో టిమ్. స్మార్ట్‌పే ద్వారా మీకు అత్యుత్తమ సేవలను అందించడానికి మేము కట్టుబడి ఉన్నాము. మేము మీకు నిరంతరం మంచి ఆఫర్‌లను అందిస్తూ ఉండటానికి, ఉచిత పానీయం పొందేందుకు అవసరమైన పరిమాణం ఫిబ్రవరి 20, 2020 నుండి 80 గ్యాలన్‌లకు మారుతుంది. మీ సహకారానికి ధన్యవాదాలు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Well , he ’ s a man , so that doesn ’ t count , don ’ t ya know ? He was just trying to get his message across , ya know . Civility and decorum are only expected of women , not men . With men we need POWER and FIGHTING . #boyswillbeboys #theysay #doublestandardmuch <URL>",
+    "utterance": "@USER @USER @USER సరే, అతను ఒక పురుషుడు కాబట్టి, అది లెక్కలోకి రాదు, మీకు అర్థమైందా? అతను కేవలం తన అభిప్రాయాన్ని తెలియజేయడానికి ప్రయత్నిస్తున్నాడు, అర్థమైందా? మర్యాద మరియు సంస్కారం కేవలం మహిళల నుండి మాత్రమే ఆశించబడుతుంది, పురుషుల నుండి కాదు. పురుషుల విషయంలో మనకు శక్తి మరియు పోరాటం అవసరం. #అబ్బాయిలుఅబ్బాయిలే #అలాఅంటారు #డబుల్ స్టాండర్డ్. <URL><end_of_turn>",
+    "input context": [
+      "Ainsley Earhardt on Nancy Pelosi : \" When she ripped that up I really thought , my gosh , we have our - - the founding fathers , the constitution , there's decorum , there's civility . I just thought that went too far . \" <URL>",
+      "@USER Right ... Decorum and civility ... @USER But , of course , this didn ’ t go too far . <URL>"
+    ],
+    "context": [
+      "ఎయిన్‌స్లీ ఎర్‌హార్ట్, నానసీ పెలోసి గురించి మాట్లాడుతూ, \"ఆమె ఆ కాగితాన్ని చింపివేసినప్పుడు, నేను నిజంగా ఇలా అనుకున్నాను: 'ఓహ్, మనకు మన వ్యవస్థాపకులు, రాజ్యాంగం ఉన్నాయి. ఇక్కడ మర్యాద, వినయం ఉండాలి. కానీ ఆమె ప్రవర్తన చాలా దూరం వెళ్ళిపోయింది' అని భావించాను.\" <URL><end_of_turn>",
+      "@USER సరే... మర్యాద మరియు వినయంగా ఉండటం... @USER అయితే, ఇది అంతగా ఎక్కువయ్యేలా జరగలేదు. <URL><end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER You ’ re right . We are responsible for not holding their hands and opening their ears and eyes .  .",
+    "utterance": "@USER @USER @USER మీరు చెప్పింది నిజమే. వారిని ప్రోత్సహించకుండా, వారికి సరైన మార్గనిర్దేశం చేయకుండా, వారి కళ్ళు మరియు చెవులను తెరిచే బాధ్యత మనపై ఉంది.<end_of_turn>",
+    "input context": [
+      "@USER This is the result when we let #DemonRats control education ‼ ️",
+      "@USER @USER So , why did we let them and how much responsibility do we have for the result of letting them ? ? ?"
+    ],
+    "context": [
+      "@USER మనం విద్యారంగంపై \"#డెమోన్ రాట్స్\" నియంత్రణను అనుమతించినప్పుడు వచ్చే ఫలితం ఇదే!<end_of_turn>",
+      "@USER @USER అయితే, మనం వారిని ఎందుకు అనుమతించాము? మరియు వారిని అనుమతించడం వల్ల వచ్చిన ఫలితానికి మనం ఎంత బాధ్యత వహించాలి?<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER But at least he's on point with crootin ! Lol",
+    "utterance": "@USER @USER కానీ కనీసం అతను కొత్త ఉద్యోగులను నియమించడంలో చాలా సమర్థుడు! హాహా.<end_of_turn>",
+    "input context": [
+      "When Twitter Jail isn ’ t as bad as real jail . <URL>",
+      "@USER @USER Yeah he's a great quality pillar of society . Domestic record . Writes letter to kids in high school . Is hateful . Also is a complete psychopath ."
+    ],
+    "context": [
+      "ట్విట్టర్ జైల్ నిజమైన జైల్ కంటే అంత కఠినం కాదు. <URL><end_of_turn>",
+      "@USER @USER అవును, అతను సమాజానికి ఒక గొప్ప వ్యక్తి. అతను కుటుంబానికి ప్రాధాన్యతనిస్తాడు. ఉన్నత పాఠశాల విద్యార్థులకు ఉత్తరాలు రాస్తాడు. కానీ, అతను ద్వేషపూరిత వ్యక్తి. అంతేకాకుండా, అతను పూర్తిగా మానసిక సమస్యలు ఉన్నవాడు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Why do you hate principled conservativism ?",
+    "utterance": "@USER @USER @USER మీరు సూత్రబద్ధమైన సంప్రదాయవాదాన్ని ఎందుకు ద్వేషిస్తారు?<end_of_turn>",
+    "input context": [
+      "LOL . This is hilarious . That lineup is awful , save a couple of people . <URL>",
+      "@USER Any event with Evan McMullin is exactly what you think it is"
+    ],
+    "context": [
+      "హాహా. ఇది చాలా ఫన్నీగా ఉంది. ఆ జాబితాలో కొద్దిమంది మినహా, మిగతా వారంతా చాలా సాధారణంగా ఉన్నారు. <URL><end_of_turn>",
+      "@USER ఎవాన్ మెక్‌ముల్లిన్ పాల్గొనే ఏదైనా కార్యక్రమం మీరు ఊహించిన విధంగానే ఉంటుంది.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Ha ha . way to go to miss the point completely !",
+    "utterance": "@USER @USER @USER హా హా. విషయం పూర్తిగా అర్థం చేసుకోకుండా మాట్లాడినందుకు అభినందనలు!<end_of_turn>",
+    "input context": [
+      "From snowflakes to gammons , here's why cartooning political opponents is bad for us <URL>",
+      "@USER People think they are smarter than they really are and are rarely able to back their ideas . Instead of writing off the other side we should all be listening and refining our ideas . Not shutting down discussion on twitter with insults",
+      "@USER @USER Yes we really should be listening to the fascist views of the No10 incumbents . According to the BBC , that is ."
+    ],
+    "context": [
+      "\"మంచు రేణువుల నుండి 'గమ్మన్స్' వరకు, రాజకీయ ప్రత్యర్థుల గురించి కార్టూన్లు వేయడం మనకు ఎందుకు హానికరమో ఇక్కడ తెలుసుకోండి.\"<end_of_turn>",
+      "@USER చాలామంది ప్రజలు తాము నిజంగా ఉన్నదానికంటే తెలివైనవారని అనుకుంటారు, కానీ చాలా అరుదుగా వారు తమ ఆలోచనలకు మద్దతు ఇవ్వగలుగుతారు. మనం ఇతర అభిప్రాయాలను కొట్టిపారేయడానికి బదులుగా, అందరూ ఒకరి అభిప్రాయాలను వినాలి మరియు మన ఆలోచనలను మెరుగుపరచుకోవాలి. ట్విట్టర్‌లో కించపరిచే పదాలతో చర్చలను ఆపకూడదు.<end_of_turn>",
+      "@USER @USER అవును, మనం నిజంగానే నంబర్ 10లో ఉన్న వ్యక్తుల యొక్క నియంతృత్వ భావజాలాలను వినాలి. బిబిసి ప్రకారం, అది నిజం.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER “ Keep shutting down the side of the debate with which you disagree . ” “ ... it may be time to report them to twitter . Or maybe sue ? ”",
+    "utterance": "@USER @USER \"మీకు ఏకీభవించని వాదనల యొక్క ఒక వైపును పదే పదే విమర్శించడం కొనసాగించండి.\"\n\"బహుశా, వారిని ట్విట్టర్‌కు ఫిర్యాదు చేయడానికి ఇది సరైన సమయం కావచ్చు. లేదా బహుశా వారిపై దావా వేయడం కూడా ఒక ఎంపిక కావచ్చు.\"<end_of_turn>",
+    "input context": [
+      "@USER is bang on . We absolutely have the right to ignore what climatologists have been warning us about for years and for which we ’ re now seeing evidence . We at @USER will proudly stand with the scientifically-illiterate ideologues . #ClimateChange #auspol <URL>",
+      "@USER I fell for that & £ @USER ! ing fake account again ! Yes my furry GetUp friends . Keep shutting down the side of the debate with which you disagree . Best way to win is by brute force . #Totalitarian Govt anyone ? @USER it may be time to report them to twitter ? Or maybe sue ?"
+    ],
+    "context": [
+      "@USER చెప్పింది నిజం. వాతావరణ శాస్త్రవేత్తలు సంవత్సరాలుగా మనకు హెచ్చరిస్తున్న విషయాలను మనం పూర్తిగా విస్మరించడానికి మనకు సంపూర్ణ హక్కు ఉంది, మరియు ఇప్పుడు మనం వాటికి సంబంధించిన ఆధారాలను చూస్తున్నాము. @USERలో మేము, శాస్త్రీయ పరిజ్ఞానం లేని సిద్ధాంతకర్తలతో గర్వంగా నిలబడతాము. #వాతావరణమార్పులు #ఆస్ట్రేలియా రాజకీయాలు <URL><end_of_turn>",
+      "@USER నేను ఆ మోసానికి బలి అయ్యాను, మరియు @USER! మళ్ళీ ఒక నకిలీ ఖాతాను సృష్టించారు! అవును, నా స్నేహితులారా, మీరు ఏ అంశంతో విభేదిస్తున్నారో, దాని గురించి చర్చను నిరంతరం ఆపేస్తూ ఉండండి. గెలవడానికి ఉత్తమ మార్గం ఇదే. #నిరంకుశ ప్రభుత్వం అంటే ఇదేనా? @USER, బహుశా మీరు వారిని ట్విట్టర్‌కు ఫిర్యాదు చేయడం లేదా వారిపై దావా వేయడం గురించి ఆలోచించాల్సిన సమయం కావచ్చు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Oh start by removing so called ‘ racists ’ instead of the piece of shit terrorists who want our heads on plates , wow why didn ’ t I think of that",
+    "utterance": "@USER @USER @USER \"ఓహ్, మొదటగా 'జాతి వివక్ష' చూపే వ్యక్తులను తొలగించండి, బదులుగా మన తలలను కోసి వేయాలనుకునే అసహ్యకరమైన ఉగ్రవాదులను తొలగించండి. అద్భుతం, నేను ఎందుకు ఇంతకు ముందు దీని గురించి ఆలోచించలేదో!\"<end_of_turn>",
+    "input context": [
+      "Shamima Begum loses appeal against removal of citizenship <URL>",
+      "@USER so if she is no longer a British citizen where is she a citizen of ? Is this a way forward for this government to rid itself of responsibility when things go wrong and badly wrong ? Hand it all over to - ? some camp somewhere ? ? 😎",
+      "@USER @USER Yup . It ’ s about keeping our streets safe .",
+      "@USER @USER @USER Removing racists like you would be a brilliant start ."
+    ],
+    "context": [
+      "షమిమా బెగం తన పౌరసత్వాన్ని రద్దు చేసినందుకు వ్యతిరేకంగా దాఖలు చేసిన అప్పీల్‌ను కోల్పోయింది.<end_of_turn>",
+      "@USER ఆమె ఇకపై బ్రిటీష్ పౌరురాలు కాకపోతే, ఆమె ఏ దేశానికి పౌరురాలు? ఏదైనా తప్పు జరిగినప్పుడు, లేదా తీవ్రమైన సమస్యలు తలెత్తినప్పుడు, ఈ ప్రభుత్వం తన బాధ్యతలను తప్పించుకోవడానికి ఇది ఒక మార్గమా? అప్పుడు ఆమెను ఎక్కడకు పంపాలి? ఏదైనా శిబిరానికి పంపించాలా? 😎<end_of_turn>",
+      "@USER @USER అవును. ఇది మన వీధులను సురక్షితంగా ఉంచడం గురించి.<end_of_turn>",
+      "@USER @USER @USER మీలాంటి జాతి వివక్ష చూపే వ్యక్తులను తొలగించడం ఒక గొప్ప ప్రారంభం అవుతుంది.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER But he ’ s calling for deficit reduction . Surely nobody has ever done that before . #NeverPete",
+    "utterance": "@USER @USER @USER కానీ అతను ఆర్థిక లోటును తగ్గించాలని కోరుకుంటున్నాడు. ఖచ్చితంగా, ఇంతకు ముందు ఎవరూ ఇలా చేయలేదేమో. #NeverPete<end_of_turn>",
+    "input context": [
+      "The kind of moderate you ideally want is someone who won elections and governed as the locally-progressive option in a conservative place ( Steve Bullock ) not someone who won & governed as the locally-conservative person in a progressive place .",
+      "@USER Electability is very hard to determine . Looking at past elections where a Dem won . They were all young , considered inexperienced , and called for a generational change . The leader of pledged delegates in the race is one such candidate .",
+      "@USER @USER No he's not . Be serious . He's young and inexperienced but definitely NOT calling for \" generational change . \"",
+      "@USER @USER Yes he is . He wants to fix the democracy that's broken . The courts . Who else is calling for that ? no one .",
+      "@USER @USER Again : Be serious . Literally all of the Democratic candidates have policy positions with respect to the courts . That's not \" generational change , \" that's just politics as usual . For * radical * proposals , look to Sanders and Warren : <URL> <URL>"
+    ],
+    "context": [
+      "మీరు ఆదర్శంగా కోరుకునే ఒక మధ్యేవాది నాయకుడు అంటే, ఎన్నికల్లో గెలిచి, సాంప్రదాయ భావజాలం ఉన్న ప్రాంతంలో స్థానికంగా అభివృద్ధిని ప్రోత్సహించే వ్యక్తి అయి ఉండాలి (ఉదాహరణకు స్టీవ్ బుల్‌లాక్). అలా కాకుండా, అభివృద్ధికి అనుకూలమైన ప్రాంతంలో స్థానికంగా సంప్రదాయవాదిగా ఎన్నికై పాలించిన వ్యక్తి కాదు.<end_of_turn>",
+      "@USER ఎన్నికల్లో గెలిచే అవకాశం ఉందా లేదా అని కచ్చితంగా చెప్పడం చాలా కష్టం. గతంలో డెమోక్రటిక్ పార్టీకి చెందిన అభ్యర్థులు గెలిచిన సందర్భాలను పరిశీలిస్తే, వారందరూ యువకులు, అనుభవం లేనివారుగా పరిగణించబడ్డారు, మరియు వారు ఒక కొత్త తరం నాయకత్వం కోసం పిలుపునిచ్చారు. ఈ ఎన్నికల్లో, ఎక్కువ మంది ప్రతినిధుల మద్దతు పొందిన అభ్యర్థిలో ఒకరు అలాంటి వ్యక్తి.<end_of_turn>",
+      "@USER @USER లేదు, అతను అలా కాదు. దయచేసి సీరియస్‌గా ఆలోచించండి. అతను ఇంకా చిన్నవాడు మరియు అనుభవం లేనివాడు, కానీ ఖచ్చితంగా \"తరాల మార్పు\" గురించి పిలుపునివ్వడం లేదు.<end_of_turn>",
+      "@USER @USER అవును, అతను అలానే అనుకుంటున్నాడు. అతను ప్రస్తుతం సరిగ్గా లేని ప్రజాస్వామ్యాన్ని సరిదిద్దాలని కోరుకుంటున్నాడు. న్యాయస్థానాలు... దీని గురించి ఎవరు ఇంకా మాట్లాడుతున్నారు? ఎవరూ లేరు.<end_of_turn>",
+      "@USER @USER మళ్ళీ: మీరు సీరియస్‌గా ఉండండి. డెమోక్రటిక్ పార్టీకి చెందిన దాదాపు అందరు అభ్యర్థులకు కోర్టులకు సంబంధించి నిర్దిష్ట విధానాలు ఉన్నాయి. ఇది \"తరాల మార్పు\" కాదు, ఇది సాధారణ రాజకీయాలు మాత్రమే. *విప్లవాత్మక* ప్రతిపాదనల కోసం, శాండర్స్ మరియు వారెన్ ಅವರ ఆలోచనలను చూడండి: <URL> <URL><end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER ` terribly misguided about this ` No ! I ` m bloody not , since I know Tower of Babel narrative !",
+    "utterance": "@USER @USER \"ఈ విషయం గురించి మీరు పూర్తిగా పొరపాటు పడుతున్నారు.\" లేదు! నేను అలా కాదు, ఎందుకంటే నాకు 'బబుల్ టవర్' కథ గురించి తెలుసు!<end_of_turn>",
+    "input context": [
+      "It ’ s time to revolutionize the EU budget . Instead of national contributions , we need own resources ( e . g . a tax on big internet platforms or big polluters ) . It ’ s the only way to defend our 🇪 🇺 interests in a world dominated by “ empires ” like the US & China.https :/ / t.co/EU0wcYtqty",
+      "@USER The only thing we will ever hear from Brussels is ' more Brussels ' , we understand that . But please note the majority of the Dutch voted against this EU , as did other . You do not speak in our name . Some countries are so fed up they left . That is your legacy . This ever expanding ...",
+      "@USER @USER Does Netherlands understand where they are in comparison with “ empires ” like the US & China ? Does Netherlands are completely self sufficient ?",
+      "@USER @USER Straw man , practically no one is against economic cooperation , for that a majority would be easy . That however is held hostage to force ideological points down member states ' throats like open borders and giving up soverntny . For that there is no majority and Brussels knows it .",
+      "@USER @USER ` open borders and giving up sovereignty ` - observe the UK to see how ` borders and sovereignty ` will be regained .",
+      "@USER @USER How do you see the UK ending up in such dire straits if they are allowed to trade normally like now ?",
+      "@USER @USER The UK cannot trade ` normally like now ` without alignment ( only for business purposes ) to the EU rules and regulations . <URL>",
+      "@USER @USER OK if the UK does not want to align then they sort themselves out . But the original dispute under Cameron was they wanted that just control over their borders which was perfectly reasonable . This EU is a tied-in sale of what countries obviously want with something a majority ...",
+      "@USER @USER Cameron has wanted more - ` something ` to do with money , tax havens and etc . The UK still have no cap for none-EU immigration and are happy about the fact #SpoilerAlert : negotiation of trade deals with various counties",
+      "@USER @USER The main reason that thses things are an issue is because Brussels knows other states will want the same thing . So why not give it to everyone ? B / c they would be out of a job . This is about petty politics at the expense of the peoples of Europe and it's time we put a stop to it .",
+      "@USER @USER ` other states will want ` . Anti-Europeanism is quite old ideology . There were 100s of European politicians familiar with and in favour of . Sanity has preserved European Unity . <URL> <URL> <URL>",
+      "@USER @USER That is not anti-europeanism , that is taking the cooperation in Europe of as far as member states are conformable to take it . If you had a valid counter point , you would have made it by now . You know I'm right .",
+      "@USER @USER Euroscepticism is hijacked by anti-Europeanism ( Love Europe hate EU ) . Eurosceptics won ` t inflict self damage to very own countries for ` sovereignty econ prosperity ` reasons . Brexit is geopolitical and military choice , not economical one . All my convo with you is MY VALID point .",
+      "@USER @USER Except for the fact that's not how this went down . The UK left after Merkel unilaterally invited 2 million people and then shoved them down everyone's throat through a majority vote for the first time , stopping the unanimous votes of before . That custom was abandoned to shove ...",
+      "@USER @USER foreigners across borders , a flagrant transgression of sovernty . That's how this went down and people have not forgotten , although this is conspicuously absent from the news .",
+      "@USER @USER Thanks Mr . Obvious . Xenophobia has played a massive role in Brexit . Same time , Xenophobia is used as a tool by US anti-Europeanists since the US is ` more diverse society ` ( - ghetto society IMHO ) . Anyway , there will be benefits for the EU in 40 years from those 2 mill invitees .",
+      "@USER @USER Guarding the borders is not xenofobic , it the duty of the state . You are terribly misguided about this . Homo sapiens is a nasty primate and mixing groups has not gone particularly well 100 % of the time , to put it mildly ."
+    ],
+    "context": [
+      "ఇది యూరోపియన్ యూనియన్ (EU) బడ్జెట్‌ను సమూలంగా మార్చే సమయం. జాతీయ విరాళాల స్థానంలో, మన స్వంత వనరులు అవసరం (ఉదాహరణకు, పెద్ద ఇంటర్నెట్ సంస్థలపై లేదా కాలుష్యం ఎక్కువగా చేసే సంస్థలపై పన్ను విధించడం). మన 🇪🇺 ప్రయోజనాలను, అమెరికా మరియు చైనా వంటి \"సామ్రాజ్యాల\" ఆధిపత్యం ఉన్న ప్రపంచంలో కాపాడుకోవడానికి ఇది ఒక్కటే మార్గం.\nhttps://t.co/EU0wcYtqty<end_of_turn>",
+      "@USER బ్రస్సెల్స్ నుండి మనం వినేది కేవలం \"మరింత బ్రస్సెల్స్\" మాత్రమే అని మాకు తెలుసు. అయితే, దయచేసి గమనించండి, చాలా మంది డచ్ ప్రజలు ఈ యూరోపియన్ యూనియన్‌కు వ్యతిరేకంగా ఓటు వేశారు, అలాగే ఇతర దేశాల ప్రజలు కూడా వ్యతిరేకించారు. మీరు మా తరపున మాట్లాడటం లేదు. కొన్ని దేశాలు విసిగిపోయి, ఈ యూనియన్ నుండి నిష్క్రమించాయి. ఇది మీ వారసత్వం. ఈ నిరంతరం విస్తరిస్తూ పోయే...<end_of_turn>",
+      "@USER @USER నెదర్లాండ్స్, అమెరికా మరియు చైనా వంటి \"సమాఖ్య\" దేశాలతో పోలిస్తే తమ స్థానాన్ని అర్థం చేసుకుంటుందా? నెదర్లాండ్స్ పూర్తిగా స్వయం సమృద్ధిగా ఉందా?<end_of_turn>",
+      "@USER @USER \"స్ట్రా మ్యాన్\" అనే పదం ఉపయోగించబడింది. వాస్తవానికి, ఆర్థిక సహకారంపై దాదాపు ఎవరూ వ్యతిరేకం కాదు, కాబట్టి మెజారిటీని పొందడం సులభం అవుతుంది. అయితే, సభ్య దేశాలపై బలవంతంగా కొన్ని సిద్ధాంతాలను రుద్దడానికి ఇది ఉపయోగించబడుతోంది, ఉదాహరణకు ఓపెన్ సరిహద్దులు మరియు సార్వభౌమాధికారాన్ని వదులుకోవడం వంటివి. దీనికి ఎటువంటి మెజారిటీ లేదు, మరియు బ్రస్సెల్స్ కూడా దీనిని తెలుసు.<end_of_turn>",
+      "@USER @USER ` సరిహద్దులను తెరవడం మరియు సార్వభౌమాధికారాన్ని వదులుకోవడం` - యునైటెడ్ కింగ్‌డమ్‌ను గమనించండి, సరిహద్దులు మరియు సార్వభౌమాధికారం ఎలా తిరిగి పొందుతారో చూడటానికి.<end_of_turn>",
+      "@USER @USER వారు ప్రస్తుతం ఉన్నట్లుగా సాధారణంగా వ్యాపారం చేయడానికి అనుమతించబడితే, యునైటెడ్ కింగ్‌డమ్ (UK) ఇంత తీవ్రమైన పరిస్థితికి ఎలా చేరుకుంటుందని మీరు భావిస్తున్నారు?<end_of_turn>",
+      "@USER @USER యునైటెడ్ కింగ్‌డమ్ (UK) ప్రస్తుతం ఉన్న విధంగా, యూరోపియన్ యూనియన్ (EU) యొక్క నియమాలు మరియు నిబంధనలకు అనుగుణంగా లేకపోతే సాధారణంగా వాణిజ్యం చేయలేదు (ఇది కేవలం వ్యాపార ప్రయోజనాల కోసం మాత్రమే). <URL><end_of_turn>",
+      "@USER @USER ఒకవేళ యూకే (యునైటెడ్ కింగ్‌డమ్) తమకు నచ్చిన విధంగా వ్యవహరించాలనుకుంటే, వారు తమంతట తాముగా నిర్ణయం తీసుకోవచ్చు. అయితే, కెమెరాన్ హయాంలో ఉన్న అసలు వివాదం ఏమిటంటే, వారు తమ సరిహద్దులపై పూర్తి నియంత్రణ కోరుకున్నారు, ఇది పూర్తిగా సహేతుకమైన డిమాండ్. ఈ యూరోపియన్ యూనియన్ అనేది దేశాలు కోరుకునే విషయాలతో ముడిపడి ఉంది, కానీ అది చాలా మందికి నచ్చకపోవచ్చు.<end_of_turn>",
+      "@USER @USER కామెరాన్ డబ్బు, పన్నుల రహిత ప్రాంతాలు మరియు ఇతర విషయాలకు సంబంధించిన మరిన్ని మార్పులు కోరుకున్నారు. యూరోపియన్ యూనియన్ వెలుపలి దేశాల నుండి వచ్చే వలసదారులకు సంబంధించిన నియంత్రణలు ఇంకా బ్రిటన్‌లో లేవు, మరియు వారు వివిధ దేశాలతో వాణిజ్య ఒప్పందాలు కుదుర్చుకోవడం పట్ల సంతోషంగా ఉన్నారు. #ముఖ్యమైన విషయం: ఇది ఒక రహస్యం కాదు.<end_of_turn>",
+      "@USER @USER ఈ సమస్యల యొక్క ప్రధాన కారణం ఏమిటంటే, బ్రస్సెల్స్ ఇతర దేశాలు కూడా ఇదే కోరుకుంటాయని తెలుసు. కాబట్టి, ఎందుకు అందరికీ ఇవ్వకూడదు? ఎందుకంటే అలా చేస్తే వారికి ఉద్యోగాలు ఉండవు. ఇది యూరోప్ ప్రజల ప్రయోజనాలను విస్మరించి చేసే చిన్న రాజకీయాల గురించి. దీనిని మనం ఆపాల్సిన సమయం ఇది.<end_of_turn>",
+      "@USER @USER \"ఇతర రాష్ట్రాలు కూడా దీనిని కోరుకుంటాయి.\" యూరోపియన్ వ్యతిరేక భావజాలం చాలా పాతది. వందలాది మంది యూరోపియన్ రాజకీయ నాయకులు దీని గురించి తెలుసుకున్నారు మరియు దీనికి మద్దతు ఇచ్చారు. హేతుబద్ధత యూరోపియన్ ఐక్యతను కాపాడింది. <URL> <URL> <URL><end_of_turn>",
+      "@USER @USER అది యూరోపియన్‌ వ్యతిరేకత కాదు, యూరోపియన్ దేశాలు దానిని స్వీకరించడానికి సిద్ధంగా ఉంటే, అప్పుడు మాత్రమే ఆ సహకారం కొనసాగుతుంది. మీకు సరైన వ్యతిరేక అభిప్రాయం ఉంటే, మీరు దానిని ఇంతకుముందే చెప్పి ఉండాలి. నాకు నిజం తెలుసు.<end_of_turn>",
+      "@USER @USER యూరో-సందేహవాదం, యూరోపియన్ వ్యతిరేక భావజాలం ద్వారా ప్రభావితమవుతోంది (యూరప్‌ను ప్రేమించండి, కానీ యూరోపియన్ యూనియన్‌ను ద్వేషించండి). యూరో-సందేహవాదులు తమ దేశాలకు స్వయంప్రతిపత్తి, ఆర్థికాభివృద్ధి వంటి కారణాల వల్ల ఎటువంటి నష్టం కలిగించరు. బ్రెగ్జిట్ అనేది ఆర్థికపరమైన నిర్ణయం కాదు, అది భౌగోళిక రాజకీయ మరియు సైనికపరమైన ఎంపిక. నేను మీతో జరిపిన సంభాషణలన్నీ నా యొక్క సరైన అభిప్రాయాలు.<end_of_turn>",
+      "@USER @USER అయితే, ఇక్కడ జరిగినది వేరే. యూకే, మెర్కెల్ ഏകపక్షంగా 2 మిలియన్ల మందిని ఆహ్వానించిన తర్వాత, వారిని మొదటిసారిగా మెజారిటీ ఓటింగ్ ద్వారా అందరిపై రుద్దింది, దీనివల్ల గతంలో ఉన్న ఏకాభిప్రాయ ఓటింగ్ విధానం ఆగిపోయింది. ఆ సంప్రదాయాన్ని వదిలివేసి, ఒక నిర్ణయాన్ని బలవంతంగా అమలు చేశారు...<end_of_turn>",
+      "@USER @USER సరిహద్దులు దాటి విదేశీయులు రావడం, ఇది సార్వభౌమాధికారానికి ఒక స్పష్టమైన ఉల్లంఘన. ఇలానే జరిగింది, ప్రజలు దీనిని మరచిపోలేదు, అయినప్పటికీ ఇది వార్తల్లో ప్రముఖంగా కనిపించడం లేదు.<end_of_turn>",
+      "@USER @USER ధన్యవాదాలు, మిస్టర్ \"అర్థమయ్యే వ్యక్తి\". జాతి వివక్ష బ్రెగ్జిట్ (Brexit)లో ఒక ముఖ్యమైన పాత్ర పోషించింది. అదే సమయంలో, అమెరికాలోని యూరోపియన్ వ్యతిరేకులు కూడా జాతి వివక్షను ఒక సాధనంగా ఉపయోగిస్తున్నారు, ఎందుకంటే అమెరికా \"మరింత వైవిధ్యమైన సమాజం\" (నా అభిప్రాయం ప్రకారం, ఇది ఒక రకమైన \"గెట్టో సమాజం\"). ఏది ఏమైనప్పటికీ, రాబోయే 40 సంవత్సరాలలో ఆ రెండు మిలియన్ల మంది అతిథుల నుండి యూరోపియన్ యూనియన్కు కొన్ని ప్రయోజనాలు ఉంటాయి.<end_of_turn>",
+      "@USER @USER సరిహద్దులను కాపాడటం అనేది జాత్యహంకారంతో కూడుకున్నది కాదు, అది రాష్ట్రం యొక్క బాధ్యత. మీరు ఈ విషయం గురించి పూర్తిగా పొరపాటు పడుతున్నారు. \"హోమో సేపియన్స్\" అనే మానవజాతి ఒక అసహ్యకరమైన జాతి, మరియు వివిధ సమూహాలను కలపడం ఎల్లప్పుడూ విజయవంతం కాలేదు, చాలా సందర్భాలలో.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Is this next-level or just plain dumb ? 🤣",
+    "utterance": "@USER @USER ఇది చాలా తెలివైన ఆలోచననా, లేక కేవలం వెర్రి ఆలోచననా? 🤣<end_of_turn>",
+    "input context": [
+      "This is designer number plate where is @USER <URL>",
+      "@USER Thanks , registration no . of the vehicle is not readable hence can't be prosecuted ."
+    ],
+    "context": [
+      "ఇది డిజైనర్ నంబర్ ప్లేట్, ఇక్కడ @USER అనే వినియోగదారు <URL> వద్ద ఉన్నారు.<end_of_turn>",
+      "@వినియోగదారు, ధన్యవాదాలు. వాహనం యొక్క రిజిస్ట్రేషన్ నంబర్ స్పష్టంగా లేనందున, దానిపై చట్టపరమైన చర్యలు తీసుకోలేము.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Yeah , she has a lot of nerve as a reporter asking questions that Pompeo doesn ’ t want to answer ! !",
+    "utterance": "@USER @USER అవును, ఆమె ఒక విలేఖరిగా చాలా ధైర్యవంతురాలు. పోంపియో సమాధానం చెప్పడానికి ఇష్టపడని ప్రశ్నలను ఆమె అడుగుతోంది!<end_of_turn>",
+    "input context": [
+      "NPR reporter barred by State Department days after Pompeo Ukraine interview <URL>",
+      "@USER Good ! She was completely in the wrong and proves for the millionth time you can't believe anything reporters say ."
+    ],
+    "context": [
+      "ఎన్పీఆర్ (NPR) ప్రతినిధిని, పోంపియో ఉక్రెయిన్ ఇంటర్వ్యూ చేసిన కొన్ని రోజుల తర్వాత, విదేశాంగ శాఖ కార్యకలాపాల్లో పాల్గొనకుండా నిషేధించింది. <URL><end_of_turn>",
+      "@USER చాలా మంచిది! ఆమె పూర్తిగా తప్పులో ఉంది, మరియు ఇది మరోసారి నిరూపిస్తుంది, మీరు రిపోర్టర్లు చెప్పే ప్రతి విషయాన్ని నమ్మకూడదు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Oh look , Katariina , they're having nice warm snow there right now . <URL>",
+    "utterance": "@USER @USER చూడండి, కటరీనా, అక్కడ ఇప్పుడు వెచ్చగా, మృదువుగా ఉన్న మంచు కురుస్తోంది. <URL><end_of_turn>",
+    "input context": [
+      "This four months old baby died in the freezing in Idlib , #Syria . There are hundreds of thousands of children under bombing in Idlib . The people in Idlib don ’ t want to die in silence . <URL>",
+      "@USER You should send message to your goverment . Stop fighting stupid wars . Now you are just asking for help from Europe . Healing starts from the inside , not out . p . s . There hasn't been under minus celsius degrees in Syria . #fakenews"
+    ],
+    "context": [
+      "ఈ నాలుగు నెలల వయస్సు గల శిశువు సిరియాలోని ఇడ్లిబ్‌లో తీవ్రమైన చలి కారణంగా మరణించింది. ఇడ్లిబ్‌లో వందల వేల మంది పిల్లలు బాంబు దాడుల కారణంగా ప్రాణాపాయ స్థితిలో ఉన్నారు. ఇడ్లిబ్‌లోని ప్రజలు నిశ్శబ్దంగా చనిపోవాలనుకోవడం లేదు. <URL><end_of_turn>",
+      "@USER మీరు మీ ప్రభుత్వానికి ఒక సందేశం పంపాలి. అర్థంలేని యుద్ధాలను ఆపండి. ఇప్పుడు మీరు ఐరోపా నుండి సహాయం కోసం అడుగుతున్నారు. కోలుకోవడం అనేది బయటి నుండి కాదు, లోపలి నుండి మొదలవుతుంది.\nచివరిగా, సిరియాలో డిగ్రీల పరంగా మైనస్ ఉష్ణోగ్రతలు నమోదు కాలేదు. #తప్పుడువార్తలు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER No . All men . We are all horrible . Maybe y ’ all should just cleanse the earth of all males . The hermeneutical understanding is extraordinarily far off . And no , most men are great . You ’ re just hanging out in a sewer waiting for a diamond ring to float by . <URL>",
+    "utterance": "@USER @USER @USER లేదు. అందరు పురుషులు. మనమందరం చాలా చెడ్డవాళ్ళం. బహుశా మీరు భూమిని పురుషులందరి నుండి శుభ్రం చేయాలి. దీని యొక్క అర్థాన్ని సరిగ్గా అర్థం చేసుకోవడం చాలా కష్టం. మరియు లేదు, చాలా మంది పురుషులు గొప్పవారు. మీరు కేవలం ఒక మురికి కాలువలో ఉండి, ఒక వజ్రపు ఉంగరం మీ దగ్గరకు వచ్చే వరకు వేచి చూస్తున్నారు. <URL><end_of_turn>",
+    "input context": [
+      "When I hear men worshipping guns and talking about how there ’ s nothing that will stop them from defending their family , my mind goes to Naaman in the Bible . Do you remember Naaman ? He was a great military leader , and he also had leprosy . 1 /",
+      "@USER Parent : I'll do anything to care for my family ! Especially rally and campaign to outlaw guns ! Parent : [ texts and drives ] God : 🙄",
+      "@USER Yep . No-phones-while-driving is our family ’ s strictest rule .",
+      "@USER @USER Nice to see you're reading your bible . The Hermeneutics is a wee bit dodgy . seems many of the \" man \" conversations in a way that seems foreign to me . The men with whom I speak don't seem to be represented among the man-side of your proposed conversations . Keep reading 2 kings !",
+      "@USER @USER @USER This is the longest and most snobbish version of “ Not all men ” I ’ ve ever seen ."
+    ],
+    "context": [
+      "నేను పురుషులు ఆయుధాలను ఆరాధిస్తూ, తమ కుటుంబాలను కాపాడుకోవడానికి ఏదీ అడ్డుకోలేదని మాట్లాడినప్పుడు, నా మనస్సు బైబిల్‌లోని నమాన్‌ గురించి ఆలోచిస్తుంది. మీకు నమాన్‌ గుర్తుందా? అతను గొప్ప సైనిక నాయకుడు, కానీ అతనికి కుష్ఠరోగం కూడా ఉంది.<end_of_turn>",
+      "@USER తల్లి/తండ్రి: నా కుటుంబానికి నేను ఏమి చేయడానికైనా సిద్ధంగా ఉన్నాను! ముఖ్యంగా, తుపాకులను నిషేధించడానికి నేను ఉద్యమాలు చేస్తాను మరియు ప్రచారం చేస్తాను! తల్లి/తండ్రి: [ సందేశాలు పంపుతూ, డ్రైవింగ్ చేస్తూ] దేవుడు: 🙄<end_of_turn>",
+      "@USER అవును. మా కుటుంబంలో, డ్రైవింగ్ చేస్తున్నప్పుడు ఫోన్ ఉపయోగించకూడదు అనేది మాకు అత్యంత కఠినమైన నియమం.<end_of_turn>",
+      "@USER @USER మీరు మీ బైబిల్ చదువుతున్నందుకు సంతోషంగా ఉంది. అయితే, మీరు ఉపయోగిస్తున్న భాషా శైలి కొంచెం వింతగా ఉంది. మీరు ప్రస్తావిస్తున్న సంభాషణల్లోని చాలా విషయాలు నాకు అపరిచితంగా అనిపిస్తున్నాయి. మీరు మాట్లాడే వ్యక్తులు, మీరు ప్రతిపాదించిన సంభాషణలలోని వ్యక్తులకు భిన్నంగా ఉన్నారు. మీరు \"2 కింగ్స్\" పుస్తకాన్ని చదవడం కొనసాగించండి!<end_of_turn>",
+      "@USER @USER @USER ఇది నేను ఎప్పుడూ చూడని \"అందరూ పురుషులు ఇలా ఉండరు\" అనే వాక్యం యొక్క పొడవైన మరియు అత్యంత అహంకారపూరితమైన రూపం.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Surely your wrong ! It's all Boris Johnsons fault ! We wouldn't be in this mess if Labour had won the election .",
+    "utterance": "@USER @USER మీరు పొరపాటు పడుతున్నారు! ఇది పూర్తిగా బోరిస్ జాన్సన్ యొక్క తప్పిదం! లేబర్ పార్టీ ఎన్నికల్లో గెలిస్తే, మనం ఈ సమస్యలో ఉండేవాళ్ళం కాదు.<end_of_turn>",
+    "input context": [
+      "Grace Blakeley : What I would've said to Iain Dale if he hadn't stormed out on TV <URL>",
+      "@USER AND WHAT WAS THE CAUSE OF AUSTERITY ? GORDON BROWN BEQUEATHED A £ 160BILLION YEARLY OVERSPEND / DEFICIT THAT ALONG WITH THEIR NAT DEBT WAS COSTING THE TAXPAYER £ 50BILLION A YEAR IN DEBT INTEREST . THANK GORDON BROWN FOR CORRECTIVE AUSTERITY ."
+    ],
+    "context": [
+      "గ్రేస్ బ్లేక్లీ: నేను ఐన్ డేల్‌తో ఏమి చెప్పాలనుకున్నానో, కానీ అతను టీవీలో కోపంగా అక్కడి నుండి వెళ్ళిపోతే... <URL><end_of_turn>",
+      "@వినియోగదారు, అయితే ఈ ఆర్థిక నియంత్రణకు కారణం ఏమిటి? గార్డన్ బ్రౌన్ ప్రభుత్వం సంవత్సరానికి 160 బిలియన్ పౌండ్ల అధిక వ్యయం/లోటును మిగిల్చింది. దీనితో పాటు వారి జాతీయ అప్పుల కారణంగా, పన్ను చెల్లింపుదారులు సంవత్సరానికి 50 బిలియన్ పౌండ్ల అప్పు వడ్డీని చెల్లించవలసి వచ్చింది. ఈ పరిస్థితిని సరిదిద్దడానికి తీసుకున్న ఆర్థిక నియంత్రణ చర్యలకు గార్డన్ బ్రౌన్‌కు ధన్యవాదాలు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Yes , and once you ’ re done apologizing ... head on over to yelp to give everything that came out of China a 5 star review . <URL>",
+    "utterance": "@USER @USER అవును, మీరు క్షమాపణలు చెప్పడం పూర్తయిన తర్వాత... చైనా నుండి వచ్చిన ప్రతి ఉత్పత్తికి యాహూ (Yelp) వెబ్‌సైట్‌లో ఐదు నక్షత్రాల రేటింగ్ ఇవ్వండి. <URL><end_of_turn>",
+    "input context": [
+      "This is beyond disappointing to see this sort of thing happening in British Columbia . We don ’ t stereotype and fear monger in the face of a health scare . We need to work together to fight the virus , not each other . Together we are so much stronger . <URL>",
+      "@USER China is also money laundering , importing illegal fentanyl , and manipulating our housing market not to mention the spying . Should we apologize for this too ?"
+    ],
+    "context": [
+      "బ్రిటిష్ కొలంబియాలో ఇలాంటి సంఘటనలు జరుగుతున్నాయని చూడటం చాలా నిరాశ కలిగిస్తోంది. ఆరోగ్య సమస్యల సమయంలో మనం సాధారణీకరణలు చేయకూడదు మరియు భయాన్ని కలిగించే విధంగా మాట్లాడకూడదు. మనం ఈ వైరస్‌ను ఎదుర్కోవడానికి కలిసి పనిచేయాలి, ఒకరితో ఒకరు కాదు. మనం కలిసి ఉంటే చాలా బలంగా ఉంటాము. <URL><end_of_turn>",
+      "@USER చైనా డబ్బును అక్రమంగా మార్చడం, చట్టవిరుద్ధంగా ఫెంటానిల్ దిగుమతి చేసుకోవడం, మన గృహ నిర్మాణ మార్కెట్‌ను తారుమారు చేయడం, పైగా గూఢచర్యం చేయడం వంటివి కూడా చేస్తోంది. దీనికి కూడా మనం క్షమాపణలు చెప్పాలా?<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Yeah , because we all know the refs are reluctant to call pass interference . #OkudahisaBeast !",
+    "utterance": "@USER @USER అవును, ఎందుకంటే మనందరికీ తెలుసు, రిఫరీలు సాధారణంగా \"పాస్ ఇంటర్‌ఫెరెన్స్\" (బంతిని అడ్డుకోవడం) గురించి నిర్ణయాలు తీసుకోవడానికి అంత సుముఖంగా ఉండరు. #ఒకుడాహీసాబీస్ట్!<end_of_turn>",
+    "input context": [
+      "Men lie , women lie ... # ’ s don ’ t ... 🌶 <URL>",
+      "@USER It ’ s easy when you get away with pass interference on every route !"
+    ],
+    "context": [
+      "పురుషులు అబద్ధాలు చెబుతారు, స్త్రీలు కూడా అబద్ధాలు చెబుతారు... కానీ మిగిలిన వారు చెప్పరు... 🌶 <URL><end_of_turn>",
+      "@USER ప్రతిసారి మీరు ఫౌల్ చేయకుండా స్వేచ్ఛగా ఆడుకోగలిగితే, ఆట చాలా సులభం అవుతుంది!<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Why would the book the best rock & roll band on the Planet with the best vocalist on the Planet whose rock anthems are played at nearly every sporting event ? It just doesn't make any sense ! I have been signing petitions for years to get QAL for halftime !",
+    "utterance": "@USER @USER @USER ప్రపంచంలోనే అత్యుత్తమ రాక్ & రోల్ బ్యాండ్, ప్రపంచంలోనే అత్యుత్తమ గాయకుడితో కూడిన, వారి రాక్ పాటలు దాదాపు ప్రతి క్రీడా కార్యక్రమ에서도 వినిపించే బ్యాండ్ గురించి ఈ పుస్తకం ఎందుకు? ఇది అసలు అర్థం కావడం లేదు! నేను చాలా సంవత్సరాలుగా \"క్వాలిటీ ఆడియో లైన్\" (QAL) ను హాఫ్ టైమ్ సమయంలో వినిపించడానికి పిటిషన్లు దాఖలు చేస్తున్నాను!<end_of_turn>",
+    "input context": [
+      "“ We Will Rock You \" + \" We Are The Champions \" @USER Still not over this night ! ! Such an important cause . You can still donate over at : <URL> #FireFightAustralia #QAL2020 <URL>",
+      "@USER @USER February is full of historical evens : last year you guys opened the Oscars , this year you replicated Live Aid . What's in the oven for 2021 ? The Super Bowl ? ? Asking for a friend 😋 🙏 🏻"
+    ],
+    "context": [
+      "\"వీ వి రాక్ యూ\" మరియు \"వీ ఆర్ ది ఛాంపియన్స్\" పాటలు... @USER ఈ రాత్రి గురించి ఇంకా మర్చిపోలేకపోతున్నాను! ఇది చాలా ముఖ్యమైన విషయం. మీరు ఇంకా విరాళాలు ఇవ్వవచ్చు: <URL> #FireFightAustralia #QAL2020 <URL><end_of_turn>",
+      "@USER @USER ఫిబ్రవరి నెలలో ఎన్నో చారిత్రాత్మక సంఘటనలు జరుగుతాయి: గత సంవత్సరం మీరు ఆస్కార్ వేడుకను ప్రారంభించారు, ఈ సంవత్సరం మీరు \"లైవ్ ఎయిడ్\" కార్యక్రమాన్ని పునరుద్ధరించారు. 2021 సంవత్సరానికి మీ దగ్గర ఇంకా ఏముంది? సూపర్ బౌల్ కావచ్చు? ఇది ఒక స్నేహితుడి కోసం అడుగుతున్నాను. 😋 🙏 🏻<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Yep . You got me . I definitely just want to see a repeat of the holocaust and you are in no way being a drama queen .",
+    "utterance": "@USER @USER అవును. మీరు నన్ను అర్థం చేసుకున్నారు. నేను ఖచ్చితంగా హోలోకాస్ట్ (హోలోకాస్ట్) మళ్లీ జరుగుతుందో లేదో చూడాలని అనుకుంటున్నాను, మరియు మీరు ఏ విధంగానూ అతిగా స్పందిస్తున్నారని నేను అనుకోను.<end_of_turn>",
+    "input context": [
+      "@USER @USER You really have little depth , are you flailing now ?",
+      "@USER @USER You're mistaking trolling for flailing . You're all SUPER invested in this trolling though , which gives me life , so I've stuck around .",
+      "@USER @USER Anything to keep your from killing yourself , but then again you do want to starve millions and see a repeat of the Holocaust so I'm probably committing some sin by not letting you go save the world by offing yourself ."
+    ],
+    "context": [
+      "@USER @USER మీరు నిజంగా చాలా অগভীর వ్యక్తిత్వం కలిగి ఉన్నారు, ఇప్పుడు మీరు ఏమి చేస్తున్నారో నాకు అర్థం కావడం లేదు.<end_of_turn>",
+      "@USER @USER మీరు ట్రోలింగ్‌ను తప్పుగా అర్థం చేసుకుంటున్నారు. మీరు అందరూ ఈ ట్రోలింగ్‌లో చాలా ఆసక్తి కనబరుస్తున్నారు, అది నాకు చాలా సంతోషాన్ని కలిగిస్తోంది, అందుకే నేను ఇక్కడే ఉన్నాను.<end_of_turn>",
+      "@USER @USER మిమ్మల్ని మీరు చంపుకోకుండా ఆపడానికి ఏదైనా చేయడానికి నేను సిద్ధంగా ఉన్నాను, కానీ మళ్ళీ, మీరు లక్షలాది మందిని ఆకలితో అలమటింపజేయాలని, హోలోకాస్ట్ లాంటి మరో విషాదం పునరావృతం కావాలని కోరుకుంటున్నారు. కాబట్టి, మిమ్మల్ని మీరు చంపుకోవడం ద్వారా ప్రపంచాన్ని రక్షించడానికి అనుమతించకపోవడం ద్వారా నేను ఏదో తప్పు చేస్తున్నట్లు అనిపిస్తోంది.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Yes , and a manipulative hypocrite who plays the race card and then the victim card when the race card comes back and bites him on the bum . Happily I'm not an engineer but if I was I'd boycott & if they were silly enough not to sack him",
+    "utterance": "@USER @USER @USER అవును, మరియు ఒక మోసపూరిత, ద్విముఖ వ్యక్తి. అతను జాతి వివక్ష కార్డును ఉపయోగించి ప్రజలను తప్పుదోవ పట్టించుకుంటాడు, ఆపై ఆ కార్డు తిరిగి అతనికి ఎదురుపడినప్పుడు, అతను బాధితుడిగా నటించడానికి ప్రయత్నిస్తాడు. నేను ఇంజనీర్ కాదు, కానీ నేను ఒకవేళ ఇంజనీర్ అయితే, నేను అతనిని బహిష్కరిస్తాను. ఒకవేళ వారు అతన్ని తొలగించడంలో అంత తెలివైనవారు కాకపోతే, నేను అలా చేస్తాను.<end_of_turn>",
+    "input context": [
+      "What do @USER & @USER ( employer ) of #MartinShapland & @USER ( he's one of yours ) think about the discredit that has brought them through his vindictive & malicious public pronouncements ? I hope they have more principle than #AlistairStewart <URL>",
+      "@USER @USER @USER He's an embarrassment , going by these charming comments <URL>"
+    ],
+    "context": [
+      "@USER మరియు @USER (యజమానులు), #మార్టిన్ షాప్లాండ్ గురించి, మరియు @USER (అతను మీ ఉద్యోగులలో ఒకడు) ఈ వ్యక్తులు, అతని పగతో కూడిన మరియు దురుద్దేశపూరితమైన బహిరంగ ప్రకటనల వల్ల కలిగిన ప్రతికూల ప్రభావం గురించి ఏమనుకుంటున్నారో నాకు తెలుసుకోవాలని ఉంది. వారు #అలిస్టైర్ స్టీవర్ట్ కంటే ఎక్కువ నైతిక విలువలు కలిగి ఉంటారని నేను ఆశిస్తున్నాను. <URL><end_of_turn>",
+      "@USER @USER @USER అతను చాలా సిగ్గుపడేలా ప్రవర్తిస్తున్నాడు, ఈ రకమైన ఆకర్షణీయమైన వ్యాఖ్యలను చూస్తే అనిపిస్తుంది. <URL><end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Suffice to say , there's no basis for & there should be NO investigation . After all , for d love of d country , one's OWN daughter that is \" eminently qualified \" can & should be employed & appointed to work & \" serve \" d citizenry . Wailers see \" patriotic \" act as NEPOTIC act",
+    "utterance": "@USER @USER @USER చెప్పడానికి, దీనికి ఎటువంటి ఆధారాలు లేవు, కాబట్టి ఎటువంటి విచారణ జరగకూడదు. అన్నిటికంటే ముఖ్యంగా, దేశం పట్ల ప్రేమతో, ఒక వ్యక్తి తన సొంత కుమార్తెను, ఆమె \"అత్యంత అర్హత కలిగిన\" వ్యక్తి కాబట్టి, ఉద్యోగంలో నియమించి, ఆమెను పని చేయడానికి మరియు ప్రజలకు \"సేవ\" చేయడానికి అవకాశం ఇవ్వాలి. కొందరు వ్యక్తులు దీనిని \"దేశభక్తి\" అని భావించినప్పటికీ, అది \"కుటుంబ సంబంధాల ఆధారంగా\" చేసిన పనిగా చూస్తారు.<end_of_turn>",
+    "input context": [
+      "I told my story and @USER amongst others thought i was the only one . Okay see what is still going on ? This is why our institutions DONT WORK ! <URL>",
+      "@USER If true , then this has to have a proper investigation .",
+      "@USER @USER Is it not the investigation that will reveal the truth ? When is the investigation starting , Sir ?",
+      "@USER @USER I ’ m not in position to say that . I ’ m simply a concerned , loyal and patriotic citizen who wants and believes in his country and crave for everything to work properly ."
+    ],
+    "context": [
+      "నేను నా అనుభవాన్ని వివరించాను, మరియు @USERతో సహా చాలా మంది నేను మాత్రమే ఇలాంటి పరిస్థితి ఎదుర్కొన్నానని అనుకున్నారు. సరే, ఇప్పుడు కూడా ఏం జరుగుతుందో చూడండి? మన వ్యవస్థలు ఎందుకు సరిగ్గా పనిచేయడం లేదో ఇది చూస్తే తెలుస్తుంది! <URL><end_of_turn>",
+      "@USER ఒకవేళ ఇది నిజమైతే, దీనిపై సమగ్రమైన విచారణ జరగాలి.<end_of_turn>",
+      "@USER @USER నిజం తెలుసుకోవడానికి అదే విచారణ ఉపయోగపడుతుంది కదా? సార్, విచారణ ఎప్పుడు ప్రారంభమవుతుంది?<end_of_turn>",
+      "@USER @USER నేను అది చెప్పడానికి సరైన స్థానంలో లేను. నేను కేవలం నా దేశం పట్ల శ్రద్ధ, విధేయత మరియు దేశభక్తి కలిగిన ఒక సాధారణ పౌరుడిని. నా దేశం అభివృద్ధి చెందాలని, ప్రతిదీ సక్రమంగా జరగాలని నేను కోరుకుంటున్నాను మరియు నమ్ముతున్నాను.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Understandable , considering the deluge of reports regarding Tommy Robinson supporters , bombing pop concerts and attacking people with machetes . <- For those with a low IQ ! 😏",
+    "utterance": "@USER @USER ఇది అర్థం చేసుకోదగిన విషయమే, ఎందుకంటే టామీ రోబిన్సన్ అనుచరుల గురించి, సంగీత కచేరీలపై బాంబు దాడులు చేయడం మరియు కత్తులతో ప్రజలను గాయపరచడం వంటి అనేక నివేదికలు వస్తున్నాయి. <- తక్కువ తెలివితేటలు ఉన్నవారి కోసం! 😏<end_of_turn>",
+    "input context": [
+      "The front page of tomorrow's Daily Telegraph : ' A freed terrorist strikes again ' #TomorrowsPapersToday <URL>",
+      "@USER I ’ m just as afraid of Tommy Robinson supporters as I am ISIS terrorists . All extremists ."
+    ],
+    "context": [
+      "రేపటి 'డైలీ టెలిగ్రాఫ్' పత్రిక యొక్క మొదటి పేజీ: \"ఒక విడుదలైన ఉగ్రవాది మళ్లీ దాడి చేశాడు.\" #రేపటిపత్రికలుఈరోజు <URL><end_of_turn>",
+      "@USER నేను టమ్మీ రోబిన్సన్ అనుకూలకారుల గురించి కూడా అంతే భయపడుతున్నాను, అలాగే ISIS తీవ్రవాదుల గురించి కూడా అంతే భయపడుతున్నాను. వీరందరూ తీవ్రవాదులే.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER So by banning bikini she will get a job ?",
+    "utterance": "@USER @USER ఆమె బికినీలను నిషేధించడం ద్వారా ఉద్యోగం పొందుతుందా?<end_of_turn>",
+    "input context": [
+      "You wanna follow Islam , then follow Islam properly . Islam forbids music , singing , dancing . Stop music , singing , dancing . Islam forbids drawing human images . Stop drawing , painting , photographing human images . Simple .",
+      "@USER Ban the bikini , it promotes lust in men.simple",
+      "@USER @USER Ban islam , it promotes terrorism and lustful men like u . All problems solved .",
+      "@USER @USER U get sarcasm right ? , this issue is being blown out of proportion , this lady is jobless I think , she might need a job ."
+    ],
+    "context": [
+      "మీరు ఇస్లాంను అనుసరించాలనుకుంటే, అప్పుడు ఇస్లాంను సరిగ్గా అనుసరించండి. ఇస్లాం సంగీతం, పాటలు, నృత్యాలను నిషేధిస్తుంది. కాబట్టి, సంగీతం, పాటలు, నృత్యాలను ఆపండి. ఇస్లాం మనుషుల బొమ్మలను గీయడాన్ని కూడా నిషేధిస్తుంది. కాబట్టి, బొమ్మలు గీయడం, చిత్రాలు వేయడం, ఫోటోలు తీయడం వంటివి ఆపండి. ఇది చాలా సులభం.<end_of_turn>",
+      "@USER బికినీ దుస్తులను నిషేధించండి, ఇది పురుషులలో కామ కోరికలను పెంచుతుంది. ఇది చాలా సులభమైన విషయం.<end_of_turn>",
+      "@USER @USER ఇస్లాంను నిషేధించండి. ఇది ఉగ్రవాదాన్ని ప్రోత్సహిస్తుంది మరియు మీలాంటి కామసూత్రపు వ్యక్తులను ప్రోత్సహిస్తుంది. ఇలా చేస్తే అన్ని సమస్యలు పరిష్కారమవుతాయి.<end_of_turn>",
+      "@USER @USER మీకు వ్యంగ్యాన్ని అర్థమవుతుందా? ఈ సమస్యను అనవసరంగా పెద్దది చేస్తున్నారు. నేను అనుకుంటున్నది ఏంటంటే, ఆ మహిళకు ఉద్యోగం లేదు, బహుశా ఆమెకు ఉద్యోగం అవసరం కావచ్చు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER Black woman crack head . Real progressive of the writers . #StarTrekPicard",
+    "utterance": "@USER: నల్లజాతి మహిళ, మాదకద్రవ్యాల వ్యసనానికి బానిస. రచయితల్లో నిజమైన ప్రగతిశీల వ్యక్తి. #స్టార్ట్రెక్‌పికార్డ్.<end_of_turn>",
+    "input context": [
+      "I thought it was space meth since weed is harmless and she clearly has substance issues . <URL>",
+      "@USER Oh it's for sure meth . And follow up , why do we have a \" POC \" female on drugs ? I thought this new \" WOKE \" time we live in frowns on that ?"
+    ],
+    "context": [
+      "నాకు అనిపించింది అది \"స్పేస్ మెత్\" అయి ఉండవచ్చు, ఎందుకంటే గంజాయి హానిచేయనిది, మరియు ఆమెకు స్పష్టంగా ఏదో ఒక వ్యసనం ఉంది. <URL><end_of_turn>",
+      "@USER ఇది ఖచ్చితంగా మెథాంఫేటమిన్ (methamphetamine) అని తెలుస్తోంది. అంతేకాకుండా, \"POC\" (రంగు చెందిన వ్యక్తి) మహిళ డ్రగ్స్ తీసుకుంటుండటానికి కారణం ఏమిటి? మనం ఇప్పుడు జీవిస్తున్న ఈ కొత్త \"వేక్\" యుగంలో ఇలాంటి వాటిని ప్రోత్సహించకూడదని నేను అనుకున్నాను.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER ohhh did I mention that it's on PVE extinction servers ...",
+    "utterance": "@USER ఓహ్, నేను చెప్పానా... ఇది PVE ఎక్స్‌టింక్షన్ సర్వర్లలో అందుబాటులో ఉంది.<end_of_turn>",
+    "input context": [
+      "Community Crunch 216 : Love Evolved , On The Horizon , and EVO Event <URL> #playARK <URL>",
+      "@USER any word on the kiting problem on cluster servers ... no ... ok then I'm just going to pilar spam the entire area with multiple layers of beh gates and spike walls and wait as you guys do nothing about this problem but destroy my defenses as I'm \" blocking access \" hmmmm seems legit"
+    ],
+    "context": [
+      "కమ్యూనిటీ అప్‌డేట్ 216: \"లవ్ ఎవాల్వ్డ్,\" \"ఆన్ ది హారిజన్,\" మరియు \"ఈవో ఈవెంట్\" <URL> #playARK <URL><end_of_turn>",
+      "@USER క్లస్టర్ సర్వర్లలో ఉన్న \"కిటింగ్\" సమస్య గురించి ఏమైనా సమాచారం ఉందా...? లేదు... సరే, నేను ఆ ప్రాంతాన్ని \"బీహెచ్ గేట్స్\" మరియు \"స్పైక్ గోడలు\" వంటి అనేక రకాల రక్షణలతో నింపి, మీరు ఈ సమస్య గురించి ఏమీ చేయకుండా నా రక్షణలను నాశనం చేస్తున్నారని చూస్తూ వేచి ఉంటాను. నేను \"యాక్సెస్‌ను నిరోధిస్తున్నాను\" అని చెబుతున్నాను... ఇది నిజంగానే విచిత్రంగా ఉంది.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER How do you think the piece would go ... 🤔 You may be consuming a healthy diet and participating in physical activity , but have you taken up smoking yet ? <URL>",
+    "utterance": "@USER మీరు ఈ విషయం గురించి ఏమనుకుంటున్నారో చెప్పగలరా...? 🤔 మీరు ఆరోగ్యకరమైన ఆహారం తీసుకుంటుండవచ్చు మరియు శారీరక వ్యాయామాలలో పాల్గొంటుండవచ్చు, కానీ మీరు ఇంకా ధూమపానం చేయడం ప్రారంభించారా? <URL><end_of_turn>",
+    "input context": [
+      "Prediction : in the next couple of years , we ’ re going to see an online community of people who take up smoking for health benefit . They ’ re so convinced that science is corrupt and government advice evil that smoking just * has * to be good . Anecdotally they feel great .",
+      "@USER I wish this was a joke but I have had brands ask if I would be willing to promote smoking on my site . I can ’ t even bring myself to respond when I get ridiculous requests like that . <URL>"
+    ],
+    "context": [
+      "అంచనా: రాబోయే కొన్ని సంవత్సరాలలో, ఆరోగ్య ప్రయోజనాల కోసం ధూమపానం చేసే వ్యక్తుల యొక్క ఒక ఆన్‌లైన్ సంఘాన్ని మనం చూడబోతున్నాం. శాస్త్రం అవినీతితో నిండి ఉందని, ప్రభుత్వ సలహాలు చెడ్డవని వారు ఎంతగానో నమ్ముతున్నారు. అందువల్ల, ధూమపానం ఖచ్చితంగా మంచిదని వారు భావిస్తున్నారు. వ్యక్తిగతంగా, వారు చాలా బాగా ఉన్నట్లు భావిస్తున్నారు.<end_of_turn>",
+      "@USER ఇది ఒక జోక్ అయితే బాగుండేది, కానీ కొన్ని బ్రాండ్లు నా వెబ్‌సైట్‌లో పొగాకు ఉత్పత్తులను ప్రోత్సహించడానికి నేను సిద్ధంగా ఉన్నానా అని అడిగారు. అలాంటి వెర్రి అభ్యర్థనలు వచ్చినప్పుడు, నేను వాటికి స్పందించడానికి కూడా ఇష్టపడను. <URL><end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Says a pictureless conspiracy theory regressive MLM nutcase",
+    "utterance": "@USER @USER @USER ఒక వ్యక్తి చిత్రాలు లేని కుట్ర సిద్ధాంతాన్ని ప్రోత్సహించే, వెనుకబడిన ఆలోచనలు కలిగిన, మరియు బహుళ-స్థాయి మార్కెటింగ్ (MLM) పథకాలను సమర్థించే వ్యక్తి అని అంటున్నారు.<end_of_turn>",
+    "input context": [
+      "I am sorry to not be able to stay in Washington for the conclusion of the Senate impeachment trial but I need to be home with my wife at this time . We have many decisions to make as a family . I have every faith in my colleagues and hope the Senate will do what is right .",
+      "@USER @USER @USER Says the twitter bot with 4 followers"
+    ],
+    "context": [
+      "క్షమించండి, నేను వాషింగ్టన్‌లో ఉండి, సెనేట్ యొక్క అభిశంసన విచారణ ముగింపుకు హాజరు కాలేకపోతున్నాను. కానీ, ఈ సమయంలో నేను నా భార్యతో ఇంటి వద్ద ఉండవలసి ఉంది. మన కుటుంబంగా మనం చాలా నిర్ణయాలు తీసుకోవలసి ఉంది. నా సహోద్యోగులపై నాకు పూర్తి నమ్మకం ఉంది, మరియు సెనేట్ సరైన పని చేస్తుందని నేను ఆశిస్తున్నాను.<end_of_turn>",
+      "\"నాలుగు మంది అనుచరులు ఉన్న ఒక ట్విట్టర్ బాట్ ఇలా అంది:\"<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER I'm assuming you missed his wink at the end",
+    "utterance": "@USER @USER @USER నేను మీరు చివరిలో అతను చేసిన కన్ను కొట్టడాన్ని గమనించలేదని అనుకుంటున్నాను.<end_of_turn>",
+    "input context": [
+      "Remember : our \" crazy idea \" of universal health care is a reality in : Australia Austria Belgium Canada Chile Czech Rep . Denmark Finland France Germany Greece Hungary Iceland Israel Italy Japan Netherlands New Zealand Norway Poland Portugal S . Korea Spain Sweden Switz . Turkey U . K .",
+      "@USER @USER germany isn't communist i should know cause i live there"
+    ],
+    "context": [
+      "గుర్తుంచుకోండి: మన \"అసాధారణ ఆలోచన\" అయిన సార్వత్రిక ఆరోగ్య సంరక్షణ అనేది ఈ క్రింది దేశాలలో ఒక వాస్తవం: ఆస్ట్రేలియా, ఆస్ట్రియా, బెల్జియం, కెనడా, చిలీ, చెక్ రిపబ్లిక్, డెన్మార్క్, ఫిన్లాండ్, ఫ్రాన్స్, జర్మనీ, గ్రీస్, హంగేరి, ఐస్‌లాండ్, ఇజ్రాయెల్, ఇటలీ, జపాన్, నెదర్లాండ్స్, న్యూజిలాండ్, నార్వే, పోలాండ్, పోర్చుగల్, దక్షిణ కొరియా, స్పెయిన్, స్వీడన్, స్విట్జర్లాండ్, టర్కీ, యునైటెడ్ కింగ్‌డమ్.<end_of_turn>",
+      "@USER @USER జర్మనీ కమ్యూనిస్ట్ దేశం కాదు. నేను అక్కడే నివసిస్తున్నాను కాబట్టి నాకు అది తెలుసు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Would that be New England , New York , Deep South , Upper Midwest , or California American ? lol",
+    "utterance": "@USER @USER అది న్యూ ఇంగ్లాండ్ ప్రాంతమా, న్యూయార్క్ ప్రాంతమా, దక్షిణ ప్రాంతమా, ఉత్తర మధ్యప్రాంతమా, లేక కాలిఫోర్నియా ప్రాంతమా? (నవ్వుతూ)<end_of_turn>",
+    "input context": [
+      "Whenever I'm abroad , I make sure I only speak English . To use a foreign language would be ' cultural appropriation ' , and that's racist .",
+      "@USER When you come to my country you best speak AMERICAN ! And speak it good like us do !"
+    ],
+    "context": [
+      "నేను విదేశాలకు వెళ్ళినప్పుడల్లా, నేను కేవలం ఇంగ్లీష్ మాత్రమే మాట్లాడటానికి ప్రయత్నిస్తాను. ఒక విదేశీ భాషను ఉపయోగించడం అంటే 'సాంస్కృతిక హక్కుల ఉల్లంఘన' అని అర్థం, మరియు అది జాతి వివక్షకు దారితీస్తుంది.<end_of_turn>",
+      "@USER మీరు నా దేశానికి వచ్చినప్పుడు, మీరు అమెరికన్ భాష మాట్లాడటం ఉత్తమం! మరియు మీరు కూడా మా లాగానే చక్కగా మాట్లాడాలి!<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER I am really feeling confident that you guys are on it and doing everything you can .",
+    "utterance": "@USER మీరు ఈ పనిని సమర్థవంతంగా చేస్తున్నారని, మీ శక్తి మేరకు ప్రతిదీ చేస్తున్నారని నేను నమ్ముతున్నాను.<end_of_turn>",
+    "input context": [
+      "almost 48h after loosing my bag and non stop chat and request for updates @USER tell me they can ’ t get a hold of their own people in Miami . Asking for 24 more hours . This is a joke right . #fail #dontflyunited #untited <URL>",
+      "@USER We sincerely apologize for the continued frustration that's being caused by not having your bag . We know it's important to get it to you , and we will continue to work to limit your time without your bag as much as possible . ^ RB"
+    ],
+    "context": [
+      "నా బ్యాగ్ పోయిన తర్వాత దాదాపు 48 గంటలు గడిచాయి. నేను నిరంతరం చాట్ చేస్తూ, సమాచారం అడుగుతూ ఉన్నాను. @USER నాకు వారి స్వంత సిబ్బందిని కూడా మయామిలో సంప్రదించలేకపోతున్నారని చెప్పారు. వారు మరో 24 గంటలు అడుగుతున్నారు. ఇది నిజంగా నవ్వు తెప్పించే విషయం కదా. #వైఫల్యం #యూనైటెడ్‌లో ప్రయాణం చేయవద్దు #యూనైటెడ్ <URL><end_of_turn>",
+      "@వినియోగదారు, మీ బ్యాగ్ లేకపోవడం వల్ల మీకు కలిగే అసౌకర్యానికి మేము మనస్ఫూర్తిగా క్షమాపణలు కోరుతున్నాము. మీ బ్యాగ్‌ను మీకు చేరవేయడం చాలా ముఖ్యమని మాకు తెలుసు, మరియు మీ బ్యాగ్ లేకుండా మీరు ఎక్కువ సమయం గడపకుండా ఉండటానికి మేము సాధ్యమైనంత వరకు కృషి చేస్తాము. ^ RB<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER Yeah - just means those who have done something for a long time . The \" establishment \" is a straw bogey pushed by Bernie but just means \" Dems who dont love me \" & lapped up by the easily-led with no clue how things work or understanding of history . Bernie is establishment .",
+    "utterance": "@USER అవును, ఇది సాధారణంగా ఎక్కువ కాలం నుండి ఏదైనా పని చేస్తున్న వ్యక్తులను సూచిస్తుంది. \"ఎస్టాబ్లిష్‌మెంట్\" అనే పదాన్ని బెర్నీ ఉపయోగించారు, కానీ అది కేవలం \"నన్ను ఇష్టపడని డెమోక్రాట్లు\" అని అర్థం. సులభంగా ప్రభావితమయ్యే వ్యక్తులు దీనిని నమ్ముకుంటారు, వారికి విషయాలు ఎలా పనిచేస్తాయో తెలియదు లేదా చరిత్ర గురించి అవగాహన లేదు. నిజానికి, బెర్నీ కూడా ఒక విధంగా \"ఎస్టాబ్లిష్‌మెంట్\"లోనే ఉన్నారు.<end_of_turn>",
+    "input context": [
+      "This needs to be said loud & clear & MANY X > > > whether you're in US or not . F * CK YOU if you stand on shoulders of liberals & moderates & talk about how \" the establishment \" did nothing . You're talking about people who risked their lives & dedicated careers to progressive causes . <URL>",
+      "@USER What IS the establishment ? People , who aren ’ t you , who are running things ? And when you run things , do you become the establishment ? How does that work ?"
+    ],
+    "context": [
+      "దీనిని స్పష్టంగా, బిగ్గరగా చెప్పాలి, అది కూడా చాలాసార్లు: మీరు అమెరికాలో ఉన్నా, లేకపోయినా. మీరు \"ప్రజాస్వామ్యవాదులు\" మరియు \"మితవాదుల\" యొక్క అభిప్రాయాలను ఉపయోగించి, \"ప్రభుత్వ వ్యవస్థ\" ఏమీ చేయలేదని మాట్లాడితే, మీకు నేను క్షమాపణ చెప్పను. మీరు ఆ వ్యక్తుల గురించి మాట్లాడుతున్నారు, వారు తమ జీవితాలను ప్రమాదంలో పడేసి, తమ వృత్తులను పురోగతికి సంబంధించిన అంశాల కోసం అంకితం చేశారు. <URL><end_of_turn>",
+      "@USER \"స్థాపన\" అంటే ఏమిటి? మీరు కాకుండా, ఎవరు ఇక్కడ వ్యవహారాలను నడుపుతున్నారు? మరియు మీరు వ్యవహారాలను నడిపినప్పుడు, మీరు \"స్థాపన\" అవుతారా? అది ఎలా పనిచేస్తుంది?<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Yeah , I hate coaches who lose three seniors and a junior at the defensive tackle position and still have a team among top in the nation in TFLs .",
+    "utterance": "@USER @USER అవును, నాకు ఆ కోచ్‌లను అసహ్యంగా అనిపిస్తుంది. వారు డిఫెన్సివ్ టాకిల్ స్థానంలో ముగ్గురు సీనియర్ ఆటగాళ్లను మరియు ఒక జూనియర్ ఆటగాడిని కోల్పోయినప్పటికీ, వారి జట్టు దేశంలోనే అత్యుత్తమ జట్లలో ఒకటిగా కొనసాగడం నాకు నచ్చదు.<end_of_turn>",
+    "input context": [
+      "But this presser was about much more than #UCF's 2020 class . Heupel was asked about the progress that McKenzie Milton has made in his recovery . \" I don't think any of us can appreciate how far he actually has come and the mental toughness it takes . \" <URL>",
+      "@USER Anyone else concerned about heupels recruiting last two years ?"
+    ],
+    "context": [
+      "అయితే, ఈ విలేకరుల సమావేశం కేవలం #UCF యొక్క 2020 బ్యాచ్ గురించి మాత్రమే కాదు. హ్యూపెల్, మెక్‌కెన్జీ మిల్టన్ తన కోలుకుంటున్న క్రమంలో సాధించిన పురోగతి గురించి అడిగినప్పుడు, \"అతను ఎంత దూరం వచ్చాడో, మరియు దీని కోసం అతనికి ఎంత మానసిక ధైర్యం అవసరమో, మనలో ఎవ్వరూ పూర్తిగా అర్థం చేసుకోలేమని నేను అనుకుంటున్నాను.\" <URL><end_of_turn>",
+      "@USER గత రెండు సంవత్సరాలలో హ్యూపెల్స్ సంస్థ యొక్క నియామక విధానం గురించి ఎవరికైనా ఆందోళన ఉందా?<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER One thing I've noticed that racists do is call you a racist when you point out their racism . I'm not sayin ' . I'm just sayin ' .",
+    "utterance": "@USER @USER @USER నేను గమనించిన ఒక విషయం ఏమిటంటే, జాతి వివక్ష చూపే వ్యక్తులు, మీరు వారి జాతి వివక్షను ఎత్తి చూపినప్పుడు, మిమ్మల్ని కూడా జాతి వివక్ష చూపే వ్యక్తి అని అంటారు. నేను అలా చెబుతున్నది కాదు. నేను కేవలం ఒక విషయాన్ని తెలియజేస్తున్నాను.<end_of_turn>",
+    "input context": [
+      "Lee Jussim's ( @USER ' s ) Orwelexicon--which was taken down within 24 hours at @USER - - is now up over at @USER <URL>",
+      "@USER @USER @USER Some of my faves : \" Bias bias : A bias for seeing biases , often manifesting as either claiming bias when none exists , exaggerating biases that do exist , or overgeneralizing to large swaths of life from studies finding bias in some narrow or specific context . \"",
+      "@USER @USER @USER \" Blancofemophobia : Prejudice against white women , as exemplified by dismissing the beliefs , attitudes , or behaviors of white women with phrases such as , “ White women white womening . ” \""
+    ],
+    "context": [
+      "లీ జస్సిమ్ (యూజర్ పేరు) యొక్క \"ఆర్వెల్‌ఎక్సికాన్\" అనే వెబ్‌సైట్, @USER ద్వారా 24 గంటల్లో తొలగించబడింది. అయితే, అది ఇప్పుడు @USER అనే వేరే వెబ్‌సైట్‌లో అందుబాటులో ఉంది: <URL>.<end_of_turn>",
+      "@USER @USER @USER నా అభిమానమైన కొన్ని విషయాలు: \"పక్షపాతం: పక్షపాతాలను గుర్తించే ధోరణి, ఇది తరచుగా రెండు రకాలుగా వ్యక్తమవుతుంది: మొదటిది, ఎటువంటి పక్షపాతం లేనప్పుడు కూడా పక్షపాతం ఉందని చెప్పడం, రెండవది, ఉన్న పక్షపాతాలను అతిశయోక్తి చేయడం లేదా కొన్ని ప్రత్యేక సందర్భాలలో పక్షపాతాలు కనుగొనబడినప్పుడు, వాటిని జీవితంలోని అన్ని అంశాలకు సాధారణీకరించడం.\"<end_of_turn>",
+      "@USER @USER @USER \"బ్లాంకోఫెమోఫోబియా: తెల్లని స్త్రీల పట్ల వివక్ష. దీనికి ఒక ఉదాహరణ ఏమిటంటే, తెల్లని స్త్రీల నమ్మకాలు, అభిప్రాయాలు లేదా ప్రవర్తనలను \"తెల్లని స్త్రీలు తెల్లని స్త్రీల్లానే ప్రవర్తిస్తున్నారు\" వంటి పదబంధాలతో కొట్టిపారేయడం.\"<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Indeed , let's reinstate tyranny #EUSSR and tax the living daylights out of individual liberty .",
+    "utterance": "@USER @USER @USER నిజంగానే, మనం నిరంకుశత్వాన్ని పునరుద్ధరిద్దాం. అంతేకాకుండా, వ్యక్తిగత స్వేచ్ఛను పూర్తిగా నిర్మూలించడానికి అధిక పన్నులు విధించాలి. #EUSSR<end_of_turn>",
+    "input context": [
+      "@USER @USER @USER This is the current interglacial from ice cores ( with a further approx 1C rise from 1850s ) . If your CO2 graph is accurate there doesn't appear to be a correlation over even this short period of time . <URL>",
+      "@USER @USER @USER Those are local temperatures . If you use multiple cores , those big swings disappear .",
+      "@USER @USER @USER The Vostok Ice Cores also show the MWP , LIA and MWP and significant variations in those periods .",
+      "@USER @USER @USER Really ? Here ’ re the Greenland temperatures based on all the cores . ( From <URL> <URL>",
+      "@USER @USER @USER We live in the coldest period of the last 10.000 years \" , says glaciologist , Jørgen Peder Steffensen who take us back in time using Greenland icecores and reveals that AGW is a bad experiment to begin meteorology measurements with coldest point around 1875 . <URL>",
+      "@USER @USER @USER If you use global proxies instead of local ice cores , it becomes obvious that we are now warmer than at any time in the last 10,000 years . <URL>",
+      "@USER @USER @USER According to your chart , the temperature has risen by 1 degree C over 10000 years . How will we cope if it goes up a tiny bit more ? Better tax everything and put the UN in charge !"
+    ],
+    "context": [
+      "@USER @USER @USER ఇది ప్రస్తుత అంతరయుగం, దీనిని మంచు కోర్ల ద్వారా తెలుసుకోవచ్చు (మరియు 1850ల నుండి సుమారు 1 డిగ్రీ సెల్సియస్ వరకు ఉష్ణోగ్రత పెరుగుదల ఉంది). మీ CO2 గ్రాఫ్ కచ్చితమైనదైతే, ఈ స్వల్ప కాల వ్యవధిలో కూడా సంబంధం ఏమీ కనిపించడం లేదు. <URL><end_of_turn>",
+      "@USER @USER @USER ఇవి స్థానిక ఉష్ణోగ్రతలు. మీరు ఒకేసారి చాలా కోర్‌లను ఉపయోగిస్తే, ఆ పెద్ద మార్పులు కనిపించవు.<end_of_turn>",
+      "@USER @USER @USER వోస్టాక్ మంచు నమూనాలు కూడా మధ్యయుగ వెచ్చని కాలం (MWP), చిన్న మంచు యుగం (LIA) మరియు మధ్యయుగ వెచ్చని కాలం (MWP) వంటి వాటిని చూపిస్తున్నాయి, అంతేకాకుండా ఆ కాలాల్లో గణనీయమైన మార్పులు కూడా ఉన్నాయి.<end_of_turn>",
+      "@USER @USER @USER నిజంగానా? ఇక్కడ గ్రీన్‌లాండ్‌లోని ఉష్ణోగ్రతలు, అన్ని ప్రాంతాల నుండి సేకరించిన డేటా ఆధారంగా ఇవ్వబడ్డాయి. (మూలం: <URL> <URL>)<end_of_turn>",
+      "@USER @USER @USER \"మేము గత 10,000 సంవత్సరాలలో అత్యంత చల్లని కాలంలో జీవిస్తున్నాము,\" అని గ్లేసియాలజిస్ట్ (మంచు శాస్త్రవేత్త) జోర్జెన్ పెడర్ స్టీఫెన్సేన్ అన్నారు. ఆయన గ్రీన్‌లాండ్ మంచు నమూనాలను ఉపయోగించి మనల్ని గతంలోకి తీసుకువెళ్లారు. అంతేకాకుండా, వాతావరణ పరిశీలనలను ప్రారంభించడానికి \"AGW\" (మానవ కార్యకలాపాల వల్ల కలిగే వాతావరణ మార్పు) ఒక ప్రమాదకరమైన ప్రయోగం అని, 1875 ప్రాంతంలో అత్యంత చల్లని వాతావరణం నమోదైందని ఆయన వెల్లడించారు. <URL><end_of_turn>",
+      "@USER @USER @USER మీరు స్థానిక మంచు నమూనాల బదులు ప్రపంచవ్యాప్త ప్రాక్సీలను ఉపయోగిస్తే, గత 10,000 సంవత్సరాలలో ఎప్పుడూ లేనంత వెచ్చగా మనం ఇప్పుడు ఉన్నామని స్పష్టంగా తెలుస్తుంది. <URL><end_of_turn>",
+      "@USER @USER @USER మీ పట్టిక ప్రకారం, గత 10,000 సంవత్సరాలలో ఉష్ణోగ్రత 1 డిగ్రీ సెల్సియస్ పెరిగింది. ఒకవేళ అది కొంచెం ఎక్కువ పెరిగితే, మనం ఎలా ఎదుర్కోగలం? అన్నింటికీ పన్నులు పెంచడం మరియు ఐక్యరాజ్యసమితి (UN) బాధ్యతలు తీసుకోవడం మంచిది!<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER This was just a post . U people r so busy in trolling bhakts that u even didn't able to Recognize a 😅 😅",
+    "utterance": "@USER @USER ఇది కేవలం ఒక పోస్ట్ మాత్రమే. మీరు \"భక్టుల\" గురించి ఎంతో ఎక్కువగా విమర్శలు చేస్తూ ఉండటం వల్ల, ఒక సాధారణ విషయం కూడా మీకు గుర్తించలేకపోతున్నారు. 😅 😅<end_of_turn>",
+    "input context": [
+      "Gopal says he wanted to study at Jamia 5 years ago , and once when he went to submit admission form , he was bullied by some students who asked him to chant Azadi slogans , and made him rub his nose on ground . He became self-radicalized as a result . Source : a report in TheSquint .",
+      "@USER He is 18 years old , and before 5 years , he may be studying in 9th or at max 10th , for what did hi applied for in Jamia ? Have some brain bhai .. Be a Bhakt , but don't be an Andhbhakt ."
+    ],
+    "context": [
+      "గోపాల్ మాట్లాడుతూ, ఐదు సంవత్సరాల క్రితం తాను జామియా విశ్వవిద్యాలయంలో చదవాలని అనుకున్నానని, ఒకసారి అతను ప్రవేశానికి సంబంధించిన దరఖాస్తును సమర్పించడానికి వెళ్ళినప్పుడు, కొందరు విద్యార్థులు అతన్ని బెదిరించారు. వారు \"అజాది\" అనే నినాదాలను చదవమని బలవంతం చేశారు, అంతేకాకుండా అతని ముఖాన్ని నేలపై రుద్దారు. దీని ఫలితంగా అతను తీవ్రమైన భావజాలాలకు లోనయ్యాడు. మూలం: ది స్క్వింట్ పత్రికలో వచ్చిన ఒక నివేదిక.<end_of_turn>",
+      "@USER అతను 18 సంవత్సరాల వయస్సు కలిగి ఉన్నాడు, ఐదు సంవత్సరాల క్రితం అతను 9వ తరగతి లేదా గరిష్టంగా 10వ తరగతి చదువుతూ ఉండవచ్చు. అతను జామియా విశ్వవిద్యాలయంలో దేని కోసం దరఖాస్తు చేసుకున్నాడు? కాస్త ఆలోచించండి, దయచేసి. మీరు ఒక భక్తుడిగా ఉండవచ్చు, కానీ గుడ్డిగా నమ్మే వ్యక్తిగా మాత్రం ఉండకండి.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Studies in this case are a way to know which way the wind is blowing ... I don ’ t want to breathe air today , said not one ever ! #obvious",
+    "utterance": "@USER @USER @USER ఈ అధ్యయనాలు ప్రస్తుత పరిస్థితులు ఎలా ఉన్నాయో తెలుసుకోవడానికి ఒక మార్గం... \"నేను ఈ రోజు గాలిని పీల్చుకోవడానికి ఇష్టపడను,\" అని ఎవరైనా చెప్పినప్పుడు, అది స్పష్టంగా తెలుస్తుంది! #స్పష్టంగా_తెలుస్తుంది<end_of_turn>",
+    "input context": [
+      "Can @USER or @USER beat @USER in the #cloud wars ? - <URL> #edge #multicloud <URL>",
+      "@USER @USER @USER It's pretty clear that AWS has a formidable lead for the webscale and startup market . Azure has a healthy lead in the enterprise . Google is starting to make significant inroads . However , there is still a large gap between them . #CIO #cloud",
+      "@USER @USER @USER Hi Tim . Do you have any solid source / numbers for \" Azure has a healthy lead in the enterprise . \" ? ? You may well be right but I would like some proof about a \" lead \" by #Azure . #AWS has also won some big contracts and built credibility in the enterprise market",
+      "@USER @USER @USER It ’ s based on the scores of private conversations I have with fellow CIOs and others within the enterprise IT org . Don ’ t read it as they only use Azure either . They are typically using a multi-cloud approach . I ’ ve written about this in detail in the past .",
+      "@USER @USER @USER I'm not a fan of the big market research players ( Gartner , Forrester etc ) ... but a well done study on this issue would be helpful",
+      "@USER @USER @USER Helpful how ? How is it actionable in any way ?"
+    ],
+    "context": [
+      "@USER మరియు @USER లు #క్లౌడ్ యుద్ధంలో @USERను ఓడించగలరా? - <URL> #ఎడ్జ్ #మల్టీక్లౌడ్ <URL><end_of_turn>",
+      "@USER @USER @USER AWS సంస్థ వెబ్ స్కేల్ మరియు స్టార్టప్ మార్కెట్‌లో చాలా ముందుందని స్పష్టంగా తెలుస్తోంది. Azure సంస్థాగత రంగంలో మంచి ఆధిక్యాన్ని కలిగి ఉంది. గూగుల్ కూడా ఇప్పుడు గణనీయమైన పురోగతిని సాధిస్తోంది. అయితే, ఈ మూడు సంస్థల మధ్య ఇంకా చాలా వ్యత్యాసం ఉంది. #CIO #క్లౌడ్<end_of_turn>",
+      "@USER @USER @USER హాయ్ టిమ్. \"అజూర్ సంస్థల రంగంలో గణనీయమైన ఆధిక్యాన్ని కలిగి ఉంది\" అని మీరు చెప్పడానికి మీకు ఏదైనా ఖచ్చితమైన ఆధారాలు లేదా గణాంకాలు ఉన్నాయా? మీరు చెప్పేది నిజం కావచ్చు, కానీ \"#Azure\" యొక్క \"ఆధిక్యం\" గురించి నాకు కొంత రుజువు కావాలి. \"#AWS\" కూడా కొన్ని పెద్ద ఒప్పందాలను గెలుచుకుంది మరియు సంస్థల మార్కెట్‌లో విశ్వసనీయతను సంపాదించింది.<end_of_turn>",
+      "@USER @USER @USER ఇది నేను ఇతర సీఐఓలు (CIOలు) మరియు సంస్థలోని ఐటీ విభాగంలోని ఇతర వ్యక్తులతో జరిపే వ్యక్తిగత సంభాషణల ఆధారంగా రూపొందించబడింది. దీన్ని అలా చదవకండి, ఎందుకంటే వారు కూడా కేవలం Azureను మాత్రమే ఉపయోగిస్తారు. సాధారణంగా, వారు బహుళ క్లౌడ్ విధానాన్ని ఉపయోగిస్తారు. నేను గతంలో దీని గురించి వివరంగా రాశాను.<end_of_turn>",
+      "@USER @USER @USER నేను సాధారణంగా పెద్ద మార్కెట్ పరిశోధన సంస్థల (గార్ట్‌నర్, ఫోరెస్టర్ వంటివి) అభిమానిని కాదు... కానీ ఈ అంశంపై బాగా చేసిన ఒక అధ్యయనం ఉపయోగకరంగా ఉంటుంది.<end_of_turn>",
+      "@USER @USER @USER ఇది ఎలా ఉపయోగపడుతుంది? ఇది ఏ విధంగానూ ఆచరణాత్మకంగా ఎలా ఉపయోగపడుతుంది?<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER No ! Pete is racist and hates black people because he married a white guy ! How dare you say Pete did good , you racist ! You're not woke enough if you like Pete . Pete is owned by all the evil people with money and he's not even that gay acting .",
+    "utterance": "@USER @USER లేదు! పీట్ జాతి వివక్ష చూపిస్తాడు, అతను నల్ల జాతీయులను ద్వేషిస్తాడు, ఎందుకంటే అతను ఒక తెల్ల వ్యక్తిని వివాహం చేసుకున్నాడు! మీరు పీట్ మంచివాడని ఎలా చెప్పగలరు? మీరు జాతి వివక్ష చూపే వ్యక్తి! మీకు పీట్ నచ్చితే, మీరు సరిగ్గా ఆలోచించలేకపోతున్నారు. పీట్ డబ్బున్న దుష్ట వ్యక్తుల చేతిలో ఉన్నాడు, అంతేకాకుండా అతను అంతగా గేలా కూడా నటించడం లేదు.<end_of_turn>",
+    "input context": [
+      "Klobuchar is the best * debater * left in the field.Steyer had a good night.Warren killed it when she was allowed to speak.Bernie defended his ground.Yang hit is one notePete ... was white . And young looking .",
+      "@USER I thought Pete did well , sorry"
+    ],
+    "context": [
+      "క్లోబుచార్ మిగిలిన వారందరిలో అత్యుత్తమమైన వాదనలు చేసే వ్యక్తి. స్టీయర్ ఈ రోజు బాగా రాణించారు. వారెన్ మాట్లాడే అవకాశం వచ్చినప్పుడు ఆమె అద్భుతంగా మాట్లాడారు. బెర్నీ తన వాదనలను సమర్థించుకున్నారు. యాంగ్ ఒక ప్రత్యేకమైన అంశంపై దృష్టి సారించారు. పీట్... తెల్లగా ఉన్నారు మరియు చాలా చిన్న వయస్సులో ఉన్నట్లు కనిపించారు.<end_of_turn>",
+      "@USER నేను పీట్ బాగా చేశాడని అనుకున్నాను, క్షమించండి.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Says the person who worships the actual Party of Hate .",
+    "utterance": "@USER @USER @USER: ద్వేషపూరిత సిద్ధాంతాలను అనుసరించే వ్యక్తి ఇలా చెబుతున్నాడు.<end_of_turn>",
+    "input context": [
+      "The House Impeachment Managers have refused to answer basic questions about coordination with the “ whistleblower . ” 1 . Is the “ whistleblower ” a person ... 2 . ... or a group of people ? 3 . Does the “ whistleblower ” represent a consensus of ideas , or just biased opinion ? <URL>",
+      "@USER Why does it matter , Senator Blackburn ? Everything the #Whistleblower said has been corroborated . #IAmTheWhistleblower",
+      "@USER @USER @USER Truth doesn't mean much to you does it , ? ... just your all consuming foul hate ."
+    ],
+    "context": [
+      "దిగువ గృహంలోని అభిశంసన నిర్వాహకులు, \"విజ్జెలర్\" (సమాచారం లీక్ చేసిన వ్యక్తి)తో సమన్వయం గురించి అడిగిన కొన్ని ప్రాథమిక ప్రశ్నలకు సమాధానం ఇవ్వడానికి నిరాకరించారు.\n\n1. \"విజ్జెలర్\" ఒక వ్యక్తి కాదా?\n2. ...లేదా వ్యక్తుల సమూహమా?\n3. \"విజ్జెలర్\" ఒక అభిప్రాయ సమ్మేళనాన్ని సూచిస్తారా, లేదా కేవలం పక్షపాత అభిప్రాయాన్ని మాత్రమేనా? <URL><end_of_turn>",
+      "@USER సెనేటర్ బ్లాక్‌బర్న్, ఇది ఎందుకు ముఖ్యమైనది? #విజిలెర్ (సమాచారం లీకేజ్ చేసిన వ్యక్తి) చెప్పిన ప్రతి విషయాన్ని ధృవీకరించబడింది. #నేనేవిజిలెర్.<end_of_turn>",
+      "@USER @USER @USER నిజం మీకు అంతగా ముఖ్యమైనది కాదని నాకు తెలుసు, కాదా? మీలో ఉన్న అసహ్యకరమైన ద్వేషం మాత్రమే మిమ్మల్ని నడిపిస్తుంది.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER cheers Nick glad you're not a sheep mate and you make decisions for yourself and don't look at social media propaganda you should be proud of yourself well done well done #YNWA #Unbearables #patronising",
+    "utterance": "@USER @USER @USER నన్ను చూసి సంతోషంగా ఉంది, నిక్. నువ్వు గుడ్డిగా ఇతరుల మాట వినే వ్యక్తివి కాదని, నీ సొంత నిర్ణయాలు తీసుకుంటావని తెలుసుకుని సంతోషంగా ఉంది. నువ్వు సోషల్ మీడియాలో వచ్చే తప్పుడు ప్రచారాలను పట్టించుకోకుండా ఉండాలి. నువ్వు నీ గురించి గర్వపడాలి, బాగా చేసావు, బాగా చేసావు. #YNWA #Unbearables #అహంకారపూరితం.<end_of_turn>",
+    "input context": [
+      "Shrewsbury manager Sam Ricketts : “ I remember one [ VAR decision ] here when Van Dijk handballed on the half-way line and that was okay . ” No , Sam , you don ’ t remember correctly . The ball very CLEARLY doesn ’ t touch his arm . Get over the fact your side lost . <URL>",
+      "@USER @USER God Liverpool fans want a standing ovation everytime they win . You beat Shrewsbury well done"
+    ],
+    "context": [
+      "ష్రూస్‌బరీ మేనేజర్ సామ్ రికెట్స్: \"నేను ఇక్కడ ఒక [వీఏఆర్ నిర్ణయం] గురించి గుర్తు చేసుకుంటున్నాను. ఆ సమయంలో వాన్ డైక్ మధ్య మైదానంలో బంతిని తన చేతితో తాకాడు, కానీ అది సరైనదే.\" లేదు, సామ్, మీరు సరిగ్గా గుర్తుంచుకోవడం లేదు. బంతి స్పష్టంగా అతని చేతిని తాకలేదు. మీ జట్టు ఓడిపోయిన విషయాన్ని అంగీకరించండి. <URL><end_of_turn>",
+      "@USER @USER లివర్‌పూల్ అభిమానులు ప్రతిసారి వారు గెలిచినప్పుడు ఒక పెద్ద చప్పట్ల ద్వారా తమ ఆనందాన్ని వ్యక్తం చేయాలని కోరుకుంటారు. మీరు ష్రూస్‌బరీని ఓడించినందుకు అభినందనలు.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Oh yes — Austin , which consistently sits atop the Forbes list of best places to live and for jobs is destroyed . Your logic is baffling",
+    "utterance": "@USER @USER @USER అవును, ఆస్టిన్ నగరం నాశనం అయింది. ఇది ఎల్లప్పుడూ ఫోర్బ్స్ జాబితాలో నివసించడానికి మరియు ఉద్యోగాల కోసం ఉత్తమమైన ప్రదేశంగా మొదటి స్థానంలో ఉంటుంది. మీ వాదన నాకు అర్థం కావడం లేదు.<end_of_turn>",
+    "input context": [
+      "🚨 NEW LOW FOR NANCY PELOSI : She ripped up @USER ’ s #SOTU speech for the cameras on national TV . This speech was about American heroes and American workers . She decided THAT was worth literally tearing apart . Absolutely disgraceful . <URL>",
+      "@USER @USER Bravo to Pelosi ! The GOP is disgraceful .",
+      "@USER @USER @USER I don't know what happened in Austin but it is a shame that liberals like you are destroying it . I love my Texas and fear for all of my loved ones there because of Democrat policies in cities like Austin . #VoteRedToSaveAmerica2020"
+    ],
+    "context": [
+      "🚨 నన్సీ పెలోసికి ఇది ఒక అవమానకరమైన సంఘటన: ఆమె జాతీయ టెలివిజన్‌లో కెమెరాల ముందు, ఒక వ్యక్తి చేసిన #SOTU ప్రసంగాన్ని చింపివేసింది. ఆ ప్రసంగం అమెరికా వీరులు మరియు అమెరికా కార్మికుల గురించి હતું. ఆమె ఆ ప్రసంగాన్ని పూర్తిగా నాశనం చేయడం సరైనదని భావించింది. ఇది చాలా సిగ్గుచేటు. <URL><end_of_turn>",
+      "@USER @USER పెలోసికి అభినందనలు! రిపబ్లికన్ పార్టీ యొక్క ప్రవర్తన సిగ్గుచేటుగా ఉంది.<end_of_turn>",
+      "@USER @USER @USER ఆస్టిన్‌లో ఏమి జరిగిందో నాకు తెలియదు, కానీ మీలాంటి ఉదారవాదులు దానిని నాశనం చేస్తున్నారనేది చాలా బాధాకరం. నేను నా టెక్సాస్‌ను ప్రేమిస్తున్నాను, మరియు ఆస్టిన్ వంటి నగరాల్లో డెమోక్రటిక్ విధానాల కారణంగా అక్కడ ఉన్న నా ప్రియమైన వారందరి గురించి నేను ఆందోళన చెందుతున్నాను. #అమెరికాను రక్షించడానికి రెడ్ ఓటు వేయండి 2020.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "People are going to keep doing the crap just for likes , because that ’ s all that matters 🙄 😒 🤦 🏾 ‍ ♀ ️",
+    "utterance": "ప్రజలు లైక్‌ల కోసం ఇలాంటి పనిని చేస్తూనే ఉంటారు, ఎందుకంటే వారికి అది మాత్రమే ముఖ్యం. 🙄 😒 🤦 🏾 ‍ ♀ ️<end_of_turn>",
+    "input context": [
+      "Y ’ all act surprised when people “ act a fool in public ” but also be the first ones sharing the stupid shit on social media",
+      "If you TRULY don ’ t like or condone such behavior don ’ t give it the publicity ."
+    ],
+    "context": [
+      "\"ప్రజలు బహిరంగంగా వెర్రిగా ప్రవర్తించినప్పుడు మీరు అందరూ ఆశ్చర్యపోతారు, కానీ అదే సమయంలో ఆ వెర్రి ప్రవర్తనకు సంబంధించిన విషయాలను సోషల్ మీడియాలో మొదటిగా షేర్ చేసే వ్యక్తులు కూడా మీలోనే ఉంటారు.\"<end_of_turn>",
+      "మీరు నిజంగానే ఇలాంటి ప్రవర్తనను ఇష్టపడకపోతే లేదా సమర్థించకపోతే, దానికి ప్రచారం ఇవ్వకండి.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Original Mac was resource limited to the point that you had to use the toolbox managers : there wasn ’ t space to write your own . Back then , programmers actively resented Apple for not giving them enougn to do their own mouse & window handling . Etc .",
+    "utterance": "@USER @USER పాతకాలపు మ్యాక్ కంప్యూటర్లలో, కంప్యూటర్ యొక్క సామర్థ్యం చాలా తక్కువగా ఉండేది. అందువల్ల, మీరు టూల్‌బాక్స్ మేనేజర్లను ఉపయోగించాల్సి వచ్చేది. మీ స్వంత ప్రోగ్రామ్‌లను రాయడానికి తగినంత స్థలం ఉండేది కాదు. ఆ సమయంలో, ప్రోగ్రామర్లు ఆపిల్ సంస్థ తమ సొంత మౌస్ మరియు విండో నిర్వహణ కోసం తగినంత వనరులను ఇవ్వలేదని తీవ్రంగా వ్యతిరేకించారు. ఇలాంటి అనేక సమస్యలు ఉండేవి.<end_of_turn>",
+    "input context": [
+      "Wtf . Why can ’ t I attach an actual file in the Gmail app . On stuff in drive or the camera roll are available . 🤬",
+      "@USER Every phone OS I've used makes it seem like you aren't suppose to know your phone actually has a file system underneath .",
+      "@USER It took Apple 13 versions to finally put a file system app in the OS that can access a plugged in USB drive . But they did !",
+      "@USER @USER Fair enough . But these threads and wish list items are echoes of arguments from the 1980s that would have slaughtered everything that made the Mac a Mac .",
+      "@USER @USER Not sure I follow ( or disagree ) 🤔 I want gmail ( + plenty of other apps , twitter inclusive ) to stop reimplementing the system share sheet . macOS always throve on UI consistency & iOS share sheets are a modern example of this — you get new OS functionality for free if you use them ."
+    ],
+    "context": [
+      "ఏంటి ఇది? నేను గూగుల్ మేల్ యాప్‌లో నిజమైన ఫైల్‌ను ఎందుకు జత చేయలేకపోతున్నాను? గూగుల్ డ్రైవ్ లేదా కెమెరా రోల్‌లోని ఫైల్స్ మాత్రమే అందుబాటులో ఉన్నాయి. 🤬<end_of_turn>",
+      "@USER నేను ఉపయోగించిన ప్రతి ఫోన్ ఆపరేటింగ్ సిస్టమ్ (OS) కూడా, మీ ఫోన్‌లో ఒక ఫైల్ సిస్టమ్ ఉందని మీరు తెలుసుకోవాల్సిన అవసరం లేదని అనిపిస్తుంది.<end_of_turn>",
+      "@USER ఆపిల్ సంస్థ, ఒక USB డ్రైవ్‌ను కనెక్ట్ చేసినప్పుడు దానికి సంబంధించిన ఫైల్ సిస్టమ్ అప్లికేషన్‌ను ఆపరేటింగ్ సిస్టమ్‌లో చేర్చడానికి 13 వెర్షన్ల వరకు వేచి ఉండాల్సి వచ్చింది. కానీ, చివరకు వారు అది చేశారు!<end_of_turn>",
+      "@USER @USER మీరు చెప్పింది అర్థం చేసుకోగలను. కానీ, ఈ చర్చలు మరియు కోరికల జాబితా అంశాలు 1980ల నాటి వాదనల యొక్క ప్రతిధ్వనులు. అవి, మాక్‌ను ప్రత్యేకంగా నిలబెట్టిన అన్ని అంశాలను నాశనం చేసేవి.<end_of_turn>",
+      "@USER @USER నాకు సరిగ్గా అర్థం కాలేదు (లేదా నేను విభేదిస్తున్నాను) 🤔. నేను గూగుల్ మెయిల్ (మరియు ఇతర చాలా యాప్‌లు, ట్విట్టర్ కూడా) సిస్టమ్ షేర్ షీట్‌ను మళ్లీ అమలు చేయడం ఆపాలని కోరుకుంటున్నాను. macOS ఎల్లప్పుడూ యూజర్ ఇంటర్‌ఫేస్ యొక్క స్థిరత్వంపై ఆధారపడి ఉంటుంది, మరియు iOS షేర్ షీట్‌లు దీనికి ఒక ఆధునిక ఉదాహరణ - మీరు వాటిని ఉపయోగిస్తే, మీకు కొత్త ఆపరేటింగ్ సిస్టమ్ ఫీచర్లు ఉచితంగా లభిస్తాయి.<end_of_turn>"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  }
+]

@@ -1,0 +1,1302 @@
+[
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor typo and word choice issues in some variants; e.g., 'మీరు నన్ని' should be 'మీరు నన్ను', 'ఖచ్చితంగా' is not strictly necessary, 'గ్రాడ్యుయేట్ అయి' could be 'గ్రాడ్యుయేట్'",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor typo and word choice issues in some variants; e.g., 'మీరు నన్ని' should be 'మీరు నన్ను', 'ఖచ్చితంగా' is not strictly necessary, 'గ్రాడ్యుయేట్ అయి' could be 'గ్రాడ్యుయేట్'\"}",
+    "run_idx": 0
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 1
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor typo and formatting issues",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor typo and formatting issues\"}",
+    "run_idx": 2
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in grammar and punctuation, 'నన్ని' should be 'నన్ను', 'నిజానే' is not needed, and 'గ్రాడ్యుయేట్ అయి' could be 'గ్రాడ్యుయేట్ అయ్యారు' for better fluency",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in grammar and punctuation, 'నన్ని' should be 'నన్ను', 'నిజానే' is not needed, and 'గ్రాడ్యుయేట్ అయి' could be 'గ్రాడ్యుయేట్ అయ్యారు' for better fluency\"}",
+    "run_idx": 3
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in verb conjugation and word choice, but mostly preserved the sarcastic tone and meaning.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in verb conjugation and word choice, but mostly preserved the sarcastic tone and meaning.\"}",
+    "run_idx": 4
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"None\"\n}",
+    "run_idx": 5
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in verb conjugation and word order, especially in Variant 3. 'నన్ని' should be 'నన్ను', 'ఖచ్చితంగా' is not necessary, and 'గ్రాడ్యుయేట్' should be 'పట్టభద్రుడు'.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in verb conjugation and word order, especially in Variant 3. 'నన్ని' should be 'నన్ను', 'ఖచ్చితంగా' is not necessary, and 'గ్రాడ్యుయేట్' should be 'పట్టభద్రుడు'.\"}",
+    "run_idx": 6
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Variant 3: 'నన్ని' should be 'నన్ని' is not a word in Telugu; 'నన్ని' should be 'నన్ను' or 'నిన్ని'.",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Variant 3: 'నన్ని' should be 'నన్ని' is not a word in Telugu; 'నన్ని' should be 'నన్ను' or 'నిన్ని'.\"\n}",
+    "run_idx": 7
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Variant 1: 'నన్ని' should be 'నన్ను'. Variant 2: 'నన్ని' should be 'నన్ను'. Variant 3: 'గ్రాడ్యుయేట్ అయి' should be 'పట్టభద్రుడయ్యారు'.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Variant 1: 'నన్ని' should be 'నన్ను'. Variant 2: 'నన్ని' should be 'నన్ను'. Variant 3: 'గ్రాడ్యుయేట్ అయి' should be 'పట్టభద్రుడయ్యారు'.\"}",
+    "run_idx": 8
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 9
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 10
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"None\"\n}",
+    "run_idx": 11
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Variant 1 and 3 have a minor error: 'నన్ని' should be 'నన్ను' (accusative case). Variant 2 is slightly longer and wordy, but the meaning is preserved.",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Variant 1 and 3 have a minor error: 'నన్ని' should be 'నన్ను' (accusative case). Variant 2 is slightly longer and wordy, but the meaning is preserved.\"\n}",
+    "run_idx": 12
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "Minor errors in sentence structure and verb conjugation, particularly in Variant 2. 'నన్ని' should be 'నన్ను' for correct dative case, and 'ఖచ్చితంగా' is not needed in Variant 3.",
+    "raw_response": "{\n  \"score\": 3,\n  \"corrections\": \"Minor errors in sentence structure and verb conjugation, particularly in Variant 2. 'నన్ని' should be 'నన్ను' for correct dative case, and 'ఖచ్చితంగా' is not needed in Variant 3.\"\n}",
+    "run_idx": 13
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in verb conjugation and punctuation, 'నన్ని' should be 'నన్ను' for 'you'",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in verb conjugation and punctuation, 'నన్ని' should be 'నన్ను' for 'you'\"}",
+    "run_idx": 14
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 15
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "Minor errors in grammar and word choice, but overall meaning preserved. 'నన్ని' should be 'నన్ను' in all variants.",
+    "raw_response": "{\n  \"score\": 3,\n  \"corrections\": \"Minor errors in grammar and word choice, but overall meaning preserved. 'నన్ని' should be 'నన్ను' in all variants.\"\n}",
+    "run_idx": 16
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 17
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 18
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in grammar and punctuation",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in grammar and punctuation\"}",
+    "run_idx": 19
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "నన్ని -> నన్ని (typo correction in Variant 1 and 3), నుండి పట్టభద్రుడయ్యారు -> పట్టభద్రుడయ్యారనే అర్థం (phrasing adjustment in Variant 2)",
+    "raw_response": "{\"score\": 3, \"corrections\": \"నన్ని -> నన్ని (typo correction in Variant 1 and 3), నుండి పట్టభద్రుడయ్యారు -> పట్టభద్రుడయ్యారనే అర్థం (phrasing adjustment in Variant 2)\"}",
+    "run_idx": 20
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": " Variant 1: నన్ని -> నన్ను ( Variant 2, 3 are mostly perfect)",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \" Variant 1: నన్ని -> నన్ను ( Variant 2, 3 are mostly perfect)\"\n}",
+    "run_idx": 21
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 22
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "Minor errors in verb conjugation and sentence structure, but mostly accurate and natural. Variant 2 is the best among the three, but 'నన్ని' should be 'నన్ను'",
+    "raw_response": "{\n  \"score\": 3,\n  \"corrections\": \"Minor errors in verb conjugation and sentence structure, but mostly accurate and natural. Variant 2 is the best among the three, but 'నన్ని' should be 'నన్ను'\"\n}",
+    "run_idx": 23
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in sentence structure and word choice, e.g., 'నన్ని' instead of 'నన్నిది', 'గ్రాడ్యుయేట్' instead of 'పట్టభద్రుడు'",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in sentence structure and word choice, e.g., 'నన్ని' instead of 'నన్నిది', 'గ్రాడ్యుయేట్' instead of 'పట్టభద్రుడు'\"}",
+    "run_idx": 24
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"None\"\n}",
+    "run_idx": 25
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "none of the variants are perfect, but Variant 1 is more fluent and idiomatic. Variant 2 has a slightly awkward sentence structure. Variant 3 uses the more formal 'గ్రాడ్యుయేట్' instead of 'పట్టభద్రుడు'",
+    "raw_response": "{\n  \"score\": 3,\n  \"corrections\": \"none of the variants are perfect, but Variant 1 is more fluent and idiomatic. Variant 2 has a slightly awkward sentence structure. Variant 3 uses the more formal 'గ్రాడ్యుయేట్' instead of 'పట్టభద్రుడు'\"\n}",
+    "run_idx": 26
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in Variant 3: Use 'మీరు నన్ని' instead of 'మీరు నన్ని', 'గ్రాడ్యుయేట్' is not necessary as 'పట్టభద్రుడయ్యారు' already implies graduation.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in Variant 3: Use 'మీరు నన్ని' instead of 'మీరు నన్ని', 'గ్రాడ్యుయేట్' is not necessary as 'పట్టభద్రుడయ్యారు' already implies graduation.\"}",
+    "run_idx": 27
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "Minor grammar errors and inconsistency in punctuation",
+    "raw_response": "{\"score\": 3, \"corrections\": \"Minor grammar errors and inconsistency in punctuation\"}",
+    "run_idx": 28
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Variant 1 and 3 are minorly incorrect in using 'నన్ని' instead of 'నన్ను' (accusative case 'నన్ను' is correct in this context)",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Variant 1 and 3 are minorly incorrect in using 'నన్ని' instead of 'నన్ను' (accusative case 'నన్ను' is correct in this context)\"}",
+    "run_idx": 29
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "Minor errors in verb conjugation and sentence structure; 'నన్ని' should be 'నన్ను', 'నిజానే' is not needed, and 'గ్రాడ్యుయేట్' should be 'పట్టభద్రుడయ్యారు'",
+    "raw_response": "{\n  \"score\": 3,\n  \"corrections\": \"Minor errors in verb conjugation and sentence structure; 'నన్ని' should be 'నన్ను', 'నిజానే' is not needed, and 'గ్రాడ్యుయేట్' should be 'పట్టభద్రుడయ్యారు'\"\n}",
+    "run_idx": 30
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor grammatical errors in Variant 1 and 3, Variant 2 is mostly natural and accurate, but could be more concise",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor grammatical errors in Variant 1 and 3, Variant 2 is mostly natural and accurate, but could be more concise\"}",
+    "run_idx": 31
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in Variant 1 and 3: Use ‘నన్ను’ instead of ‘నన్ని’ and ‘గ్రాడ్యుయేట్’ is more formal than needed",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in Variant 1 and 3: Use ‘నన్ను’ instead of ‘నన్ని’ and ‘గ్రాడ్యుయేట్’ is more formal than needed\"}",
+    "run_idx": 32
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in grammar and punctuation, but overall meaning preserved.",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor errors in grammar and punctuation, but overall meaning preserved.\"\n}",
+    "run_idx": 33
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor grammatical errors and inconsistent usage of నన్ని and నన్ని; ఖచ్చితంగా is used correctly in two out of three variants, but గ్రాడ్యుయేట్ అయి should be గ్రాడ్యుయేట్ అయ్యారు",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor grammatical errors and inconsistent usage of నన్ని and నన్ని; ఖచ్చితంగా is used correctly in two out of three variants, but గ్రాడ్యుయేట్ అయి should be గ్రాడ్యుయేట్ అయ్యారు\"}",
+    "run_idx": 34
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor grammatical errors, e.g., ‘నన్ని’ instead of ‘నన్ను’, ‘ఖచ్చితంగా’ could be omitted for a more natural tone",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor grammatical errors, e.g., ‘నన్ని’ instead of ‘నన్ను’, ‘ఖచ్చితంగా’ could be omitted for a more natural tone\"\n}",
+    "run_idx": 35
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in phrase structure and verb conjugation",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in phrase structure and verb conjugation\"}",
+    "run_idx": 36
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in phrase order and punctuation, but meaning mostly preserved.",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor errors in phrase order and punctuation, but meaning mostly preserved.\"\n}",
+    "run_idx": 37
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 38
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor error in Variant 3: 'నన్ని' should be 'నన్ను'",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor error in Variant 3: 'నన్ని' should be 'నన్ను'\"}",
+    "run_idx": 39
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in verb conjugation in Variant 1 and Variant 2. 'పట్టభద్రుడయ్యారు' should be 'పట్టభద్రుడు' in Variant 1, and 'నిజానే' is not necessary in Variant 2.",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor errors in verb conjugation in Variant 1 and Variant 2. 'పట్టభద్రుడయ్యారు' should be 'పట్టభద్రుడు' in Variant 1, and 'నిజానే' is not necessary in Variant 2.\"\n}",
+    "run_idx": 40
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor grammar and punctuation adjustments needed",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor grammar and punctuation adjustments needed\"}",
+    "run_idx": 41
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor error in Variant 1: use 'నన్ని' instead of 'నన్ని'",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor error in Variant 1: use 'నన్ని' instead of 'నన్ని'\"}",
+    "run_idx": 42
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"None\"\n}",
+    "run_idx": 43
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"None\"\n}",
+    "run_idx": 44
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Variant 1: 'నన్ని' should be 'నన్ను' ( Variant 2: added 'నే అర్థం' is not necessary, Variant 3: 'గ్రాడ్యుయేట్' is a literal translation, but పట్టభద్రుడయ్యారు is more natural)",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Variant 1: 'నన్ని' should be 'నన్ను' ( Variant 2: added 'నే అర్థం' is not necessary, Variant 3: 'గ్రాడ్యుయేట్' is a literal translation, but పట్టభద్రుడయ్యారు is more natural)\"\n}",
+    "run_idx": 45
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "Minor errors in grammar and punctuation, but mostly accurate and natural. Variant 2 is slightly better than the others, but all variants capture the sarcastic tone.",
+    "raw_response": "{\n  \"score\": 3,\n  \"corrections\": \"Minor errors in grammar and punctuation, but mostly accurate and natural. Variant 2 is slightly better than the others, but all variants capture the sarcastic tone.\"\n}",
+    "run_idx": 46
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"None\"\n}",
+    "run_idx": 47
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in verb conjugation and word order in Variant 3. 'నన్ని' should be 'నన్ను' and 'గ్రాడ్యుయేట్' can be 'గ్రాడ్యుయేట్డు'",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor errors in verb conjugation and word order in Variant 3. 'నన్ని' should be 'నన్ను' and 'గ్రాడ్యుయేట్' can be 'గ్రాడ్యుయేట్డు'\"\n}",
+    "run_idx": 48
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in Variant 2: ‘మీరు నన్ని’ should be ‘మీరు నన్నింటిని’",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in Variant 2: ‘మీరు నన్ని’ should be ‘మీరు నన్నింటిని’\"}",
+    "run_idx": 49
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in grammar and punctuation; 'నన్ని' should be 'నన్ను' (accusative case for direct objects)",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor errors in grammar and punctuation; 'నన్ని' should be 'నన్ను' (accusative case for direct objects)\"\n}",
+    "run_idx": 50
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in sentence structure and punctuation, but generally good.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in sentence structure and punctuation, but generally good.\"}",
+    "run_idx": 51
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor grammatical errors in Variant 1 (నన్ని -> నన్ని is not a word, use నన్ను or నిన్ను depending on the context, or నన్నిటి కాదు). Variant 2 is more natural and idiomatic, but 'మాత్రమే' is not necessary in this context, Variant 3 is also good but 'గ్రాడ్యుయేట్' is not commonly used in informal texts like Twitter.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor grammatical errors in Variant 1 (నన్ని -> నన్ని is not a word, use నన్ను or నిన్ను depending on the context, or నన్నిటి కాదు). Variant 2 is more natural and idiomatic, but 'మాత్రమే' is not necessary in this context, Variant 3 is also good but 'గ్రాడ్యుయేట్' is not commonly used in informal texts like Twitter.\"}",
+    "run_idx": 52
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"None\"\n}",
+    "run_idx": 53
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in grammar and punctuation, but overall meaning is preserved.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in grammar and punctuation, but overall meaning is preserved.\"}",
+    "run_idx": 54
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in grammar and punctuation in Variant 3, but generally good.",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor errors in grammar and punctuation in Variant 3, but generally good.\"\n}",
+    "run_idx": 55
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 56
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "Minor errors in verb conjugation and sentence structure",
+    "raw_response": "{\"score\": 3, \"corrections\": \"Minor errors in verb conjugation and sentence structure\"}",
+    "run_idx": 57
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Variant 2: 'నన్ని' should be 'నన్ను' (accusative pronoun for 'I'); 'మాత్రమే' is not necessary; Variant 3: 'గ్రాడ్యుయేట్' is more natural than 'పట్టభద్రుడు'",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Variant 2: 'నన్ని' should be 'నన్ను' (accusative pronoun for 'I'); 'మాత్రమే' is not necessary; Variant 3: 'గ్రాడ్యుయేట్' is more natural than 'పట్టభద్రుడు'\"\n}",
+    "run_idx": 58
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 59
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Variant 1 and 2 use 'నన్ని' instead of 'నన్ను'; Variant 3 uses 'గ్రాడ్యుయేట్' which is less idiomatic",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Variant 1 and 2 use 'నన్ని' instead of 'నన్ను'; Variant 3 uses 'గ్రాడ్యుయేట్' which is less idiomatic\"}",
+    "run_idx": 60
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": " Variant 1 and 2 use 'నన్ని' instead of 'నన్ను', which should be 'నన్ను'. Variant 3 uses 'గ్రాడ్యుయేట్' which is a more formal word; 'పట్టభద్రుడయ్యారు' is more informal and suitable for sarcasm.",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \" Variant 1 and 2 use 'నన్ని' instead of 'నన్ను', which should be 'నన్ను'. Variant 3 uses 'గ్రాడ్యుయేట్' which is a more formal word; 'పట్టభద్రుడయ్యారు' is more informal and suitable for sarcasm.\"\n}",
+    "run_idx": 61
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor typo in Variant 3: 'ఖచ్చితంగా' is not necessary",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor typo in Variant 3: 'ఖచ్చితంగా' is not necessary\"}",
+    "run_idx": 62
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in punctuation and verb conjugation, but generally accurate and natural",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor errors in punctuation and verb conjugation, but generally accurate and natural\"\n}",
+    "run_idx": 63
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "None",
+    "raw_response": "{\"score\": 3, \"corrections\": \"None\"}",
+    "run_idx": 64
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": " Variant 1: మీరు నన్ని -> మీరు నన్నికి తప్పు. నిజానే -> నిజంగా (సరైన వాక్య క్రమం కూడా ఉండాలి)",
+    "raw_response": "{\"score\": 3, \"corrections\": \" Variant 1: మీరు నన్ని -> మీరు నన్నికి తప్పు. నిజానే -> నిజంగా (సరైన వాక్య క్రమం కూడా ఉండాలి)\"}",
+    "run_idx": 65
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 66
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in verb conjugation and word choice",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in verb conjugation and word choice\"}",
+    "run_idx": 67
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"None\"\n}",
+    "run_idx": 68
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor grammatical errors in Variant 2 and 3 (నన్ని instead of నన్ని, ఖచ్చితంగా అనే పూర్వపదం అవసరం లేదు, గ్రాడ్యుయేట్ అనేది స్కూల్ టైటిల్ కోసం సరైన పదం కాదు)",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor grammatical errors in Variant 2 and 3 (నన్ని instead of నన్ని, ఖచ్చితంగా అనే పూర్వపదం అవసరం లేదు, గ్రాడ్యుయేట్ అనేది స్కూల్ టైటిల్ కోసం సరైన పదం కాదు)\"}",
+    "run_idx": 69
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor typo corrections needed: ‘మీరు నన్ని’ should be ‘మీరు నన్ను’, ‘నన్ని’ is not commonly used in Telugu. Variant 3 is more idiomatic with ‘ఖచ్చితంగా’ and ‘గ్రాడ్యుయేట్’.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor typo corrections needed: ‘మీరు నన్ని’ should be ‘మీరు నన్ను’, ‘నన్ని’ is not commonly used in Telugu. Variant 3 is more idiomatic with ‘ఖచ్చితంగా’ and ‘గ్రాడ్యుయేట్’.\"}",
+    "run_idx": 70
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in grammar and sentence structure, but overall accurate. Variant 3 has a slightly more natural tone.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in grammar and sentence structure, but overall accurate. Variant 3 has a slightly more natural tone.\"}",
+    "run_idx": 71
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"None\"\n}",
+    "run_idx": 72
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor grammatical errors in Variant 1 (‘నన్ని’ instead of ‘నన్నిటి’) and Variant 3 (‘నన్ని’ instead of ‘నన్నిటి’) and Variant 2 has a slight rephrasing.",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor grammatical errors in Variant 1 (‘నన్ని’ instead of ‘నన్నిటి’) and Variant 3 (‘నన్ని’ instead of ‘నన్నిటి’) and Variant 2 has a slight rephrasing.\"\n}",
+    "run_idx": 73
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 74
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in verb conjugation and sentence structure, but meaning preserved.",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor errors in verb conjugation and sentence structure, but meaning preserved.\"\n}",
+    "run_idx": 75
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Variant 1: 'నన్ని' should be 'నన్ను'. Variant 2: 'నన్ని' should be 'నన్ను', 'మాత్రమే' is not necessary. Variant 3: 'నన్ని' should be 'నన్ను', 'గ్రాడ్యుయేట్' is more formal than 'పట్టభద్రుడయ్యారు' for this context.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Variant 1: 'నన్ని' should be 'నన్ను'. Variant 2: 'నన్ని' should be 'నన్ను', 'మాత్రమే' is not necessary. Variant 3: 'నన్ని' should be 'నన్ను', 'గ్రాడ్యుయేట్' is more formal than 'పట్టభద్రుడయ్యారు' for this context.\"}",
+    "run_idx": 76
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in sentence structure and word choice, but overall meaning preserved.",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor errors in sentence structure and word choice, but overall meaning preserved.\"\n}",
+    "run_idx": 77
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Variant 1 is slightly more natural and fluent. Variants 2 and 3 use 'నన్ని' instead of 'నన్ని' (correct usage) and 'గ్రాడ్యుయేట్' instead of 'పట్టభద్రుడయ్యారు' (idiomatic expression).",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Variant 1 is slightly more natural and fluent. Variants 2 and 3 use 'నన్ని' instead of 'నన్ని' (correct usage) and 'గ్రాడ్యుయేట్' instead of 'పట్టభద్రుడయ్యారు' (idiomatic expression).\"}",
+    "run_idx": 78
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in verb conjugations and punctuation. Variant 2 has a slightly different nuance, but the meaning is preserved.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in verb conjugations and punctuation. Variant 2 has a slightly different nuance, but the meaning is preserved.\"}",
+    "run_idx": 79
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 80
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor grammar corrections in Variant 1 (‘మీరు నన్ని’ should be ‘మీరు నన్ని’), Variant 2 (నిజానే అర్థం is not needed), and Variant 3 (ఖచ్చితంగా అనే పదం తీసివేయవచ్చు)",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor grammar corrections in Variant 1 (‘మీరు నన్ని’ should be ‘మీరు నన్ని’), Variant 2 (నిజానే అర్థం is not needed), and Variant 3 (ఖచ్చితంగా అనే పదం తీసివేయవచ్చు)\"\n}",
+    "run_idx": 81
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor grammatical errors and slight variations in wording, but overall meaning preserved.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor grammatical errors and slight variations in wording, but overall meaning preserved.\"}",
+    "run_idx": 82
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"None\"\n}",
+    "run_idx": 83
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor changes needed for idiomatic expressions (Variant 1 'మీరు నన్ని' should be 'మీరు నన్నిటి' or 'మీరు నేను' for correct use of నన్ని)",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor changes needed for idiomatic expressions (Variant 1 'మీరు నన్ని' should be 'మీరు నన్నిటి' or 'మీరు నేను' for correct use of నన్ని)\"\n}",
+    "run_idx": 84
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 85
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 86
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in verb conjugation and sentence structure, but overall meaning preserved.",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor errors in verb conjugation and sentence structure, but overall meaning preserved.\"\n}",
+    "run_idx": 87
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor grammatical errors and inconsistency in verb forms (e.g., 'నన్ని' instead of 'నన్ను', 'పట్టభద్రుడయ్యారు' instead of 'పట్టభద్రుడయ్యారు' in Variant 1 and 3, 'గ్రాడ్యుయేట్ అయి' instead of 'గ్రాడ్యుయేట్' in Variant 3)",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor grammatical errors and inconsistency in verb forms (e.g., 'నన్ని' instead of 'నన్ను', 'పట్టభద్రుడయ్యారు' instead of 'పట్టభద్రుడయ్యారు' in Variant 1 and 3, 'గ్రాడ్యుయేట్ అయి' instead of 'గ్రాడ్యుయేట్' in Variant 3)\"}",
+    "run_idx": 88
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Variant 2 has 'నన్ని' instead of 'నన్ని'.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Variant 2 has 'నన్ని' instead of 'నన్ని'.\"}",
+    "run_idx": 89
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\"score\": 4, \"corrections\": \"None\"}",
+    "run_idx": 90
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor grammatical errors in Variant 2 and 3; Variant 1 is the most accurate and natural.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor grammatical errors in Variant 2 and 3; Variant 1 is the most accurate and natural.\"}",
+    "run_idx": 91
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in verb conjugation and sentence structure. Variant 2 uses a phrase 'నిజానే' which might not be the best fit for sarcastic tone.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in verb conjugation and sentence structure. Variant 2 uses a phrase 'నిజానే' which might not be the best fit for sarcastic tone.\"}",
+    "run_idx": 92
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Variant 1: 'నన్ని' -> 'నన్ని' అనే వ్యాకరణ తప్పు; Variant 3: 'గ్రాడ్యుయేట్ అయి' అనే పదం అర్థం కాదు, 'పట్టభద్రుడై' ఉండాలి",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Variant 1: 'నన్ని' -> 'నన్ని' అనే వ్యాకరణ తప్పు; Variant 3: 'గ్రాడ్యుయేట్ అయి' అనే పదం అర్థం కాదు, 'పట్టభద్రుడై' ఉండాలి\"\n}",
+    "run_idx": 93
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in verb conjugations and word choice.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in verb conjugations and word choice.\"}",
+    "run_idx": 94
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor grammar errors, 'మీరు నన్ని' should be 'మీరు నన్ను' for 'you called me' and 'గ్రాడ్యుయేట్ అయి' should be 'పట్టభద్రుడయ్యారు' for 'graduated'",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"Minor grammar errors, 'మీరు నన్ని' should be 'మీరు నన్ను' for 'you called me' and 'గ్రాడ్యుయేట్ అయి' should be 'పట్టభద్రుడయ్యారు' for 'graduated'\"\n}",
+    "run_idx": 95
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor errors in verb conjugation and word choice. 'నన్ని' should be 'నన్ను' (accusative case for 'I') and 'నుండి పట్టభద్రుడయ్యారు' could be more idiomatically translated as 'పట్టభద్రుడవుతారు'.",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor errors in verb conjugation and word choice. 'నన్ని' should be 'నన్ను' (accusative case for 'I') and 'నుండి పట్టభద్రుడయ్యారు' could be more idiomatically translated as 'పట్టభద్రుడవుతారు'.\"}",
+    "run_idx": 96
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "Minor errors in grammar and word choice, e.g., Variant 1: 'నన్ని' should be 'నన్ను', Variant 3: 'నన్ని' should be 'నన్ను'",
+    "raw_response": "{\"score\": 3, \"corrections\": \"Minor errors in grammar and word choice, e.g., Variant 1: 'నన్ని' should be 'నన్ను', Variant 3: 'నన్ని' should be 'నన్ను'\"}",
+    "run_idx": 97
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "Minor typo in Variant 1: నన్ని -> నన్ని (correct: నన్ని -> నన్నిది, లేదా సరిగ్గా అన్ని ఉపయోగించాలి, లేకుంటే కొన్ని సందర్భాల్లో అర్థం తప్పిపోయే అవకాశం ఉంది)",
+    "raw_response": "{\"score\": 4, \"corrections\": \"Minor typo in Variant 1: నన్ని -> నన్ని (correct: నన్ని -> నన్నిది, లేదా సరిగ్గా అన్ని ఉపయోగించాలి, లేకుంటే కొన్ని సందర్భాల్లో అర్థం తప్పిపోయే అవకాశం ఉంది)\"}",
+    "run_idx": 98
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 4,
+    "corrections": "None",
+    "raw_response": "{\n  \"score\": 4,\n  \"corrections\": \"None\"\n}",
+    "run_idx": 99
+  }
+]

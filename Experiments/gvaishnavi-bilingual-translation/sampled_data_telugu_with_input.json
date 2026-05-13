@@ -1,0 +1,94 @@
+[
+  {
+    "input": "@USER @USER You made Joey mad slug REEEEEEEEEEEE ! ! ! <URL>",
+    "utterance": "@యూజర్ @యూజర్ మీరు జోయ్ పిచ్చి స్లగ్ ను ఆర్ఈఈఈఈఈఈఈఈఈఈ!!! <యుఆర్ఎల్ >",
+    "input context": [
+      "Ok I have definitely seen a lot of misinformation spread about the GTS in HOME so let me state this clearly for all 1 . It is free 2 . The free version is functionally identical to how it was in Gen 7 . It's not watered down , useless , or heavily nerfed in order to get you to pay .",
+      "@USER how is it free if you only get 30 pokemon at a time ? what are the odds that the trade i want to get will be asking for a pokemon in the 30free slots . this is 100 % dishonest saying GTS is free and works like before .",
+      "@USER Because the GTS is free . You're complaining about another feature being paid and saying it means the free feature is requiring payment and doesn't work as before . Now that's 100 % dishonest .",
+      "@USER the GTS is free but you can only use it on the phone app . and I really don't think the phone app will be able to trade pokemon from your save file . If you see a pokemon you want and the pokemon they are asking for a pokemon you have in swsh but not in your box of 30 . what then ?",
+      "@USER Then you transfer it , just like if you had it in Y but needed it in Sun I didn't say it was convenient . I was countering the notion that the GTS itself was watered down . It isn't ."
+    ],
+    "context": [
+      "సరే నేను ఖచ్చితంగా ఇంటిలో జిటిఎస్ గురించి చాలా తప్పుడు సమాచారం వ్యాప్తి చెందడం చూశాను కాబట్టి నేను ఈ విషయాన్ని అందరికీ స్పష్టంగా పేర్కొంటాను. ఇది ఉచిత 2. ఉచిత వెర్షన్ జనన్ 7 లో ఎలా ఉందో దానితో సరిగ్గా పనిచేస్తుంది. మీరు చెల్లించడానికి ఇది వడకట్టినది కాదు, పనికిరానిది లేదా భారీగా నాడీగా లేదు.",
+      "@యూజర్ మీరు ఒకేసారి 30 ఫోకనులను పొందితే అది ఎలా ఉచితంగా ఉంటుంది? 30 ఫ్రీ స్లాట్లలో నేను పొందాలనుకుంటున్న ట్రేడ్ ఫోకను అడుగుతున్న అవకాశం ఎంత? ఇది 100% నిజాయితీ లేని మాట, జిటిఎస్ ఉచితది మరియు ఇంతకు ముందు మాదిరిగా పనిచేస్తుంది.",
+      "@యూజర్ ఎందుకంటే జిటిఎస్ ఉచితది. మీరు మరొక ఫీచర్ కు చెల్లించడం గురించి ఫిర్యాదు చేస్తున్నారు మరియు ఉచిత ఫీచర్ కు చెల్లింపు అవసరం ఉందని మరియు మునుపటిలాగే పనిచేయడం లేదని అనుకుంటున్నారు. ఇప్పుడు అది 100% నిజాయితీ లేనిది.",
+      "యుజర్ జిటిఎస్ ఉచితం కాని మీరు దీనిని ఫోన్ యాప్ లో మాత్రమే ఉపయోగించవచ్చు. మరియు ఫోన్ యాప్ మీ సేవ్ ఫైల్ నుండి పోకమన్ను ట్రేడ్ చేయగలదని నేను నిజంగా అనుకోను. మీకు కావలసిన పోకమన్ మరియు పోకమన్ను మీరు చూసినట్లయితే వారు 30 యొక్క మీ పెట్టెలో కాకుండా స్విష్ లో ఉన్న పోకమన్ కోసం అడుగుతున్నారు. అప్పుడు ఏమిటి?",
+      "@యూజర్ అప్పుడు మీరు దానిని బదిలీ చేస్తారు, మీకు యెలో ఉన్నట్లుగా కానీ సన్ లో అవసరమైనట్లుగా ఇది సౌకర్యవంతంగా ఉందని నేను చెప్పలేదు. జిటిఎస్ వాటర్ డౌన్ అని నేను వాటింగ్ చేస్తున్నాను. ఇది కాదు."
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER Yes , and once you ’ re done apologizing ... head on over to yelp to give everything that came out of China a 5 star review . <URL>",
+    "utterance": "@యూజర్ @యూజర్ అవును, మీరు క్షమాపణ చెప్పడం పూర్తయిన తర్వాత... చైనా నుండి వచ్చిన ప్రతిదానికి 5 స్టార్ రివ్యూ ఇవ్వడానికి ముందుకు సాగండి. <యుఆర్ఎల్>",
+    "input context": [
+      "This is beyond disappointing to see this sort of thing happening in British Columbia . We don ’ t stereotype and fear monger in the face of a health scare . We need to work together to fight the virus , not each other . Together we are so much stronger . <URL>",
+      "@USER China is also money laundering , importing illegal fentanyl , and manipulating our housing market not to mention the spying . Should we apologize for this too ?"
+    ],
+    "context": [
+      "బ్రిటిష్ కొలంబియాలో ఈ రకమైన విషయం జరుగుతోందని చూడటం నిరాశకు మించినది. ఆరోగ్య భయాన్ని ఎదుర్కొనేటప్పుడు మనం స్టీరియోటైప్ చేయము మరియు భయపెట్టుము. వైరస్తో పోరాడటానికి మనం కలిసి పనిచేయాలి, ఒకదానితో ఒకటి కాదు. మనం కలిసి చాలా బలంగా ఉన్నాము. <యుఆర్ఎల్>",
+      "@యూజర్ చైనా మనీలాండరింగ్, చట్టవిరుద్ధమైన ఫంటానిల్ దిగుమతి చేయడం, స్పైయింగ్ గురించి చెప్పకుండా మా హౌసింగ్ మార్కెట్ను తారుమారు చేయడం. దీనికి కూడా మనం క్షమాపణ చెప్పాలా?"
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER You ’ re winning brother , you managed to be racist and homophobic is one tweet . #winnng",
+    "utterance": "@యూజర్ @యూజర్ @యూజర్ మీరు గెలుచుకున్న సోదరుడు, మీరు జాత్యహంకారం మరియు హోమోఫోబిక్గా ఉండగలిగారు. #గెలుపు",
+    "input context": [
+      "This picture of @USER childhood says much about his behavior of today . While most of the friends he argues with today were kissing girls , Julius was dating boys . This also provides clarity on his love relationship with @USER #SONA2020 #SONADEBATE2020 <URL>",
+      "@USER @USER @USER They were no black gay ppl at that time bra it was existing in its original community of white ppl",
+      "@USER @USER @USER If we had gay black men back then we would never be the majority race in the world when black men were making babies white men were busy with sodomy ."
+    ],
+    "context": [
+      "@యూజర్ బాల్యం యొక్క ఈ చిత్రం ఈ రోజు అతని ప్రవర్తన గురించి చాలా చెబుతుంది. ఈ రోజు అతను వాదించే చాలా మంది స్నేహితులు అమ్మాయిలను ముద్దు పెట్టుకుంటున్నప్పటికీ, జూలియస్ అబ్బాయిలతో డేటింగ్ చేస్తున్నాడు. ఇది @యూజర్ #సోనా2020 #సోనాడెబెట్2020 <యుఆర్ఎల్> తో అతని ప్రేమ సంబంధాన్ని స్పష్టం చేస్తుంది.",
+      "యుసెర్ యుసెర్ యుసెర్ యుసెర్ వారు ఆ సమయంలో బ్లాక్ గే ప్పిఎల్ కాదు బ్రే ఇది దాని అసలు కమ్యూనిటీ యొక్క తెలుపు ప్పిఎల్ లో ఉంది",
+      "యుజర్ యుజర్ యుజర్ ఒకవేళ మాకు స్వలింగ నల్లజాతి పురుషులు ఉంటే, నల్లజాతి పురుషులు సంతానోత్పత్తితో బిజీగా ఉన్నప్పుడు ప్రపంచంలో మనం ఎప్పటికీ మెజారిటీ జాతి కాదు."
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER I'm moving to Plum Coulee . Either that , or will be investing in chamber pots and melting snow in order to launder my clothes and bathe in 🙄",
+    "utterance": "@యూజర్ @యూజర్ నేను ప్లమ్ కూలీకి వెళ్తున్నాను. నా బట్టలు శుభ్రం చేయడానికి మరియు స్నానం చేయడానికి ఛాంబర్ కుండీలు మరియు మంచు కరిగిపోవడానికి పెట్టుబడి పెట్టుతాను.",
+    "input context": [
+      "Will the extra money actually go to improvements ? <URL>",
+      "@USER Not as long as they keep their ‘ dividend ’ — if they actually did this to divert to improvements , that would be one thing . But the real squabble is prob-federal funding for those , meaning little progress .",
+      "@USER I find water increases especially irritating . When I had a new furnace installed they added a humidifier . My house needs it in the winter but my latest water bill was $ 185 . I do two loads of laundry a week , don ’ t take long showers , rarely use my dishwasher . I can ’ t afford more .",
+      "@USER Our property taxes and water / sewer have gone up dramatically over the last five years , as has the ‘ assessment ’ of our home ( to a ridiculous level ) , meaning we ’ ll fork over more and more in coming months . It never ends .",
+      "@USER Yes . I took a closer look at my water bill . It was $ 191 but I had a small credit . Over $ 100 of my bill is the sewer charge . My house is assessed at almost $ 60,000 more than my neighbour ’ s slightly bigger but otherwise the same house . I need a second job to afford living here ."
+    ],
+    "context": [
+      "అదనపు డబ్బు వాస్తవానికి మెరుగుదలలకు వెళ్తుందా? <యుఆర్ఎల్>",
+      "వారు తమ 'డివిడెండ్'ను ఉంచినంత కాలం కాదు - వారు నిజంగా మెరుగుదలలకు మళ్లడానికి ఇలా చేస్తే, అది ఒక విషయం అవుతుంది. కానీ నిజమైన కలహం వాటికి ప్రాబ్-ఫెడరల్ నిధులు, అంటే తక్కువ పురోగతి.",
+      "యుజర్ నేను నీటి పెరుగుదలను ముఖ్యంగా చిరాకుగా కనుగొన్నాను. నేను కొత్త పొయ్యిని ఇన్స్టాల్ చేసినప్పుడు వారు హమ్మైఫైయర్ జోడించారు. శీతాకాలంలో నా ఇంటికి ఇది అవసరం, కానీ నా తాజా నీటి బిల్లు 185 డాలర్లు. నేను వారానికి రెండు లోడ్ లాండ్రీ చేస్తాను, ఎక్కువ షవర్లు తీసుకోను, నా డిష్ వాషర్ను అరుదుగా ఉపయోగిస్తాను. నేను ఎక్కువ భరించలేను.",
+      "యుజర్ మా ఆస్తి పన్నులు మరియు నీరు / మురుగునీరు గత ఐదేళ్లలో నాటకీయంగా పెరిగాయి, మా ఇంటి 'అమాషణ' కూడా ఉంది ( పరిహాసాస్పదం స్థాయికి ) అంటే రాబోయే నెలల్లో మనం మరింతగా ఫోర్క్ చేస్తాము. ఇది ఎప్పటికీ అంతం కాదు.",
+      "అవును. నేను నా వాటర్ బిల్లును నిశితంగా చూశాను. ఇది 191 డాలర్లు, కానీ నాకు చిన్న క్రెడిట్ ఉంది. నా బిల్లులో 100 డాలర్లకు పైగా సేవర్ ఛార్జ్. నా ఇల్లు నా పొరుగువారి కంటే దాదాపు 60,000 డాలర్ల ఎక్కువగా అంచనా వేయబడింది, కానీ లేకపోతే అదే ఇల్లు. ఇక్కడ నివసించడానికి నాకు రెండవ ఉద్యోగం అవసరం."
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  },
+  {
+    "input": "@USER @USER @USER Oh well then I'm the hereditary leader of Winnipeg and I ask you to quote me before Brian Bowman henceforth since apparently democracy doesn't matter anymore",
+    "utterance": "@యూజర్ @యూజర్ @యూజర్ ఓహ్ అప్పుడు నేను విన్నిపెగ్ యొక్క వారసత్వ నాయకుడు మరియు నేను బ్రేన్ బోమాన్ ముందు నన్ను కోట్ చేయమని అడుగుతున్నాను ఎందుకంటే ప్రజాస్వామ్యం ఇకపై పట్టింపు లేదు.",
+    "input context": [
+      "‘ Defending their homes ’ on the front of Tuesday's @USER #wfp <URL>",
+      "@USER literally fake news . elected chiefs > hereditary chiefs . we are not ruled by kings and queens . national media isn't trusted on this issue as they only highlight one side - the paid protestors . you deserve all the scorn heaped on you",
+      "@USER @USER How does one become a \" hereditary chief \" ? I've just started hearing this term in this context . Can anyone become a tribal leader ? Is there some kind of online course we can sign up for ? Sounds like a great gig . Lots of perks .",
+      "@USER @USER Hi Christopher . Our columnist Niigaan Sinclair wrote about the difference between hereditary and elected governments last month . You can read his column here : <URL>",
+      "@USER @USER @USER It still doesn ’ t answer the question",
+      "@USER @USER @USER Oh sorry , didn't realize the question you were seeking to have answered . From the Canadian Oxford : \" hereditary : passed down from one generation to another ; descending from inheritance ; holding a position by inheritance . \""
+    ],
+    "context": [
+      "మంగళవారం ముందు 'వారి ఇళ్లను రక్షించడం' @యూజర్ #వైఎఫ్పీ <యుఆర్ఎల్>",
+      "@యూజర్ అక్షరాలా నకిలీ వార్తలు. ఎన్నికైన చీఫ్లు > వారసత్వ చీఫ్లు. మేము రాజులు మరియు రాణులచే పరిపాలించబడము. వారు ఒక వైపు మాత్రమే హైలైట్ చేస్తున్నందున ఈ అంశంపై జాతీయ మీడియాకు నమ్మకం లేదు - పెయిడ్ నిరసనదారులు. మీరు మీపై పడే అన్ని తిరస్కరణలకు అర్హులు.",
+      "@యూజర్ @యూజర్ ఒక వ్యక్తి ఎలా \" వారసత్వ చీఫ్ \" అవుతుంది? నేను ఈ సందర్భంలో ఈ పదాన్ని వినడం ప్రారంభించాను. ఎవరైనా తెగాధిగా మారవచ్చా? మనం సైన్ అప్ చేయగల ఆన్లైన్ కోర్సు ఏదైనా ఉందా? గొప్ప ప్రదర్శన లాగా అనిపిస్తుంది. చాలా ప్రయోజనాలు.",
+      "@యూజర్ @యూజర్ హాయ్ క్రిస్టోఫర్. మా కాలమిస్ట్ నైగాన్ సిన్క్రెర్ గత నెలలో వారసత్వ మరియు ఎన్నికైన ప్రభుత్వాల మధ్య వ్యత్యాసం గురించి రాశారు. మీరు అతని కాలమ్ ను ఇక్కడ చదవవచ్చు : <యుఆర్ఎల్ >",
+      "@యూజర్ @యూజర్ @యూజర్ ఇది ఇప్పటికీ ప్రశ్నకు సమాధానం ఇవ్వదు",
+      "@యూజర్ @యూజర్ @యూజర్ క్షమించండి, మీరు సమాధానం ఇవ్వాలనుకునే ప్రశ్నను గ్రహించలేదు. కెనడియన్ ఆక్స్ఫర్డ్ నుండి : \" వారసత్వం: ఒక తరం నుండి మరొక తరానికి బదిలీ చేయబడింది; వారసత్వం నుండి సంతరించబడింది; వారసత్వం ద్వారా ఒక స్థానాన్ని కలిగి ఉంది. \""
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  }
+]

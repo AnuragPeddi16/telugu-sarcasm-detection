@@ -1,0 +1,22 @@
+[
+  {
+    "input": "@USER @USER You made Joey mad slug REEEEEEEEEEEE ! ! ! <URL>",
+    "utterance": "@USER @USER మీరు జోయిని వెర్రి స్లగ్ REEEEEEEEEEE గా మార్చారు!!! <URL>",
+    "input context": [
+      "Ok I have definitely seen a lot of misinformation spread about the GTS in HOME so let me state this clearly for all 1 . It is free 2 . The free version is functionally identical to how it was in Gen 7 . It's not watered down , useless , or heavily nerfed in order to get you to pay .",
+      "@USER how is it free if you only get 30 pokemon at a time ? what are the odds that the trade i want to get will be asking for a pokemon in the 30free slots . this is 100 % dishonest saying GTS is free and works like before .",
+      "@USER Because the GTS is free . You're complaining about another feature being paid and saying it means the free feature is requiring payment and doesn't work as before . Now that's 100 % dishonest .",
+      "@USER the GTS is free but you can only use it on the phone app . and I really don't think the phone app will be able to trade pokemon from your save file . If you see a pokemon you want and the pokemon they are asking for a pokemon you have in swsh but not in your box of 30 . what then ?",
+      "@USER Then you transfer it , just like if you had it in Y but needed it in Sun I didn't say it was convenient . I was countering the notion that the GTS itself was watered down . It isn't ."
+    ],
+    "context": [
+      "సరే, ఇంట్లో జిటిఎస్ గురించి చాలా తప్పుడు సమాచారం వ్యాప్తి చెందడాన్ని నేను ఖచ్చితంగా చూశాను, కాబట్టి దీన్ని అందరికి స్పష్టంగా తెలియజేస్తాను 1. ఇది ఉచితం 2. ఉచిత వెర్షన్ జెన్ 7 లో ఉన్న విధంగానే పనిచేస్తుంది.",
+      "@USER మీకు ఒకేసారి 30 పోకీమాన్ మాత్రమే లభిస్తే అది ఎలా ఉచితం? నేను పొందాలనుకుంటున్న ట్రేడ్ 30 ఫ్రీ స్లాట్లలో ఒక పోకీమాన్ కోసం అడిగే అసమానతలు ఏమిటి. ఇది 100% GTS ఉచితం మరియు మునుపటిలాగే పనిచేస్తుంది అని చెప్పడం నిజాయితీ లేనిది.",
+      "@USER ఎందుకంటే GTS ఉచితం. మీరు మరొక ఫీచర్ చెల్లించబడుతుందని ఫిర్యాదు చేస్తున్నారు మరియు దీని అర్థం ఉచిత ఫీచర్ చెల్లింపు అవసరం మరియు మునుపటిలాగా పనిచేయదు. ఇప్పుడు అది 100% నిజాయితీ లేనిది.",
+      "@USER GTS ఉచితం కానీ మీరు దానిని ఫోన్ యాప్లో మాత్రమే ఉపయోగించవచ్చు. మరియు ఫోన్ యాప్ మీ సేవ్ ఫైల్ నుండి పోకీమాన్ను ట్రేడ్ చేయగలదని నేను నిజంగా అనుకోను. మీకు కావలసిన పోకీమాన్ మరియు పోకీమాన్ కనిపిస్తే వారు మీ వద్ద ఉన్న ఒక పోకీమాన్ కోసం అడుగుతున్నారు, కానీ మీ 30 బాక్స్లో కాదు. అప్పుడు ఏమిటి?",
+      "@USER అప్పుడు మీరు దానిని బదిలీ చేయండి, మీరు దానిని Y లో కలిగి ఉంటే, కానీ సూర్యునిలో అవసరమైతే, అది సౌకర్యవంతంగా ఉందని నేను చెప్పలేదు. నేను GTS కూడా నీరుగారిపోయిందనే భావనను వ్యతిరేకిస్తున్నాను. అది కాదు."
+    ],
+    "label": "SARCASTIC",
+    "metadata": {}
+  }
+]

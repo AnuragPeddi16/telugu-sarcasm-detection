@@ -1,0 +1,1302 @@
+[
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax could be improved, especially in the second variant. The use of colloquialisms like 'bot school' and 'pattabhadhru' is not ideal. The third variant is the most accurate and fluent, but the use of the phrase 'graduated from bot school' is still a bit awkward.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax could be improved, especially in the second variant. The use of colloquialisms like 'bot school' and 'pattabhadhru' is not ideal. The third variant is the most accurate and fluent, but the use of the phrase 'graduated from bot school' is still a bit awkward.\"}",
+    "run_idx": 0
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant could be improved. The word 'pattabhedrudu' is unnecessarily verbose and could be replaced with a more concise word such as 'paattabhedaru'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant could be improved. The word 'pattabhedrudu' is unnecessarily verbose and could be replaced with a more concise word such as 'paattabhedaru'.\"}",
+    "run_idx": 1
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax could be improved, and the use of slang and colloquialisms could be more controlled.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax could be improved, and the use of slang and colloquialisms could be more controlled.\"}\n\n**Overall:**\n\nThe translations are generally acceptable, but there are some areas where they could be improved.\n\n**Strengths:**\n\n* **Understanding:** The translations understand the original text well and capture the meaning accurately.\n* **Fluency:** The translations are fluent and read well.\n\n**Areas for improvement:**\n\n* **Grammar and syntax:** The grammar and syntax could be improved in all variants, particularly the use of tenses and punctuation.\n* **Slang and colloquialisms:** The use of slang and colloquialisms could be more controlled, as some of it may not be understood by some readers.\n* **Word choice:** The word choice could be improved in some variants, particularly the use of synonyms and antonyms.\n\n**Corrections:**\n\n* **Variant 1:** Improve grammar and syntax, especially the use of tenses and punctuation.\n* **Variant 2:** Improve grammar and syntax, and control the use of slang and colloquialisms.\n* **Variant 3:** Improve grammar and syntax, and use more precise word choice.",
+    "run_idx": 2
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and fluent, but the second variant also has a good level of accuracy. The first variant has some grammatical and semantic errors.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and fluent, but the second variant also has a good level of accuracy. The first variant has some grammatical and semantic errors.\"}",
+    "run_idx": 3
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second sentence needs to be corrected to match the first sentence. The word 'bot school' should be 'bot school' in all variants.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second sentence needs to be corrected to match the first sentence. The word 'bot school' should be 'bot school' in all variants.\"}",
+    "run_idx": 4
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has a more accurate grammar and syntax compared to the first two variants. However, the second variant is more concise and natural in Telugu. The first variant has some grammatical errors and uses a slightly different wording than the original text.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has a more accurate grammar and syntax compared to the first two variants. However, the second variant is more concise and natural in Telugu. The first variant has some grammatical errors and uses a slightly different wording than the original text.\"}",
+    "run_idx": 5
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant could be improved. The word 'bot school' could be replaced with 'bot school' and the sentence structure could be simplified.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant could be improved. The word 'bot school' could be replaced with 'bot school' and the sentence structure could be simplified.\"}",
+    "run_idx": 6
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and natural, but the second variant also has some good points. The first variant has some major semantic errors, such as calling me a person and graduating from bot school. The third variant is more precise in calling me a person and graduating from Bot School, but it could be improved by making the sentence more concise and natural. Overall, the third variant is the best translation, but the second variant also has some good points.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and natural, but the second variant also has some good points. The first variant has some major semantic errors, such as calling me a person and graduating from bot school. The third variant is more precise in calling me a person and graduating from Bot School, but it could be improved by making the sentence more concise and natural. Overall, the third variant is the best translation, but the second variant also has some good points.\"}",
+    "run_idx": 7
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax could be improved, but the meaning is mostly preserved.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax could be improved, but the meaning is mostly preserved.\"}\n\n**Explanation:**\n\n* **Score:** 3/5\n* **Corrections:**\n    * Grammatical errors: \"Must 've\" should be \"have\" and \"bot school\" should be \"bot school\" (consistency).\n    * Syntax errors: The sentence structure is a bit awkward and could be improved.\n* **Overall:** The translation captures the meaning of the original text well, but the grammar and syntax could be improved.",
+    "run_idx": 8
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate, but the second variant has a more natural flow and uses more idiomatic Telugu. The first variant is grammatically incorrect and uses poor word choice.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate, but the second variant has a more natural flow and uses more idiomatic Telugu. The first variant is grammatically incorrect and uses poor word choice.\"}",
+    "run_idx": 9
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has the most accurate grammar and syntax, but the second variant has a more natural flow and uses more idiomatic Telugu. The first variant has some grammar and syntax errors, but it is still understandable.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has the most accurate grammar and syntax, but the second variant has a more natural flow and uses more idiomatic Telugu. The first variant has some grammar and syntax errors, but it is still understandable.\"}",
+    "run_idx": 10
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant is a bit awkward and the wording is slightly different from the original. The third variant is grammatically correct but the wording is slightly different from the original. The first variant is grammatically correct and the wording is very similar to the original.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant is a bit awkward and the wording is slightly different from the original. The third variant is grammatically correct but the wording is slightly different from the original. The first variant is grammatically correct and the wording is very similar to the original.\"}",
+    "run_idx": 11
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate, but the second variant has a more natural flow and the first variant has some grammar and syntax errors.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate, but the second variant has a more natural flow and the first variant has some grammar and syntax errors.\"}",
+    "run_idx": 12
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax could be improved, especially the second variant. The third variant is more accurate and fluent, but the phrasing could be more concise.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax could be improved, especially the second variant. The third variant is more accurate and fluent, but the phrasing could be more concise.\"}",
+    "run_idx": 13
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax of the second variant could be improved. The third variant is more accurate and natural, but the use of the phrase 'graduated from bot school' is still a bit awkward.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax of the second variant could be improved. The third variant is more accurate and natural, but the use of the phrase 'graduated from bot school' is still a bit awkward.\"}",
+    "run_idx": 14
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but there are a few minor errors in grammar and syntax. For example, the phrase 'Must ‘ ve graduated' should be 'Must have graduated' and 'bot school' should be 'bot school' without the parenthesis. The sentiment is sarcastic, which is accurately captured in the translation.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but there are a few minor errors in grammar and syntax. For example, the phrase 'Must ‘ ve graduated' should be 'Must have graduated' and 'bot school' should be 'bot school' without the parenthesis. The sentiment is sarcastic, which is accurately captured in the translation.\"}",
+    "run_idx": 15
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but there are a few minor errors in grammar and syntax. The meaning is preserved well. The use of emojis and humor is also appropriate.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but there are a few minor errors in grammar and syntax. The meaning is preserved well. The use of emojis and humor is also appropriate.\"}",
+    "run_idx": 16
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but the phrase 'must have graduated' is not well-translated. It would be better to use a phrase like 'have graduated' or 'graduated from' instead.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but the phrase 'must have graduated' is not well-translated. It would be better to use a phrase like 'have graduated' or 'graduated from' instead.\"}",
+    "run_idx": 17
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but there are a few minor errors in grammar and syntax. The meaning is preserved well. The use of humor and the emoji are also appropriate. However, the sentence structure could be improved for better flow and clarity.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but there are a few minor errors in grammar and syntax. The meaning is preserved well. The use of humor and the emoji are also appropriate. However, the sentence structure could be improved for better flow and clarity.\"}",
+    "run_idx": 18
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has a more accurate grammar and syntax, but the second variant has a more natural flow and uses more colloquial language.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has a more accurate grammar and syntax, but the second variant has a more natural flow and uses more colloquial language.\"}",
+    "run_idx": 19
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has a more precise grammar and uses the correct word 'Bot School' instead of 'bot school'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has a more precise grammar and uses the correct word 'Bot School' instead of 'bot school'.\"}\n\nThe first two variants have major semantic and grammatical errors, such as using the incorrect word 'వ్యక్తి' instead of 'person', and using the incorrect verb 'పట్టభద్రుడ' instead of 'passed out'. The third variant has a more precise grammar and uses the correct word 'Bot School'. However, it still has a few minor errors, such as using the incorrect pronoun 'మీరు' instead of 'you'. Overall, the third variant is the best translation, followed by the first variant, and then the second variant.",
+    "run_idx": 20
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax of the third variant are slightly better than the first two variants. However, the second variant is more accurate in terms of word choice and sentence structure. The first variant has some awkward phrasing and unnecessary use of slang.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax of the third variant are slightly better than the first two variants. However, the second variant is more accurate in terms of word choice and sentence structure. The first variant has some awkward phrasing and unnecessary use of slang.\"}",
+    "run_idx": 21
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but the phrase 'must have graduated' is not appropriate. It should be replaced with a more accurate phrase, such as 'might have graduated' or 'could have graduated'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but the phrase 'must have graduated' is not appropriate. It should be replaced with a more accurate phrase, such as 'might have graduated' or 'could have graduated'.\"}",
+    "run_idx": 22
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax are mostly correct, but the word choice and sentence structure could be improved. The sentiment is accurate, but the tone is slightly more playful than the original.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax are mostly correct, but the word choice and sentence structure could be improved. The sentiment is accurate, but the tone is slightly more playful than the original.\"}",
+    "run_idx": 23
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant needs correction. The phrase 'nijazane' is not appropriate and the tense is incorrect. The third variant has a more formal tone than the original text and is also grammatically incorrect. The first variant is the closest to the original text in terms of grammar and meaning.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant needs correction. The phrase 'nijazane' is not appropriate and the tense is incorrect. The third variant has a more formal tone than the original text and is also grammatically incorrect. The first variant is the closest to the original text in terms of grammar and meaning.\"}",
+    "run_idx": 24
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the best translation, but the second variant has a few grammar errors. The first variant is not grammatically correct and uses incorrect vocabulary.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the best translation, but the second variant has a few grammar errors. The first variant is not grammatically correct and uses incorrect vocabulary.\"}",
+    "run_idx": 25
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second sentence in Variant 2 could be improved, and the third sentence in Variant 3 is unnecessarily verbose.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second sentence in Variant 2 could be improved, and the third sentence in Variant 3 is unnecessarily verbose.\"}\n\n**Overall:**\n\nThe translations are well-structured and convey the original message accurately. However, there are some minor errors in grammar and syntax.\n\n**Specific corrections:**\n\n* **Variant 1:** None.\n* **Variant 2:** The second sentence could be simplified and the third sentence should use a more concise form.\n* **Variant 3:** The third sentence is unnecessarily verbose and could be shortened.",
+    "run_idx": 26
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has a more precise grammar and usage of vocabulary, but the second variant has a more natural flow and is more faithful to the original text.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has a more precise grammar and usage of vocabulary, but the second variant has a more natural flow and is more faithful to the original text.\"}",
+    "run_idx": 27
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and fluent, but the second variant also has some good points. The first variant is a bit too verbose and not very well-structured.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and fluent, but the second variant also has some good points. The first variant is a bit too verbose and not very well-structured.\"}",
+    "run_idx": 28
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and fluent, but the second variant also has a good flow and is grammatically correct. The first variant has some awkward phrasing and incorrect grammar. The sentiment label is sarcastic, so the translation should be humorous and playful, which is achieved in the second and third variants.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and fluent, but the second variant also has a good flow and is grammatically correct. The first variant has some awkward phrasing and incorrect grammar. The sentiment label is sarcastic, so the translation should be humorous and playful, which is achieved in the second and third variants.\"}",
+    "run_idx": 29
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and fluent, but the second variant has a more natural flow and avoids the use of unnecessarily complex words like 'graduated'",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and fluent, but the second variant has a more natural flow and avoids the use of unnecessarily complex words like 'graduated'\"}\n\n**Overall:**\n\n* **Variant 1:** This variant is very poor due to major semantic and grammatical errors, such as the incorrect use of the word \"person\" and the improper grammar of the sentence structure.\n* **Variant 2:** This variant is poor due to several noticeable errors, such as the incorrect use of the word \"graduated\" and the awkward sentence structure.\n* **Variant 3:** This variant is acceptable, but it could be improved. The grammar is mostly correct, but the use of some complex words and phrases, such as \"graduated,\" may make the sentence difficult to understand for some readers.\n* **Variant 4:** This variant is good, but it could be improved. The grammar is mostly correct, and the sentence structure is natural, but the use of some colloquialisms and slang words, such as \"bot school,\" may make the sentence difficult to understand for some readers.\n* **Variant 5:** This variant is excellent. The grammar is perfect, and the sentence structure is natural and fluent.",
+    "run_idx": 30
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and natural, but the second variant also has some good points. The first variant is a bit too verbose and not as clear as the other two. The use of slang and colloquialisms is good in the second and third variants, but the grammar and syntax could be improved.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and natural, but the second variant also has some good points. The first variant is a bit too verbose and not as clear as the other two. The use of slang and colloquialisms is good in the second and third variants, but the grammar and syntax could be improved.\"}",
+    "run_idx": 31
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant could be improved. The phrase 'Must ’ ve graduated' should be 'Must have graduated' and the phrase 'Maatramm... ' should be removed.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant could be improved. The phrase 'Must ’ ve graduated' should be 'Must have graduated' and the phrase 'Maatramm... ' should be removed.\"}",
+    "run_idx": 32
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and natural, but the second variant has a more conversational tone. The first variant is grammatically incorrect and the use of slang is not appropriate. The sentiment label is sarcastic, so the translation should also convey a sense of humor.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and natural, but the second variant has a more conversational tone. The first variant is grammatically incorrect and the use of slang is not appropriate. The sentiment label is sarcastic, so the translation should also convey a sense of humor.\"}",
+    "run_idx": 33
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the best, but the second variant has an unnecessary sentence structure and the first variant has a few grammatical errors.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the best, but the second variant has an unnecessary sentence structure and the first variant has a few grammatical errors.\"}",
+    "run_idx": 34
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the best, but the second variant has a slightly better flow and uses more idiomatic Telugu. The first variant is grammatically incorrect and uses poor phrasing.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the best, but the second variant has a slightly better flow and uses more idiomatic Telugu. The first variant is grammatically incorrect and uses poor phrasing.\"}",
+    "run_idx": 35
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate, but the second variant also has some good points. The first variant is a bit too informal and the use of the phrase ‘bot school’ is not very appropriate. The sentiment label is sarcastic, so the translation should be equally sarcastic. The overall, the translations are well-written and capture the essence of the original text.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate, but the second variant also has some good points. The first variant is a bit too informal and the use of the phrase ‘bot school’ is not very appropriate. The sentiment label is sarcastic, so the translation should be equally sarcastic. The overall, the translations are well-written and capture the essence of the original text.\"}",
+    "run_idx": 36
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but there are a few minor errors in grammar and semantics. The use of colloquialisms like 'bot school' and 'mastrubate' is not appropriate. The sentiment is sarcastic, and the tone is friendly.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but there are a few minor errors in grammar and semantics. The use of colloquialisms like 'bot school' and 'mastrubate' is not appropriate. The sentiment is sarcastic, and the tone is friendly.\"}",
+    "run_idx": 37
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and natural, but the second variant has a more conversational tone. The first variant is grammatically incorrect and uses the wrong word 'person' instead of 'individual'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and natural, but the second variant has a more conversational tone. The first variant is grammatically incorrect and uses the wrong word 'person' instead of 'individual'.\"}",
+    "run_idx": 38
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax could be improved, especially in the second variant. The third variant is more accurate and natural, but the sentence structure could be simplified.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax could be improved, especially in the second variant. The third variant is more accurate and natural, but the sentence structure could be simplified.\"}",
+    "run_idx": 39
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax could be improved in all variants. Variant 2 has the most accurate grammar, but the sentence structure is a bit awkward. Variant 3 has a more natural flow, but the grammar is less accurate. Variant 1 has the most creative use of language, but the overall accuracy is lower.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax could be improved in all variants. Variant 2 has the most accurate grammar, but the sentence structure is a bit awkward. Variant 3 has a more natural flow, but the grammar is less accurate. Variant 1 has the most creative use of language, but the overall accuracy is lower.\"}",
+    "run_idx": 40
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has a more precise grammar and avoids unnecessary slang, but the second variant is more accurate in meaning and sentiment.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has a more precise grammar and avoids unnecessary slang, but the second variant is more accurate in meaning and sentiment.\"}",
+    "run_idx": 41
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has a more accurate grammar and syntax compared to the first two variants. However, the second variant has a more natural flow and uses more idiomatic language. The first variant has some syntax errors and the use of the phrase",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has a more accurate grammar and syntax compared to the first two variants. However, the second variant has a more natural flow and uses more idiomatic language. The first variant has some syntax errors and the use of the phrase \"bot school\" is not very appropriate. The sentiment label is sarcastic in all variants.\"}",
+    "run_idx": 42
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but there are some minor errors in grammar and syntax. The meaning is preserved, but the tone is slightly more formal than the original. The use of colloquialisms and the inclusion of the hashtag #trollingforthewin are well-translated.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but there are some minor errors in grammar and syntax. The meaning is preserved, but the tone is slightly more formal than the original. The use of colloquialisms and the inclusion of the hashtag #trollingforthewin are well-translated.\"}",
+    "run_idx": 43
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the best translation, but the second variant has an unnecessary phrase 'nijazane' which makes the sentence sound unnecessarily harsh. The first variant has a few grammatical errors and is difficult to understand.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the best translation, but the second variant has an unnecessary phrase 'nijazane' which makes the sentence sound unnecessarily harsh. The first variant has a few grammatical errors and is difficult to understand.\"}",
+    "run_idx": 44
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate, but the second variant has a more natural flow and uses more idiomatic Telugu. The first variant is grammatically incorrect and uses incorrect vocabulary.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate, but the second variant has a more natural flow and uses more idiomatic Telugu. The first variant is grammatically incorrect and uses incorrect vocabulary.\"}",
+    "run_idx": 45
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax could be improved in all variants, especially Variant 2. The use of colloquialisms like 'bot school' and 'pattabhedaru' is not ideal and could be replaced with more formal language. The sentiment label is accurate, although the sarcastic tone is slightly diluted in Variant 3 due to the use of more formal language.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax could be improved in all variants, especially Variant 2. The use of colloquialisms like 'bot school' and 'pattabhedaru' is not ideal and could be replaced with more formal language. The sentiment label is accurate, although the sarcastic tone is slightly diluted in Variant 3 due to the use of more formal language.\"}",
+    "run_idx": 46
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax could be improved in all variants. Variant 2 has a more natural flow and uses more idiomatic language. Variant 3 is grammatically correct, but the wording is slightly awkward. The sentiment is accurately captured in all variants, but the tone is slightly more sarcastic in Variant 2.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax could be improved in all variants. Variant 2 has a more natural flow and uses more idiomatic language. Variant 3 is grammatically correct, but the wording is slightly awkward. The sentiment is accurately captured in all variants, but the tone is slightly more sarcastic in Variant 2.\"}",
+    "run_idx": 47
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and natural, but the second variant has a more conversational tone and the first variant has some grammatical errors.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and natural, but the second variant has a more conversational tone and the first variant has some grammatical errors.\"}",
+    "run_idx": 48
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has a more accurate grammar and syntax compared to the first two variants. But the usage of the phrase 'bot school' is still a bit colloquial and could be replaced with a more formal term.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has a more accurate grammar and syntax compared to the first two variants. But the usage of the phrase 'bot school' is still a bit colloquial and could be replaced with a more formal term.\"}",
+    "run_idx": 49
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax could be improved, but the meaning is mostly preserved.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax could be improved, but the meaning is mostly preserved.\"}\n\n**Analysis:**\n\n* **Variant 1:** This variant is well-translated in terms of meaning, but the grammar and syntax could be improved. The use of the phrase \"ఖచ్చితంగా\" (definitely) is a bit redundant and could be removed.\n* **Variant 2:** This variant is also well-translated in terms of meaning, but the grammar and syntax could be improved. The use of the phrase \"nijazane\" (certainly) is not appropriate in this context.\n* **Variant 3:** This variant is the closest to the original text in terms of grammar and syntax. However, the use of the phrase \"Bot School\" instead of \"bot school\" is a bit awkward.\n\nOverall, the translations are well-translated in terms of meaning, but the grammar and syntax could be improved. The sentiment label is SARCASTIC, so the tone of the translation should be humorous and sarcastic.",
+    "run_idx": 50
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has a more accurate grammar and syntax compared to the first two variants. However, the first two variants are still understandable and convey the sentiment of the original text well.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has a more accurate grammar and syntax compared to the first two variants. However, the first two variants are still understandable and convey the sentiment of the original text well.\"}",
+    "run_idx": 51
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant could be improved, and the third variant uses the phrase 'Bot School' instead of 'bot school'. Otherwise, all variants are grammatically correct and convey the sentiment of the original text accurately.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant could be improved, and the third variant uses the phrase 'Bot School' instead of 'bot school'. Otherwise, all variants are grammatically correct and convey the sentiment of the original text accurately.\"}",
+    "run_idx": 52
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant could be improved. The word 'pattabhedaru' is not the best synonym for 'graduated' in this context.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant could be improved. The word 'pattabhedaru' is not the best synonym for 'graduated' in this context.\"}",
+    "run_idx": 53
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but there are some minor errors in grammar and word choice. For example, the phrase 'Must ‘ ve graduated' should be 'Must have graduated' and the phrase 'bot school' should be 'bot school' without the parentheses.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but there are some minor errors in grammar and word choice. For example, the phrase 'Must ‘ ve graduated' should be 'Must have graduated' and the phrase 'bot school' should be 'bot school' without the parentheses.\"}",
+    "run_idx": 54
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant needs to be improved. The phrase 'must have graduated' should be 'must have graduated from' and 'bot school' should be 'bot school' instead of 'bot school (Bot School).",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant needs to be improved. The phrase 'must have graduated' should be 'must have graduated from' and 'bot school' should be 'bot school' instead of 'bot school (Bot School).\"}",
+    "run_idx": 55
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second sentence needs to be improved. The phrase 'Must ’ ve graduated' is incorrect. It should be 'Must have graduated'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second sentence needs to be improved. The phrase 'Must ’ ve graduated' is incorrect. It should be 'Must have graduated'.\"}",
+    "run_idx": 56
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has a more accurate grammar and syntax compared to the first two variants. However, the second variant is more concise and natural in Telugu. The first variant has some awkward phrasing and unnecessary use of slang.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has a more accurate grammar and syntax compared to the first two variants. However, the second variant is more concise and natural in Telugu. The first variant has some awkward phrasing and unnecessary use of slang.\"}",
+    "run_idx": 57
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax could be improved, particularly in the second variant. The third variant is closer to the original text in terms of grammar and syntax, but the use of the phrase 'graduated from bot school' is not quite fitting. The sentiment is accurate, but the tone is a bit more playful in the original text.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax could be improved, particularly in the second variant. The third variant is closer to the original text in terms of grammar and syntax, but the use of the phrase 'graduated from bot school' is not quite fitting. The sentiment is accurate, but the tone is a bit more playful in the original text.\"}",
+    "run_idx": 58
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the best translation, but the second variant has a few grammar errors and the first variant has a few semantic errors.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the best translation, but the second variant has a few grammar errors and the first variant has a few semantic errors.\"}",
+    "run_idx": 59
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but the use of the phrase ‘bot school’ is a bit colloquial and could be replaced with a more formal synonym.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but the use of the phrase ‘bot school’ is a bit colloquial and could be replaced with a more formal synonym.\"}",
+    "run_idx": 60
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and natural, but the second variant also has some good points. The first variant has some grammatical errors and uses a slightly different phrasing than the original text. The sentiment label is sarcastic, so the translation should be similarly sardonic.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and natural, but the second variant also has some good points. The first variant has some grammatical errors and uses a slightly different phrasing than the original text. The sentiment label is sarcastic, so the translation should be similarly sardonic.\"}",
+    "run_idx": 61
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the best translation, but the second variant also has a good level of accuracy. The first variant is not as accurate due to the incorrect use of the phrase 'must have graduated' and the unnecessary addition of 'that you called me'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the best translation, but the second variant also has a good level of accuracy. The first variant is not as accurate due to the incorrect use of the phrase 'must have graduated' and the unnecessary addition of 'that you called me'.\"}",
+    "run_idx": 62
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but there are some minor errors in grammar and syntax. For example, the use of the phrase 'must have graduated' is incorrect in the second variant. The correct phrase is 'must have graduated' in the third variant.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but there are some minor errors in grammar and syntax. For example, the use of the phrase 'must have graduated' is incorrect in the second variant. The correct phrase is 'must have graduated' in the third variant.\"}",
+    "run_idx": 63
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant is slightly incorrect. The word 'pattabhbaradru' should be 'pattabhbaradaru'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant is slightly incorrect. The word 'pattabhbaradru' should be 'pattabhbaradaru'.\"}\n\nThe first and third variants are grammatically correct and accurately translate the original text. The second variant has some grammatical errors, such as the incorrect use of the word 'pattabhbaradru'.",
+    "run_idx": 64
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has the most accurate grammar and syntax, but the second variant has a more natural flow and better use of colloquialisms.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has the most accurate grammar and syntax, but the second variant has a more natural flow and better use of colloquialisms.\"}",
+    "run_idx": 65
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the best translation, but the second variant has a more natural flow and uses more idiomatic Telugu. The first variant is grammatically incorrect and uses the wrong word 'person' instead of 'individual'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the best translation, but the second variant has a more natural flow and uses more idiomatic Telugu. The first variant is grammatically incorrect and uses the wrong word 'person' instead of 'individual'.\"}",
+    "run_idx": 66
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has a more precise use of the word 'graduated' and 'bot school', but the second variant's humor is more effective due to its use of colloquialisms like 'nijazane' and 'armastmately'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has a more precise use of the word 'graduated' and 'bot school', but the second variant's humor is more effective due to its use of colloquialisms like 'nijazane' and 'armastmately'.\"}",
+    "run_idx": 67
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant could be improved. The word 'pattabhedaru' is not a common word in Telugu and could be replaced with a more common synonym, such as 'paadikulu'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant could be improved. The word 'pattabhedaru' is not a common word in Telugu and could be replaced with a more common synonym, such as 'paadikulu'.\"}\n\n**Overall:**\n\nThe translations are generally well-translated, but there are a few errors. The first and third variants are very similar to the original text, while the second variant has some grammar and word choice issues. The sentiment label is accurate, as the translations are all sarcastic.\n\n**Specific corrections:**\n\n* **Variant 2:** Replace \"pattabhedaru\" with \"paadikulu\".\n* **Variant 3:** Correct the grammar of \"graaduated\" to \"graduated\".",
+    "run_idx": 68
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has a more accurate grammar and syntax compared to the first two variants. However, the second variant is more concise and natural in Telugu. The first variant has some awkward phrasing and unnecessary use of slang words.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has a more accurate grammar and syntax compared to the first two variants. However, the second variant is more concise and natural in Telugu. The first variant has some awkward phrasing and unnecessary use of slang words.\"}",
+    "run_idx": 69
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant could be improved, and the third variant uses a more formal tone than the original text.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant could be improved, and the third variant uses a more formal tone than the original text.\"}\n\n**Overall:**\n\nThe translations are well-written and capture the meaning of the original text accurately. However, there are some minor errors in grammar and syntax, particularly in the second variant. The third variant uses a more formal tone than the original text, which may not be appropriate for the intended audience.\n\n**Corrections:**\n\n* **Variant 1:** None\n* **Variant 2:** Improve the grammar of the sentence \"nijazane... mastram... pattabhadhrudu\" to be more concise and accurate.\n* **Variant 3:** Change the tone to be more conversational and less formal.",
+    "run_idx": 70
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and natural, but the second variant has a more sarcastic tone.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and natural, but the second variant has a more sarcastic tone.\"}\n\n**Explanation:**\n\n* **Variant 1:** This variant is very close to the original text, but the use of the phrase \"ఖచ్చితంగా” (khachihta) is a bit excessive and not natural in Telugu. \n* **Variant 2:** This variant is also close to the original text, but the use of the phrase \"nijazane\" (nijazane) is not appropriate in this context.\n* **Variant 3:** This variant is the most accurate and natural translation, with minor errors in grammar and syntax.\n\nOverall, the translations are of good quality, but the third variant is the most accurate and natural translation.",
+    "run_idx": 71
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant could be improved, and the third variant uses the phrase 'bot school' instead of 'bot school' as specified in the original text.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant could be improved, and the third variant uses the phrase 'bot school' instead of 'bot school' as specified in the original text.\"}",
+    "run_idx": 72
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate, but the second variant has a more natural flow and uses more idiomatic Telugu. The first variant is grammatically incorrect and uses poor word choice.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate, but the second variant has a more natural flow and uses more idiomatic Telugu. The first variant is grammatically incorrect and uses poor word choice.\"}",
+    "run_idx": 73
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax could be improved, but the meaning is mostly preserved. The use of colloquialisms like 'bot school' and 'trollingforthewin' is appropriate for the context.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax could be improved, but the meaning is mostly preserved. The use of colloquialisms like 'bot school' and 'trollingforthewin' is appropriate for the context.\"}",
+    "run_idx": 74
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the best translation, but the second variant has a few grammar and semantic errors. The first variant is too verbose and not very clear.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the best translation, but the second variant has a few grammar and semantic errors. The first variant is too verbose and not very clear.\"}",
+    "run_idx": 75
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and fluent, but the second variant also has some good points. The first variant has some major semantic errors and the use of slang terms like ‘bot school’ might be confusing for some. The sentiment label is sarcastic, so the translation should also convey the same tone.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and fluent, but the second variant also has some good points. The first variant has some major semantic errors and the use of slang terms like ‘bot school’ might be confusing for some. The sentiment label is sarcastic, so the translation should also convey the same tone.\"}",
+    "run_idx": 76
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the best translation, but the second variant has an issue with the phrase 'nijazane' and the first variant has an issue with the phrase 'must'",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the best translation, but the second variant has an issue with the phrase 'nijazane' and the first variant has an issue with the phrase 'must'\"}\n\n**Explanation:**\n\n* **Variant 1:** The phrase \"nijazane\" is not appropriate in this context and sounds unnatural. \n* **Variant 2:** The phrase \"must have graduated\" is grammatically incorrect.\n* **Variant 3:** This variant is the best translation overall, with only minor errors.\n\nThe sentiment label is SARCASTIC, so the translation should be humorous and convey the sarcastic tone of the original text.",
+    "run_idx": 77
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax are mostly correct, but the use of colloquialisms like 'bot school' and the sarcastic tone may not be understood by all. The overall flow and meaning are preserved, but the use of some colloquialisms and the overall tone could be improved.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax are mostly correct, but the use of colloquialisms like 'bot school' and the sarcastic tone may not be understood by all. The overall flow and meaning are preserved, but the use of some colloquialisms and the overall tone could be improved.\"}",
+    "run_idx": 78
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and fluent, but the second variant also has some good points. The first variant has some major semantic and grammatical errors.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and fluent, but the second variant also has some good points. The first variant has some major semantic and grammatical errors.\"}",
+    "run_idx": 79
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has the most accurate grammar and syntax, but the second variant has a more natural flow and uses more idiomatic Telugu phrases.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has the most accurate grammar and syntax, but the second variant has a more natural flow and uses more idiomatic Telugu phrases.\"}",
+    "run_idx": 80
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the best, but the second variant has a few grammar errors and the first variant has a few semantic errors.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the best, but the second variant has a few grammar errors and the first variant has a few semantic errors.\"}",
+    "run_idx": 81
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and fluent, but the second variant also has some good points. The first variant is grammatically incorrect and the use of slang is not appropriate. The sentiment label is sarcastic, so the translation should be equally sarcastic.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and fluent, but the second variant also has some good points. The first variant is grammatically incorrect and the use of slang is not appropriate. The sentiment label is sarcastic, so the translation should be equally sarcastic.\"}",
+    "run_idx": 82
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar and syntax of the second variant could be improved. The use of colloquialisms like 'bot school' and 'pattabhedaru' may be understood by some but not everyone. The sentiment is accurate but slightly exaggerated due to the humoristic intent.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar and syntax of the second variant could be improved. The use of colloquialisms like 'bot school' and 'pattabhedaru' may be understood by some but not everyone. The sentiment is accurate but slightly exaggerated due to the humoristic intent.\"}",
+    "run_idx": 83
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and fluent, but the second variant also has some good points. The first variant is less accurate and has some grammatical errors.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and fluent, but the second variant also has some good points. The first variant is less accurate and has some grammatical errors.\"}",
+    "run_idx": 84
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but there are some minor errors in grammar and word choice. For example, the phrase 'Must ’ ve graduated' could be replaced with 'Must have graduated' for better grammar and flow. The use of the phrase 'bot school' is also a bit colloquial and could be replaced with a more formal term, such as 'school of technology'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but there are some minor errors in grammar and word choice. For example, the phrase 'Must ’ ve graduated' could be replaced with 'Must have graduated' for better grammar and flow. The use of the phrase 'bot school' is also a bit colloquial and could be replaced with a more formal term, such as 'school of technology'.\"}",
+    "run_idx": 85
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but there are a few minor errors in grammar and semantics. For example, the phrase 'Must ‘ ve graduated' should be 'Must have graduated', and the phrase 'bot school' should be 'bot school' instead of 'Bot School'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but there are a few minor errors in grammar and semantics. For example, the phrase 'Must ‘ ve graduated' should be 'Must have graduated', and the phrase 'bot school' should be 'bot school' instead of 'Bot School'.\"}",
+    "run_idx": 86
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate, but the second variant also has some good points. The first variant is grammatically incorrect and lacks clarity. The sentiment label is sarcastic, so the translation should be equally sarcastic. The overall translation quality is acceptable, but there are some minor errors.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate, but the second variant also has some good points. The first variant is grammatically incorrect and lacks clarity. The sentiment label is sarcastic, so the translation should be equally sarcastic. The overall translation quality is acceptable, but there are some minor errors.\"}",
+    "run_idx": 87
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the best translation, but the second variant has an issue with the phrase 'nijazane' and the first variant has an issue with the phrase 'Must ‘ ve graduated'",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the best translation, but the second variant has an issue with the phrase 'nijazane' and the first variant has an issue with the phrase 'Must ‘ ve graduated'\"}\n\n**Overall:**\n\n* **Variant 1:** The grammar and syntax are mostly correct, but the phrase \"nijazane\" is not appropriate in this context. The sentiment is also slightly off, as the tone is more playful than sarcastic.\n* **Variant 2:** The grammar and syntax are mostly correct, but the phrase \"nijazane\" is not appropriate. The sentiment is also slightly off, as the tone is more playful than sarcastic.\n* **Variant 3:** The grammar and syntax are perfect, and the sentiment is accurately conveyed.\n\nTherefore, the third variant is the best translation, followed by the second variant, and then the first variant.",
+    "run_idx": 88
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but there are a few minor errors in grammar and syntax. For example, the phrase 'Must ’ ve graduated' should be 'Must have graduated.'",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but there are a few minor errors in grammar and syntax. For example, the phrase 'Must ’ ve graduated' should be 'Must have graduated.'\"}",
+    "run_idx": 89
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant could be improved. The third variant is grammatically correct, but the use of the word 'graduated' is not fitting in the context.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant could be improved. The third variant is grammatically correct, but the use of the word 'graduated' is not fitting in the context.\"}",
+    "run_idx": 90
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The translation is mostly accurate, but there are some minor errors in grammar and syntax. For example, the phrase 'Must ‘ ve graduated' should be 'Must have graduated' and the phrase 'bot school' should be 'bot school' without the parenthesis. The sentiment label is sarcastic.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The translation is mostly accurate, but there are some minor errors in grammar and syntax. For example, the phrase 'Must ‘ ve graduated' should be 'Must have graduated' and the phrase 'bot school' should be 'bot school' without the parenthesis. The sentiment label is sarcastic.\"}",
+    "run_idx": 91
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant could be improved, and the wording of the third variant could be more concise.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant could be improved, and the wording of the third variant could be more concise.\"}\n\n**Overall:**\n\n* **Variant 1:** The translation is well-written, with accurate grammar and natural phrasing. However, the use of the phrase \"ఖచ్చితంగా” (definitely) is a bit excessive and could be toned down.\n* **Variant 2:** The translation is accurate, but the wording is a bit verbose and could be simplified. The use of the phrase \"nijazane\" is also not very appropriate in this context.\n* **Variant 3:** The translation is accurate, but the wording is very verbose and could be more concise. The use of the phrase \"gradleuate\" is also not very appropriate.\n\n**Overall, the translations are of good quality, but there are some areas where they could be improved.**",
+    "run_idx": 92
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and fluent, but the second variant has some grammatical errors. The first variant is completely wrong and incomprehensible. The sentiment label is sarcastic, so the translation should be equally sarcastic.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and fluent, but the second variant has some grammatical errors. The first variant is completely wrong and incomprehensible. The sentiment label is sarcastic, so the translation should be equally sarcastic.\"}",
+    "run_idx": 93
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant is the most accurate and fluent, but the second variant also has some good points. The first variant has some major semantic and grammatical errors. The sentiment label is sarcastic in all variants.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant is the most accurate and fluent, but the second variant also has some good points. The first variant has some major semantic and grammatical errors. The sentiment label is sarcastic in all variants.\"}",
+    "run_idx": 94
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second sentence in all variants needs to be corrected. The correct version is: @USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second sentence in all variants needs to be corrected. The correct version is: @USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>\"}",
+    "run_idx": 95
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant could be improved. The phrase 'nijazane' is unnecessary and the word 'maatra' is not the best synonym for 'graduated'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant could be improved. The phrase 'nijazane' is unnecessary and the word 'maatra' is not the best synonym for 'graduated'.\"}",
+    "run_idx": 96
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant needs to be improved. The word 'pattabhedaru' is not the correct word to use in this context. It should be 'passed' instead.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant needs to be improved. The word 'pattabhedaru' is not the correct word to use in this context. It should be 'passed' instead.\"}",
+    "run_idx": 97
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The grammar of the second variant needs to be corrected for clarity and fluency. The third variant is grammatically correct, but the use of the phrase 'graduated from bot school' is not fitting in the context.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The grammar of the second variant needs to be corrected for clarity and fluency. The third variant is grammatically correct, but the use of the phrase 'graduated from bot school' is not fitting in the context.\"}",
+    "run_idx": 98
+  },
+  {
+    "input": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC",
+    "score": 3,
+    "corrections": "The third variant has a more precise grammar and uses the correct word 'Bot School' instead of 'bot school'. However, the second variant is also acceptable as it correctly identifies the user as a person and uses the appropriate slang term 'వ్యక్తి' in Telugu. The first variant is poor due to incorrect grammar and the use of the inappropriate slang term 'వ్యక్తి'.",
+    "raw_response": "{\"score\": 3, \"corrections\": \"The third variant has a more precise grammar and uses the correct word 'Bot School' instead of 'bot school'. However, the second variant is also acceptable as it correctly identifies the user as a person and uses the appropriate slang term 'వ్యక్తి' in Telugu. The first variant is poor due to incorrect grammar and the use of the inappropriate slang term 'వ్యక్తి'.\"}",
+    "run_idx": 99
+  }
+]

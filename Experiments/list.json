@@ -1,0 +1,27 @@
+[
+  {
+    "Experiment": "Check if the output of the model changes with the iterations for around 100 iterations",
+    "OutputFile": "Outputs/Recursive Test",
+    "Results": "The model series of NiuTrans-LMT fails to be same across multiple iterations, hence we might not use it in a pipeline"
+  },
+  {
+    "Experiment": "Extract embeddings from each sample in English and use the embeddings of translated output in Telugu and check similarity",
+    "OutputFile": "Outputs/Embeddings Test",
+    "Results": "Meeting-01-04-2026"
+  },
+  {
+    "Experiment": "Use all the deterministic model's outputs to get a refined output from Chimera model of Tencent.",
+    "OutputFile": "Outputs/Refined Test V1",
+    "Results": ""
+  },
+  {
+    "Experiment": "Check if all the judges are giving correct mistakes and scores across multiple iterations",
+    "OutputFile": "Outputs/Judges Recursive",
+    "Results": ""
+  },
+  {
+    "Experiment": "Use a combination of Instruct Models, refined outputs from deterministic models to form a new refined output.",
+    "OutputFile": "Outputs/Refined Test V2",
+    "Results": ""
+  }
+]

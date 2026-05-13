@@ -1,0 +1,47 @@
+[
+  {
+    "input_text": "@USER is that you called me a person . Must ’ ve graduated from bot school . 😇 #trollingforthewin <URL>",
+    "utterence": [
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? మీరు ఖచ్చితంగా “బోట్ స్కూల్” (bot school) నుండి పట్టభద్రుడయ్యారు! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారు! నిజానే మీరు “బోట్ స్కూల్” (bot school) నుండి మాత్రమే పట్టభద్రుడయ్యారనే అర్థం! 😇 #trollingforthewin <URL>",
+      "@USER… మీరు నన్ని “వ్యక్తి” అని పిలిచారా? ఖచ్చితంగా మీరు “బోట్ స్కూల్” (Bot School) నుండి గ్రాడ్యుయేట్ అయి ఉండారు! 😇 #trollingforthewin <URL>"
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "input_text": "@USER @USER @USER Aye & yet they still lost to The SNP really badly , fucking Muppets . Now their trying to tell SNP they don't have a majority when they do , fucking is hilarious . If they have a problem about the voting system them change it , campaign for change so that it's easier to vote .",
+    "utterence": [
+      "@USER @USER @USER అవును… ఇప్పటికీ వారు SNP కు చాలా తీవ్రంగా ఓడిపోయారు! ఇప్పుడు వారు “వారికి మెజారిటీ లేదు” అని చెప్పడానికి ప్రయత్నిస్తున్నారు; ఇది నిజంగా హాస్యాస్పదం! ఒకవేళ ఓటింగ్ వ్యవస్థలో వారికి సమస్య ఉంటే, దాన్ని మార్చండి; ఓటు వేయడం సులభం కావడానికి ప్రయత్నించండి.",
+      "@USER @USER @USER అవును… మరియు ఇప్పటికీ వారు SNP కు చాలా తీవ్రంగా ఓడిపోయారు! ఇప్పుడు వారు “వారికి మెజారిటీ లేదు” అని SNP కు చెప్పడానికి ప్రయత్నిస్తున్నారు; ఇది నిజంగా హాస్యాస్పదం! ఒకవేళ ఓటింగ్ వ్యవస్థలో ఏదైనా సమస్య ఉంటే, దాన్ని మార్చండి; ఓటు వేయడం సులభం కావడానికి ప్రయత్నించండి.",
+      "@USER @USER @USER అవును… ఇప్పటికీ వారు SNP కు చాలా తీవ్రంగా ఓడిపోయారు! ఇప్పుడు వారు “వారికి మెజారిటీ లేదు” అని చెప్పడానికి ప్రయత్నిస్తున్నారు; ఇది నిజంగా హాస్యాస్పదం! ఒకవేళ ఓటింగ్ వ్యవస్థలో వారికి సమస్య ఉంటే, దాన్ని మార్చండి; ఓటు వేయడం సులభం కావడానికి ప్రయత్నించండి."
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "input_text": "@USER @USER Yes , Rey should have been given the stunningly creative costume design of ... a sleeveless T-Shirt and some jeans .",
+    "utterence": [
+      "@USER @USER హౌదు, రేకు “స్లీవ్‌లెస్ టీ-షర్ట్” మరియు జీన్స్” అనే అద్భుతమైన, సృజనాత్మక డిజైన్‌ను మాత్రమే ఇవ్వాలి!",
+      "@USER @USER హౌదు, రేకు “స్లీవ్-లెస్ టీ-షర్ట్” మరియు జీన్స్” అనే అద్భుతమైన, సృజనాత్మక డిజైన్‌ను మాత్రమే ఇవ్వాలి!",
+      "@USER @USER హౌదు, రేకు “స్లీవ్‌లెస్ టీ-షర్ట్” మరియు కొన్ని జీన్స్” అనే అద్భుతమైన, సృజనాత్మక డిజైన్‌ను మాత్రమే ఇవ్వాలి!"
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "input_text": "@USER @USER @USER Yeah , as if raising tuition and fees had anything to do with a party affiliation . intended . I think that cat in your photo has more brains than you .",
+    "utterence": [
+      "@USER @USER @USER హౌదు… ట్యూషన్/ఫీజులను పెంచడం మరియు పార్టీ సంబంధాలతో ఏమీ సంబంధం ఉందని? మీ ఫోటోలోని పిల్లికి మీ కంటే ఎక్కువ మెదడు ఉంటుందని నేను అనుకుంటున్నాను!",
+      "@USER @USER @USER అవును… ట్యూషన్ మరియు ఫీజులను పెంచడం ఏదైనా పార్టీ సంబంధంతో సంబంధం కలిగి ఉంటుందని భావించడం అర్థహీనం! మీ ఫోటోలోని పిల్లికి మీ కంటే ఎక్కువ మెదడు ఉంటుందని నేను అనుకుంటున్నాను.",
+      "@USER @USER @USER అవును… ట్యూషన్ మరియు ఫీజులను పెంచడం ఏదైనా పార్టీ సంబంధంతో సంబంధం కలిగి ఉంటుందని భావించడం అర్థహీనం! మీ ఫోటోలోని పిల్లికి మీ కంటే ఎక్కువ మెదడు ఉంటుందని నేను అనుకుంటున్నాను."
+    ],
+    "label": "SARCASTIC"
+  },
+  {
+    "input_text": "@USER @USER I feel safe ? Wonderful to have #Boris in charge . sorry I can't help myself",
+    "utterence": [
+      "@USER @USER నాకు సురక్షితంగా అని భావిస్తుంది! #బోరిస్ అధికారంలో ఉండటం అద్భుతంగా ఉంది… క్షమించండి, నేను ఎలాంటి సహాయం చేయలేను!",
+      "@USER @USER నాకు సురక్షితత అని భావిస్తుంది! #బోరిస్ అధికారంలో ఉండటం చాలా అద్భుతం. క్షమించండి… నేను ఏమీ చేయలేను!",
+      "@USER @USER నాకు సురక్షితంగా అని భావిస్తుంది! #బోరిస్ అధికారంలో ఉన్నటం అద్భుతం. క్షమిస్తేను…"
+    ],
+    "label": "SARCASTIC"
+  }
+]
