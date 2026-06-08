@@ -1,0 +1,50 @@
+[
+  {
+    "uid": "8dbffb2296279bb3",
+    "input_text": "Clearly PDB wants Larsson",
+    "label": "SARCASTIC",
+    "source": "sarc"
+  },
+  {
+    "uid": "a33afbad0734eeec",
+    "input_text": "I'm a handyman and used to be a live-in maintenance man, ladies would flush tampons ALL time, causing me to clear them out, or one Christmas, I had to clear out the sewage main because people flushed tampons and condoms down the toilet, SO how I wanted to spend Christmas!",
+    "label": "SARCASTIC",
+    "source": "sarc"
+  },
+  {
+    "uid": "cf2751f87842398e",
+    "input_text": "Played by Benedict Cumberbatch.",
+    "label": "SARCASTIC",
+    "source": "sarc"
+  },
+  {
+    "uid": "03200a575a5d26d1",
+    "input_text": "From the bible, of course.",
+    "label": "NOT_SARCASTIC",
+    "source": "sarc"
+  },
+  {
+    "uid": "1df3d6016362a967",
+    "input_text": "Counter-Strike: Global Offensive, Update incoming",
+    "label": "NOT_SARCASTIC",
+    "source": "sarc"
+  },
+  {
+    "uid": "8590183d0aaa8af9",
+    "input_text": "This is terrible news, if Bernie wins America will collapse.",
+    "label": "NOT_SARCASTIC",
+    "source": "sarc"
+  },
+  {
+    "uid": "2b388ae8197e9915",
+    "input_text": "Just because 1/5 of an income that high is more than enough to live comfortably on, and the 4/5 can be put to good use in science/health/infrastructure/welfare rather than sitting around in a bank, or being spent on frivolous bullshit.",
+    "label": "NOT_SARCASTIC",
+    "source": "sarc"
+  },
+  {
+    "uid": "ad281945147964b8",
+    "input_text": "Because your body is filthy and horrible.",
+    "label": "SARCASTIC",
+    "source": "sarc"
+  }
+]
